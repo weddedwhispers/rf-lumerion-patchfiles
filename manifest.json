@@ -102443,15 +102443,5 @@
     "Path": "SpriteImage/common/common/worldmap/map1_2.spr",
     "Hash": "9d636e5d8715dfa5352f8d5bc928de0183600a9270650eaa71955f82f95014fd",
     "Size": 524324
-  },
-  {
-    "Path": "RF_Online.bin",
-    "Hash": "ca56558596b096f225d10b73659cd1391e467cab6204202eb63bce292b68e7e0",
-    "Size": 8274432
-  },
-  {
-    "Path": "sirin-launcher.dll",
-    "Hash": "e7c1d52a992af0f468c5f5be26ac27ea87a379787599112905bec75c147f3e74",
-    "Size": 4530176
   }
 ]
