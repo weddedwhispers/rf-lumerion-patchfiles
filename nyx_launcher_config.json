@@ -1,0 +1,18 @@
+{
+  "GameSettings": {
+    "LoginAddr": "103.180.124.5",
+    "LoginPort": 10001,
+    "ZoneAddr": "103.180.124.5",
+    "ZonePort": 27780,
+    "Nation": 3,
+    "GamePath": "D:\\RF SNUG\\RF Snug\\Client"
+  },
+  "LauncherSettings": {
+    "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/manifest.json",
+    "FilesBaseUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/",
+    "WebsiteUrl": "https://www.official-rflumerion.com",
+    "DiscordUrl": "https://discord.gg/TcECfhwT",
+    "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
+    "PatchDirectories": ["datatable", "Chef"]
+  }
+}
