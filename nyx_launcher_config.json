@@ -12,6 +12,7 @@
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.gg/TcECfhwT",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
-    "PatchDirectories": ["datatable", "Chef"]
+    "PatchDirectories": ["Chef", "datatable", "Item", "SpriteImage"]
   }
 }
+
