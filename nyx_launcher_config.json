@@ -13,6 +13,6 @@
     "DiscordUrl": "https://discord.gg/TcECfhwT",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
     "PatchDirectories": ["Chef", "datatable", "Item", "SpriteImage"],
-    "AutoUpdate": true
+    "AutoUpdate": false
   }
 }
