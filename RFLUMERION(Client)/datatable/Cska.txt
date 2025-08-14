@@ -1,0 +1,62 @@
+// Cska.txt는 DataTable 폴더상에 존재해야 한다.
+// NORMAL은 상대방으로부터 받을 때, AVATAR는 본인이 보낼 때 사용.
+// Marker가 존재하지 않을 때도 ""은 있어야 한다.
+
+//Name					Red		Green		Blue		Alpha		Marker
+#NORMAL				255		255		255		255		"[N]"		// 일반 채팅
+#AVATAR					255		255		255		255		"[N]"
+
+#SYSTEM				255		166		112		255		"[S]"		// 클라이언트 시스템 메시지
+
+#PARTY_NORMAL				231		252		1		255		"[P]"		// 파티 채팅
+#PARTY_AVATAR				231		252		1		255		"[P]"
+
+#GUILD_NORMAL				51    	  	153	  	255		255		"[G]"		// 길드 채팅
+#GUILD_AVATAR				51     	 	153	       	255		255		"[G]"
+
+#WHISPER_NORMAL			16		221		16		255		"[W]"		// 귓속말 채팅
+#WHISPER_AVATAR			16		221		16		255		"[W]"
+
+#MAP_NORMAL				255		153		0		255		"[Z]"		// 맵 채팅
+#MAP_AVATAR				255		153		0		255		"[Z]"
+
+#RACEBOSS_NORMAL			102		255		255		255		"[R]"		// 종족장/부종족장 채팅
+#RACEBOSS_AVATAR			102		255		255		255		"[R]"
+
+#RACEBOSS_ACCRETIA			255		84		198		255		"[아크]"		// 운영자 모드
+#RACEBOSS_BELLATO			255		84		198		255		"[벨라]"
+#RACEBOSS_CORA			255		84		198		255		"[코라]"
+
+#GUILDSENATOR_NORMAL			15		170		255		255		"[C]" 		// 길드 위원회 채팅
+#GUILDSENATOR_AVATAR			15		170		255		255		"[C]"
+
+#RACE					2		252		249		255		"[B]"		// 국가 채팅
+#NOTIFY					255   		100    		100		255		"[I]"		// 서버 공지 메시지
+#TIP					152		171		170		255		"[H]"		// 도움말 메시지
+#STYLE					0		0		0		0		""		// 색상 테스트 메시지(Dummy)
+#SCRAMBLE				161		255		85		255		""		// 색상 테스트 메시지(Dummy)
+
+#BUDDY_LOGIN_MSG			255		255		0		255		""		// 친구나 길드원 들어올때 메세지
+
+#CHAT_TO_ALL				154		180		255		255		"[A]"		// 전체 채팅
+#GREETING_GM				255		84		198		255		"[GM공지]"	// GM 그리팅
+#GREETING_RACE				2    		252    		249		255		"[족장공지]"	// 족장 그리팅
+#GREETING_GUILD				0     		120    	 	255		255		"[길드공지]"	// 길마 그리팅
+#GUILD_MASTER				0		120		255		255		"[D]"    	  	// 족장진, 길마 등 대표단 채팅
+	
+#GUILD_MASTER_NORMAL			0		153		255		255		"[M]"    		// 길마가 보낸 채팅
+#GUILD_MASTER_AVATAR			0		153		255		255		"[M]"  		// 길마가 보낸 채팅
+
+#DARKHOLE_ITEM      			243		164		255		255		""          		// 다크홀 보상 아이템 표시
+#TRADE					255		204		255		255		"[T]"		// 트레이드 채팅
+
+#GUILD_ADVANCE_MASTER			0		102		255		255		""		// 길드마스터
+#GUILD_ADVANCE_COMMITTEE		51		102		255		255		""		// 길드위원회
+#GUILD_ADVANCE_MEMBER			51		102		255		255		""		// 길드원
+#RACE_COMMITTEE			204		0		0		255		""		// 족장 기사단
+#BATTLE_GENERAL			255		51		51		255		""		// 메인 쟁 사령관
+#BATTLE_RVR_GENERAL			204		0		0		255		""		// 레벨 쟁 총지휘관
+#BATTLE_RVR_COMMITTEE			204		0		0		255		""		// 레벨 쟁 부지휘관
+
+
+//End of File
