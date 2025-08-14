@@ -201,7 +201,7 @@
   },
   {
     "Path": "datatable/item.edf",
-    "Hash": "038d55c946c9a827e7e658e8e67fc8360b8361aed7a82f006b6c766155e8ed55",
+    "Hash": "03032bdb69a32ae8fdd29c60b460bd1f0a5f3ef71b20892f0bb8a340fd6019ed",
     "Size": 19317583
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "Path": "datatable/quest.edf",
-    "Hash": "a827f91de02dd5fe105deb36a5ba17d7970914cfa10b7d3d103d54ed9653cd1e",
+    "Hash": "ccf107f504a74af57a66976dc57a13e9e1b9b1ba1a252c60a225ab7110ec12fc",
     "Size": 1276641
   },
   {
@@ -691,8 +691,8 @@
   },
   {
     "Path": "datatable/en-ph/nditem.edf",
-    "Hash": "1a8260ce5971291e31453b61eb6cea4e2317cb3377b73f0898ab5f33c19d2092",
-    "Size": 9572887
+    "Hash": "77da56cecbc2835c2ad6f880af164e03a2db9651ea15f3ee44dc49e256d9415e",
+    "Size": 9575071
   },
   {
     "Path": "datatable/en-ph/NDItemArmor.edf",
