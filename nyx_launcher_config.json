@@ -4,7 +4,7 @@
     "LoginPort": 10001,
     "ZoneAddr": "103.180.124.5",
     "ZonePort": 27780,
-    "Nation": 3
+    "Nation": 6
   },
   "LauncherSettings": {
     "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/manifest.json",
@@ -15,5 +15,6 @@
     "PatchDirectories": ["Chef", "datatable", "Item", "SpriteImage"]
   }
 }
+
 
 
