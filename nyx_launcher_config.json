@@ -8,13 +8,14 @@
   },
   "LauncherSettings": {
     "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/manifest.json",
-    "FilesBaseUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main",
+    "FilesBaseUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/RFLUMERION(Client)",
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.gg/TcECfhwT",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
     "PatchDirectories": ["Chef", "datatable", "Item", "SpriteImage"]
   }
 }
+
 
 
 
