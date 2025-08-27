@@ -46,8 +46,8 @@
     },
     {
         "Path": "d3d9.dll",
-        "Hash": "3c5beda88d0eea47906f27fd80f3426861615892fa02e74a0e4cef1048977c39",
-        "Size": 22566928
+        "Hash": "4e3f82ce5e57269e711349a439b6dcb97b821d3cf789f7118904bc4bf056ab25",
+        "Size": 22594576
     },
     {
         "Path": "d3dx9_32.dll",
@@ -88,6 +88,11 @@
         "Path": "dph.ldr",
         "Hash": "290c2fb16c7ac349ae29deefd53f1819cae3b5b6be51a75e28a6d6d50e42a285",
         "Size": 43008
+    },
+    {
+        "Path": "font.cache",
+        "Hash": "0f7371e6d6e64307b033a7a9d98c8d76dddf525098d25dd17d83f83dfa8c4438",
+        "Size": 67108868
     },
     {
         "Path": "MaterialDesignColors.dll",
@@ -140,6 +145,11 @@
         "Size": 515
     },
     {
+        "Path": "Nyx_userdat.json",
+        "Hash": "4b1ba7bdb84f2d4f8d8e52e0bd6f21f033adf863b7bdf178fe61f364ed3bbf02",
+        "Size": 27
+    },
+    {
         "Path": "PDLL.dll",
         "Hash": "d9639b727ebdd6cb0780bf6be8f705d9ed9fbb36f422e4177cbb442adc879bde",
         "Size": 53248
@@ -156,13 +166,13 @@
     },
     {
         "Path": "R3Engine.ini",
-        "Hash": "602550dc155d7403d2aaf73734ce73fe9eee2d8e9b839c27a0a4763fb0c03964",
+        "Hash": "ea8fe170dde94800fad506369655e90ac90d44c53029bdcbfc309a9b1b65e834",
         "Size": 448
     },
     {
         "Path": "R3State.ini",
-        "Hash": "13ef7dc60248509c81764ba8bb6c3ccc84e67d7c4b424e3dc6c6d0684e62de17",
-        "Size": 302
+        "Hash": "2a84045fd12e77f892a2ad7673e215405fa0ed6f48ddb69e87ee2f916f729e6a",
+        "Size": 354
     },
     {
         "Path": "RF LUMERION.exe",
@@ -32190,6 +32200,11 @@
         "Size": 328468
     },
     {
+        "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_GLOVES_OFF_SPECIAL_WR.msh",
+        "Hash": "68f3eb33fb35cb6db2a03c9cdad8d7f91473c2a833773f9674384d37d8f7ad92",
+        "Size": 523568
+    },
+    {
         "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_HELMET_001.msh",
         "Hash": "3dc46a10404e35a6bb0faf32a4d4d5ca78987a62ed53a5d19feb86ebb2779265",
         "Size": 171779
@@ -32300,6 +32315,11 @@
         "Size": 98729
     },
     {
+        "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_HELMET_OFF_SPECIAL_WR.msh",
+        "Hash": "78addf24ba2b5f53e2bc2cb66bf07e35a0858054ab086992156767b71f9e6ae2",
+        "Size": 815703
+    },
+    {
         "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_LOWER_001.msh",
         "Hash": "2aaab415ee2e8c7eeaa196994012f11bb71359c086f9fa5b57d67819db8ea6b4",
         "Size": 901562
@@ -32378,6 +32398,11 @@
         "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_LOWER_255.msh",
         "Hash": "1b71ffa9f91ef4c3dbe764436b7409c7cf25090b2abf6ae3dc3f0e713e683e0c",
         "Size": 321080
+    },
+    {
+        "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_LOWER_OFF_SPECIAL_WR.msh",
+        "Hash": "1b6da7733dc7358a731cd013e1a0983ac352418a1def8004424195e0f4d82bb5",
+        "Size": 593390
     },
     {
         "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_SHOES_001.msh",
@@ -32460,6 +32485,11 @@
         "Size": 471068
     },
     {
+        "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_SHOES_OFF_SPECIAL_WR.msh",
+        "Hash": "1d697e98e244be8f0297ba8376c09089c1aef68c29e7b8fd6c13c1d32a898b23",
+        "Size": 426880
+    },
+    {
         "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_UPPER_001.msh",
         "Hash": "e31aeffd129d4c12ae40456b3753df9b196399d8210dc529c54d4c3b20edaaeb",
         "Size": 1008312
@@ -32540,6 +32570,11 @@
         "Size": 328099
     },
     {
+        "Path": "Character/Player/Mesh/ACCRETIA_ARMOR_UPPER_OFF_SPECIAL_WR.msh",
+        "Hash": "4121a910dd8cafac83e26fe78b3c3b7defcd2b0742d26f5667572b3f6c5a719b",
+        "Size": 961327
+    },
+    {
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_GLOVES_001.msh",
         "Hash": "6fbaa84132cdc2313c22fc7e9770d4a974229ab4bc6097ff4fcfd29aad3ce0f5",
         "Size": 372875
@@ -32608,6 +32643,11 @@
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_GLOVES_193.msh",
         "Hash": "d94c3b6db47ff90d3f3e76303c0c1f8150417d7956ef2c3b6e610115264a5ca0",
         "Size": 381263
+    },
+    {
+        "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_GLOVES_OFF_SPECIAL_WR.MSH",
+        "Hash": "5e2ae58920915b2eb05aa12c53f86848f4ff94752adbf2890b848fcda1158cb3",
+        "Size": 77030
     },
     {
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_HELMET_001.msh",
@@ -32710,6 +32750,11 @@
         "Size": 152378
     },
     {
+        "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_HELMET_OFF_SPECIAL_WR.MSH",
+        "Hash": "ad6bdca3224d3159db8e90817e345d0a960c31fcd1342a82ef0e1494668558e6",
+        "Size": 218038
+    },
+    {
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_LOWER_001.msh",
         "Hash": "30c0bed141572a08593d78235e15e58cbc19a6af0630511ede5c407af3a1aa08",
         "Size": 1303899
@@ -32778,6 +32823,11 @@
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_LOWER_193.msh",
         "Hash": "544dde12f8b092cf4455509255750fcb668cd62232e058edb97c44dde69f35d2",
         "Size": 1291580
+    },
+    {
+        "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_LOWER_OFF_SPECIAL_WR.MSH",
+        "Hash": "5d952c4766fd4f931812ac5e8d7cae6ce286367059908be7adcef4362e2f98a3",
+        "Size": 295915
     },
     {
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_SHOES_001.msh",
@@ -32850,6 +32900,11 @@
         "Size": 622343
     },
     {
+        "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_SHOES_OFF_SPECIAL_WR.MSH",
+        "Hash": "d50780da71b1a0becffbf6ea6a6ae1b2d3e11088711545dfa14db02358160bb3",
+        "Size": 46470
+    },
+    {
         "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_UPPER_001.msh",
         "Hash": "284945b759602c2b023f9216be2f7d2bc9797f0b56a2c70db17b9997ce6bffa8",
         "Size": 1710417
@@ -32920,6 +32975,11 @@
         "Size": 1739512
     },
     {
+        "Path": "Character/Player/Mesh/BELFEMALE_ARMOR_UPPER_OFF_SPECIAL_WR.MSH",
+        "Hash": "e4aa446da3623c7e7868478d0d7cc675bbdbf3d91835d206f7f689d0107876e5",
+        "Size": 452998
+    },
+    {
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_GLOVES_001.msh",
         "Hash": "4f7b754317ea2a997975c41416cedcdd7d04b82603494ed4309374ad6c0f11d9",
         "Size": 368652
@@ -32988,6 +33048,11 @@
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_GLOVES_193.msh",
         "Hash": "bdcfe64d67cb7df4029148f3719ca4c067ff55b4e2bc13ff413e9998b27a572b",
         "Size": 377040
+    },
+    {
+        "Path": "Character/Player/Mesh/BELMALE_ARMOR_GLOVES_OFF_SPECIAL_WR.MSH",
+        "Hash": "39bba5f874b9e7a38e23dbe2dfecc490c0cee358c5ad13c14ccafc964f21749d",
+        "Size": 164488
     },
     {
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_HELMET_001.msh",
@@ -33090,6 +33155,11 @@
         "Size": 309271
     },
     {
+        "Path": "Character/Player/Mesh/BELMALE_ARMOR_HELMET_OFF_SPECIAL_WR.MSH",
+        "Hash": "47caed90b4e6ebb34b17de1f28c5ecac98a75456fbc9442a4db08e6e44eddcc1",
+        "Size": 302586
+    },
+    {
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_LOWER_001.msh",
         "Hash": "d24c386e2a152de242bf94f8546e64fa299df80a3a52c36df1ca8781defbc287",
         "Size": 1239596
@@ -33158,6 +33228,11 @@
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_LOWER_193.msh",
         "Hash": "519e6829dcd913e0377b889cd24f3746d12d046c6c1ec196bfe5f1b6be6b36f0",
         "Size": 1228877
+    },
+    {
+        "Path": "Character/Player/Mesh/BELMALE_ARMOR_LOWER_OFF_SPECIAL_WR.MSH",
+        "Hash": "6e4d788e2ccfb3aadba2480a6d91b49aafa102c6e383703d7425a2fd0b486b34",
+        "Size": 333396
     },
     {
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_SHOES_001.msh",
@@ -33230,6 +33305,11 @@
         "Size": 600440
     },
     {
+        "Path": "Character/Player/Mesh/BELMALE_ARMOR_SHOES_OFF_SPECIAL_WR.MSH",
+        "Hash": "fa0d4bfada117efb5410e5404b7abf968b4044ce2f11554c881f97b0df79645a",
+        "Size": 108224
+    },
+    {
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_UPPER_001.msh",
         "Hash": "33e731c7f75650c250af903f240f6ce9bb79778573e4933f1565d5b1704e5d5b",
         "Size": 1638066
@@ -33298,6 +33378,11 @@
         "Path": "Character/Player/Mesh/BELMALE_ARMOR_UPPER_193.msh",
         "Hash": "23b915c5b8892f335013533fcb8c9f908c5507681f4c7e16bbbf0a4e7c8bb850",
         "Size": 1665561
+    },
+    {
+        "Path": "Character/Player/Mesh/BELMALE_ARMOR_UPPER_OFF_SPECIAL_WR.MSH",
+        "Hash": "7252c2271815ad3c28b8b863b4069289d4cd20806ca45dab14bd4af987729ea9",
+        "Size": 564037
     },
     {
         "Path": "Character/Player/Mesh/BFB55.RFS",
@@ -33700,6 +33785,11 @@
         "Size": 377768
     },
     {
+        "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_GLOVES_OFF_SPECIAL_WR.msh",
+        "Hash": "fcfd5f9a8f4cb3efa20ace5f7f813524419e8a4814f93721c7a7576f303683a3",
+        "Size": 134982
+    },
+    {
         "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_HELMET_001.msh",
         "Hash": "dbb4e3c3e9ee96d5d68537d1bbe1d6a802009f76573f63f981a64a63c05c0634",
         "Size": 300883
@@ -33810,6 +33900,11 @@
         "Size": 309271
     },
     {
+        "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_HELMET_OFF_SPECIAL_WR.msh",
+        "Hash": "21c62939b2d317338d8586c4d7d05208c8889c754d48b4be6606463f1b48f9b1",
+        "Size": 182093
+    },
+    {
         "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_LOWER_001.msh",
         "Hash": "804efd082759e8b5d48e769a0f5ddc240c6e6a1d8d2d9292cdcd042c84606dc4",
         "Size": 1261685
@@ -33878,6 +33973,11 @@
         "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_LOWER_193.msh",
         "Hash": "394233cde8e1d4cd05cbf50a002457e7b1ef2744c3dfae46b0a506831ed6f432",
         "Size": 1270073
+    },
+    {
+        "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_LOWER_OFF_SPECIAL_WR.msh",
+        "Hash": "d1518a5e7360c8e63e07f9d10a0c688d199261b9d3c24959bd638a4c1f3acb8d",
+        "Size": 519476
     },
     {
         "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_SHOES_001.msh",
@@ -33950,6 +34050,11 @@
         "Size": 621224
     },
     {
+        "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_SHOES_OFF_SPECIAL_WR.msh",
+        "Hash": "92f88453b413510722de6b6927c7a4eaab976e6823e7ece2e47a3303b407c784",
+        "Size": 159350
+    },
+    {
         "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_UPPER_001.msh",
         "Hash": "e22d5dd8f3ff2c230e412bcabcea0a633857d997bd05c918637fe8b373e4f2c0",
         "Size": 1742433
@@ -34020,6 +34125,11 @@
         "Size": 1750821
     },
     {
+        "Path": "Character/Player/Mesh/CORFEMALE_ARMOR_UPPER_OFF_SPECIAL_WR.msh",
+        "Hash": "3bad1a1a07e6f6d30ea0f412712b31d77ed31e5ab23149319234d4215303005c",
+        "Size": 431433
+    },
+    {
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_GLOVES_001.msh",
         "Hash": "b3782a2876c07563213a8e3cc321c1ad50d971a096cd0916cc0d51ed7b6cf024",
         "Size": 367052
@@ -34088,6 +34198,11 @@
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_GLOVES_193.msh",
         "Hash": "dbb8147034c7c2ea5a5f61ad17013fe5faa9bab76015a1cdfaba68dff0c9500a",
         "Size": 375440
+    },
+    {
+        "Path": "Character/Player/Mesh/CORMALE_ARMOR_GLOVES_OFF_SPECIAL_WR.MSH",
+        "Hash": "517dbf445639c95f08aca07d8628ab73fca6c2c2829d52c1489450b4c180f7b8",
+        "Size": 118758
     },
     {
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_HELMET_001.msh",
@@ -34200,6 +34315,11 @@
         "Size": 309271
     },
     {
+        "Path": "Character/Player/Mesh/CORMALE_ARMOR_HELMET_OFF_SPECIAL_WR.MSH",
+        "Hash": "885b79f56094c16593bc235b3901332214a870f15f6e6ad4c8df09ea16a9edea",
+        "Size": 119151
+    },
+    {
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_LOWER_001.msh",
         "Hash": "e1cacfb052952854050e8d3b1063c2e4179c9aafd27fe49923528e27e6bca9b8",
         "Size": 1295192
@@ -34268,6 +34388,11 @@
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_LOWER_193.msh",
         "Hash": "ae51ce3d324d9e9bdb08e51f9571b49b4bb21168c028cc8e24746a09b57acf6b",
         "Size": 1241265
+    },
+    {
+        "Path": "Character/Player/Mesh/CORMALE_ARMOR_LOWER_OFF_SPECIAL_WR.MSH",
+        "Hash": "67f5bb6010af5342ce277f24af66b94609a4f90c8b9661bc683afeee75a2b732",
+        "Size": 317910
     },
     {
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_SHOES_001.msh",
@@ -34340,6 +34465,11 @@
         "Size": 600424
     },
     {
+        "Path": "Character/Player/Mesh/CORMALE_ARMOR_SHOES_OFF_SPECIAL_WR.MSH",
+        "Hash": "3089278ff3ea2251f13e84249ba7b97ef182588e2b4f39e85a9f45bafeaed25b",
+        "Size": 34086
+    },
+    {
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_UPPER_001.msh",
         "Hash": "511926e8f094061b8e0bd5cd848ba2cb02be0b8a87fd0947cbaf55a93f53972d",
         "Size": 1712405
@@ -34408,6 +34538,11 @@
         "Path": "Character/Player/Mesh/CORMALE_ARMOR_UPPER_193.msh",
         "Hash": "96f83b7ed034197dd5bba1c062ff6491adc86a9d403be1a833c7a8744e9f6277",
         "Size": 1714353
+    },
+    {
+        "Path": "Character/Player/Mesh/CORMALE_ARMOR_UPPER_OFF_SPECIAL_WR.MSH",
+        "Hash": "3def3f63ce4d3243833c2bdceb0ee48872a2b082f1627721b5f4c1fd18e23fe1",
+        "Size": 367315
     },
     {
         "Path": "Character/Player/Mesh/DARKM60.RFS",
@@ -37160,6 +37295,156 @@
         "Size": 3149668
     },
     {
+        "Path": "Character/Player/Tex/Q1_BASE_DRAGON_LEGION.dds",
+        "Hash": "fff9be29b4d83bd121834e2077c33420166191a1c733a05590ae939e0f9b98bb",
+        "Size": 174928
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_ACCRETIA_M2.dds",
+        "Hash": "8c78dc15c11b9e4cd1488dc7b10779a4af735be5d9a016d38417a63c021e6e92",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_BELA_MDRAGONLORD.dds",
+        "Hash": "eb56155b4932e7958a7d817cff8785cd10d4fca1a21f92cfa42aacf42c9f0efb",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_BELLATO_FDRAGONLORD.dds",
+        "Hash": "3eb696dc8c1793ac60b304665e65f8475a99789cb741bc533f499e642994b65b",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_BELLATO_MDRAGONLORD.dds",
+        "Hash": "03fbafb2e0a460e2285d5aa57c3d556f713fe7daff1c53c551d21dd32d70f397",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_CORA_FDRAGONLORD.dds",
+        "Hash": "5eb80ab230697f986c73d4ebc346260aef5ccb69c86f1bf56d240e964064bd62",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_CORA_F_ASTALOS.dds",
+        "Hash": "fdd6dfc889093099266ddac817d796df7c7f9091b80f6ce30f3e3aaa2951ec52",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_CORA_MDRAGON_FORCE.dds",
+        "Hash": "a8f1a004dfdca3ebfa0ce39a936ec1d640c434ed95e1a67cbff1280d4d3003bd",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DEFAULT_CORFEA_MDRAGONLORD.dds",
+        "Hash": "eb56155b4932e7958a7d817cff8785cd10d4fca1a21f92cfa42aacf42c9f0efb",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DOOM_ORIGIN.dds",
+        "Hash": "8b45d1a6aae72cbd3cc4c36c5f3eac8da30d99d5b66d72f5fe475ed911315e56",
+        "Size": 174928
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DOOM_TAIL.dds",
+        "Hash": "87a607fbc556d2419c6b34b16835b8d1930af0a2fdb1dfee2e4f72af00ef464b",
+        "Size": 43856
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_DRAGON_DREAD_ASCENDENCE.dds",
+        "Hash": "35ae238d274e59b09b2ca0994a2cdaafef31a9cb1b2e38de588a1fe28d1c4198",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_FEMALE_ASTALOS_ARMOR.dds",
+        "Hash": "bc25b08d3732e08b7c14af21b4dac0184e58924a22a24a8f9f46af76f46a4984",
+        "Size": 3145904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_LC_DRAGON_KNIGHT_ARMS.dds",
+        "Hash": "d157b709c0f3974acf7f3bab5b26771ea38d984573743914ebf8bd35dbb11fd5",
+        "Size": 87536
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_LC_DRAGON_KNIGHT_HEAD.dds",
+        "Hash": "f5be8c330292fc325de327ffcedf4330ee52f25f07b1c784bd961195753ec536",
+        "Size": 349680
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_LC_DRAGON_KNIGHT_LEG.dds",
+        "Hash": "bd7198bf0728634fad248d4a70e60d7f4b3beff743be8e498848e52f908f2222",
+        "Size": 174928
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_LC_DRAGON_KNIGHT_SHOULDER.dds",
+        "Hash": "d01f6541a88f3c97ec78cd3543ddfcaa7ff51c02dbd40b7e12da403b7d10c64e",
+        "Size": 174928
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_MOSKOV_WYRMLORD.dds",
+        "Hash": "d62634f294b8ccc5af4f3003f2691abeb924e0cfe4846683d1d31fd749e82a6d",
+        "Size": 1181584
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SHADOW_LAUNCHER_ARMORREV1.dds",
+        "Hash": "3793a660ad5788874ce4bce23e58b79b9c87a43797a621373c42611ec3170330",
+        "Size": 1398256
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_ARMS.dds",
+        "Hash": "2b495f8313cfee6a30653c55346843ef0e62206b1a62b0be637b4536506a22f7",
+        "Size": 1130144
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_BASE.dds",
+        "Hash": "c0ea2c7f40a15cf1da873faab50716c5e96da402b259dda49548493358a583b2",
+        "Size": 174928
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_GLOVES.dds",
+        "Hash": "7d841f1ee8f48a3abc66af774e006290f65a8878a93d62b6bebcaa785e1ad0ac",
+        "Size": 174904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_HEAD.dds",
+        "Hash": "f8e1ebd045542c9a96e4384cd6087433b71d82bd0d82fcb1301d2372dea129bb",
+        "Size": 1130144
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_LOWER.dds",
+        "Hash": "76ac8de31cc25101fe9367431067645d06927b7a1944f13b514055e28260d0ac",
+        "Size": 1130144
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_PELVIS.dds",
+        "Hash": "32c69d1ff25e57445623e5913ab1b72b078e5562bc2c832fcd0db73e040c8e32",
+        "Size": 174904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_SHIELD.dds",
+        "Hash": "b5de9da1734ab4afdf26da18f3657ff0f909d8fdb3c29e1f0a1098e66c070cfc",
+        "Size": 349652
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_SHOES.dds",
+        "Hash": "c25b1f68520d172a4bae6fe962453dedb27792fe54698e43c84a72102a166f3b",
+        "Size": 174904
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_SHOULDER.dds",
+        "Hash": "6faf97605a8661e6d4da9b661ec7312ac85c0ea9ae07d3d245004a38b0243f3d",
+        "Size": 349680
+    },
+    {
+        "Path": "Character/Player/Tex/Q1_SILVER_DRAGON_WEAPON.dds",
+        "Hash": "1dcf0bf87f004478478e92ad8273f2e7d94476ac3acd474c988cd3690008b4c0",
+        "Size": 349652
+    },
+    {
+        "Path": "Character/Player/Tex/QG_DEFAULT_ACCRETIA_MASCENDENCE.dds",
+        "Hash": "8099551927ca68a045cb5c032e3877fab1a71a5808ffa26813b5815a836ef8f7",
+        "Size": 3145904
+    },
+    {
         "Path": "Character/Player/Tex/RFMASTER.RFS",
         "Hash": "4e6caa016cbacd7547ac440fe1d1ca07876623a92a8a71f8345e54a209fb57a1",
         "Size": 14960644
@@ -38371,8 +38656,8 @@
     },
     {
         "Path": "Chef/EffectFileList.txt",
-        "Hash": "b97b38690e1f94b805a3fa916799fa4fe96aca67d83a2acb1d244888bab0ac58",
-        "Size": 140252
+        "Hash": "e705f7dabf090a0418de2cfde3c3928c17b1db8cafb6873d61ed0c4303fa26b1",
+        "Size": 100388
     },
     {
         "Path": "Chef/Entity.ini",
@@ -38386,8 +38671,8 @@
     },
     {
         "Path": "Chef/ItemEffectList.txt",
-        "Hash": "13b8e56abfe03efb475952a52fafd1a61768995c7033ade5306f1ce4d2795cec",
-        "Size": 112348
+        "Hash": "5dd391cc33d1c1a2a6962b055c3d61d0e1114ffd93adc6f80b415118ba98eed5",
+        "Size": 113258
     },
     {
         "Path": "Chef/Monster.ini",
@@ -38401,13 +38686,13 @@
     },
     {
         "Path": "Chef/Particle.ini",
-        "Hash": "5727de7895f77b817ea121f410f260573f922848971efe7e1be1bbe6b4b23341",
-        "Size": 455412
+        "Hash": "0c67c67e3177635db0aa3a1fbb3bb5220a9c74497f2c9b0a6cc7b977bcc38ef4",
+        "Size": 367150
     },
     {
         "Path": "Chef/PatternList.txt",
-        "Hash": "02013720989178872838fe5f4f0dd2b78a6889c2fe19d2261e512ccbddffff6a",
-        "Size": 126160
+        "Hash": "0db04d01ceee42a5243988342c832b4322b61642eab4f798690b89240bfac8d5",
+        "Size": 104360
     },
     {
         "Path": "Chef/recall.ini",
@@ -52815,6 +53100,446 @@
         "Size": 1936
     },
     {
+        "Path": "Chef/df1/axe/aura.spt",
+        "Hash": "33d4ab63f390b375947b29b8866a4467642f194cc2564179d109768d389187cf",
+        "Size": 715
+    },
+    {
+        "Path": "Chef/df1/axe/aurar.spt",
+        "Hash": "6b5713be207a581728e8778e936e3f7e59c31c23e791ec2e7b635675e5e901ed",
+        "Size": 740
+    },
+    {
+        "Path": "Chef/df1/axe/axe.rar",
+        "Hash": "cd1a57118bce8258e2000d68d192fdc82d63b08b0981f029a4e5009ab3240278",
+        "Size": 1763
+    },
+    {
+        "Path": "Chef/df1/axe/ball.spt",
+        "Hash": "a073f006b7249497abd20011ea399c0682881292de7508009789cb14ec9a79d6",
+        "Size": 301
+    },
+    {
+        "Path": "Chef/df1/axe/balls.spt",
+        "Hash": "cc0d95deb4700fcfc80f9f12cc94ee475ae783f406352a3c9ca83448da2c494b",
+        "Size": 469
+    },
+    {
+        "Path": "Chef/df1/axe/elec.spt",
+        "Hash": "d05aa15931aecbb6ce5b47b8f68742ff9dd51d55d98470535f4f08523516450c",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/bow/121p.rar",
+        "Hash": "6a9caf195c30d5968cd8e69c7da62b41d039601c7811eb2f6f78b3a72f660379",
+        "Size": 422
+    },
+    {
+        "Path": "Chef/df1/bow/121p.spt",
+        "Hash": "b58d1c43a25ad7291c44723a2e2c681a7884736f4dd2e96f712aefad7c7832b3",
+        "Size": 733
+    },
+    {
+        "Path": "Chef/df1/bow/794p.spt",
+        "Hash": "6787cd63e5a778156f50248085a18744ea12643dc65a43950e1975a515773398",
+        "Size": 465
+    },
+    {
+        "Path": "Chef/df1/bow/795p.spt",
+        "Hash": "ea3592245ae8a7e3651a09c4bf907c02fd00da2e4b5e7027d5c0444b2947a403",
+        "Size": 366
+    },
+    {
+        "Path": "Chef/df1/bow/799p.spt",
+        "Hash": "1b5ee9adbd3a15dab5f351b2fdf1e9c53980cdf1eb53b45de1a2e777abcf2bd7",
+        "Size": 484
+    },
+    {
+        "Path": "Chef/df1/bow/arrow.spt",
+        "Hash": "3abf9ab1b37c5203144e688ab9c69312fa9864100510ce365f805ad81fcf4d57",
+        "Size": 483
+    },
+    {
+        "Path": "Chef/df1/bow/aura.spt",
+        "Hash": "13df9ad7e19f3c55a4a5c304a1e6e5d4dd97ef184969cc5b3493db72914e1b46",
+        "Size": 717
+    },
+    {
+        "Path": "Chef/df1/bow/aurar.spt",
+        "Hash": "ab7c541fff26c62f6f35505c100571c602a1d5a7573e113700eab014aaeb285e",
+        "Size": 721
+    },
+    {
+        "Path": "Chef/df1/bow/bow.rar",
+        "Hash": "7abe7a7cb513726c75fbfdffba558de96d536e8686df823388b8bbcc76d5416b",
+        "Size": 3002
+    },
+    {
+        "Path": "Chef/df1/bow/bow1.spt",
+        "Hash": "24590c0c9bf72d64b2f31bd34f09b154a71596d7c4bc0987a3c7927d34110adc",
+        "Size": 391
+    },
+    {
+        "Path": "Chef/df1/bow/bow2.spt",
+        "Hash": "deef00bd3443c4e4d8f091777f913bc5e2bf68765ce180428ae134712cfd1e82",
+        "Size": 298
+    },
+    {
+        "Path": "Chef/df1/bow/elec.spt",
+        "Hash": "cafe10a2b300b6ae85d7abe996971bc1ecbaf5705bf821070062c0af6b987585",
+        "Size": 444
+    },
+    {
+        "Path": "Chef/df1/crossbow/arrow.spt",
+        "Hash": "6fc0a67fff2f41d3a6ff171e7dcfe705f882124539d71875c8d86dd5a5886841",
+        "Size": 482
+    },
+    {
+        "Path": "Chef/df1/crossbow/aura.spt",
+        "Hash": "00d97e7cb96d88de248c5952c8ebd4c11dbc82c163110920d495018f7ceca097",
+        "Size": 494
+    },
+    {
+        "Path": "Chef/df1/crossbow/aura2.spt",
+        "Hash": "fccd1e34bab240f0d4782accfc1977f4f768fc338cae20ea258a417260ce2df2",
+        "Size": 494
+    },
+    {
+        "Path": "Chef/df1/crossbow/aura_down.spt",
+        "Hash": "037cf480cc3d2789fdcbeac8ba7a8527d2968293bb72ee1bc9375c4bfbf4bbe4",
+        "Size": 365
+    },
+    {
+        "Path": "Chef/df1/crossbow/blik.spt",
+        "Hash": "dc32e69f380d04efa0f321093a98a1fca69daf6c9555ccc9ecfce3da3ee1e24f",
+        "Size": 724
+    },
+    {
+        "Path": "Chef/df1/crossbow/crossbow.rar",
+        "Hash": "dcd23a710fb28b951d6c707bfdec4cac765b5d9ecec83b6cd329d7cafc4a93a0",
+        "Size": 9808
+    },
+    {
+        "Path": "Chef/df1/crossbow/elec.spt",
+        "Hash": "3b4a4a3ac03169716fbec6b62394014b64169e66bc35d54b34efee005c25d498",
+        "Size": 804
+    },
+    {
+        "Path": "Chef/df1/crossbow/elec1.spt",
+        "Hash": "5bdd4528b39bef5f4bcdfc99758e970447daa362a74bd314f1e16007c3b160bc",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/df1/crossbow/rain.spt",
+        "Hash": "de30f5134b91064061e1e435d7b970f9b0808475909631a9673271f7215986de",
+        "Size": 418
+    },
+    {
+        "Path": "Chef/df1/crossbow/star.spt",
+        "Hash": "e9334b89e9190de1430302fb5442ec93a3bd2e2b86c43b23f2efd500104c7e62",
+        "Size": 530
+    },
+    {
+        "Path": "Chef/df1/crossbow/arrow/01_Default_0.mst",
+        "Hash": "a5608b78b8ec577a3aad7c6e9ac38cf5831e6cdf91f0494c1d587bf7f122e0fb",
+        "Size": 173
+    },
+    {
+        "Path": "Chef/df1/crossbow/arrow/arrow.R3E",
+        "Hash": "d82f64e75c8d00f9dd1cfd4f17f17322ec4fb09e6be7705767c36fd772c9f270",
+        "Size": 388
+    },
+    {
+        "Path": "Chef/df1/crossbow/arrow/MainMaterial.mst",
+        "Hash": "29749377276f64861c9f725fc4bda62fba07b8754adb6a081341df09ff2af20c",
+        "Size": 42
+    },
+    {
+        "Path": "Chef/df1/crossbow/arrow/SI_2fa_01.dds",
+        "Hash": "e93a9b969d92fc0a7e7cc55aa0d601f0fb9fc2abfeaf50600d5c915614a478cc",
+        "Size": 22032
+    },
+    {
+        "Path": "Chef/df1/dagger/774p.spt",
+        "Hash": "75332d037ef4c360e3775e3850d8762be5560336098613a6ae9540432757044c",
+        "Size": 659
+    },
+    {
+        "Path": "Chef/df1/dagger/aura.spt",
+        "Hash": "2adccac1e3158bc543d0e14b362e278969a98f95a7825725f56aca8e9744871c",
+        "Size": 694
+    },
+    {
+        "Path": "Chef/df1/dagger/elec.spt",
+        "Hash": "916b48d658a06072b37afe695d126bae51b53fe7ef868837386eb6e44bbbb876",
+        "Size": 749
+    },
+    {
+        "Path": "Chef/df1/gun/55gre_centlight.spt",
+        "Hash": "8b2033ec4b36f8e8934109c3d678f586746d90b0f05efe196b681f34559e1ca4",
+        "Size": 308
+    },
+    {
+        "Path": "Chef/df1/gun/55gre_collect.spt",
+        "Hash": "2b012dd8033c1c4184be8659d46cd5247534b0e76914e881fdd8941d8c026f3c",
+        "Size": 491
+    },
+    {
+        "Path": "Chef/df1/gun/55gre_spoke.spt",
+        "Hash": "ebf2c2ce836c9f68349fe4c00cce41182820e10f740f37478f9a0e1b46c29972",
+        "Size": 434
+    },
+    {
+        "Path": "Chef/df1/gun/whitegrav.spt",
+        "Hash": "9cabc70a43ce251ce4064914efbcf4d11eb027a103e3fc6fab7e60bcfe6bdb5b",
+        "Size": 636
+    },
+    {
+        "Path": "Chef/df1/iskra/778p.spt",
+        "Hash": "f0561c0d320c525d4d62fe83f5e7eee03e4364c175fb75b204527ad0a1f91acd",
+        "Size": 720
+    },
+    {
+        "Path": "Chef/df1/iskra/779p.spt",
+        "Hash": "4ad444c774cce0ee57639a313eb56246b8eee4dd1e99091c00cd0ec2cabe478a",
+        "Size": 479
+    },
+    {
+        "Path": "Chef/df1/iskra/780p.spt",
+        "Hash": "705caacfe9f4b758effe86abe5a15b6e464cc6c491c46228a00e9e8a4ddcbba8",
+        "Size": 640
+    },
+    {
+        "Path": "Chef/df1/iskra/781p.spt",
+        "Hash": "1aa16ae8d8706facde5344d4265a2726286012d4da7bab7c047bee84f3bfca93",
+        "Size": 457
+    },
+    {
+        "Path": "Chef/df1/iskra/784p.spt",
+        "Hash": "0cf405e6b9d2cff594987947fef0c47508e0a03fffb471c803b4437c830dbb95",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/iskra/788p.spt",
+        "Hash": "60b57b4e94ec51ecedb5a6481057c045b80730618096f2183a86b0786a7a1749",
+        "Size": 456
+    },
+    {
+        "Path": "Chef/df1/laun/55gre_centlight.spt",
+        "Hash": "20ee19a0a0af08162a215deafa1d5fe16ba674195a14a74dd318340695bd1480",
+        "Size": 293
+    },
+    {
+        "Path": "Chef/df1/laun/55gre_collect.spt",
+        "Hash": "d04e7da689d0456f7316b7127a5796ab97c23a4d34b42caa6423ea75476ccee8",
+        "Size": 490
+    },
+    {
+        "Path": "Chef/df1/laun/783p.spt",
+        "Hash": "8a21cd239daa080e9210b6cc921023c8bb557d7ef6d221871624f1a1ee52fb3a",
+        "Size": 443
+    },
+    {
+        "Path": "Chef/df1/laun/aura.spt",
+        "Hash": "d172e74b2542de0eb3fc1141656ddd9c30328cffb581ad5d783c8f47c84861dc",
+        "Size": 722
+    },
+    {
+        "Path": "Chef/df1/laun/elec.spt",
+        "Hash": "b0731902813cb721baba6d418c58e3f04438fec39fb72d9e21553cc9d204435b",
+        "Size": 440
+    },
+    {
+        "Path": "Chef/df1/laun/fiolettflamesgrav.spt",
+        "Hash": "5cd8ece268014f6043ba17ecef73817b2815e26544276f327e0e9629add5a331",
+        "Size": 649
+    },
+    {
+        "Path": "Chef/df1/laun/laun.rar",
+        "Hash": "99270b201e952f717166ae5bdb0c0404c104fe11010523115472f4e948d082a6",
+        "Size": 1679
+    },
+    {
+        "Path": "Chef/df1/mace/796p.spt",
+        "Hash": "859a71f7c9ab7f6e92e10ef3a2bac97d2878d222d8868ceee538ce1f0f906ce3",
+        "Size": 513
+    },
+    {
+        "Path": "Chef/df1/mace/crawleraxle_boss_00.rar",
+        "Hash": "8a55e15f5e571d3d1e024dc14df080a33577956037c93b5717ef23d70cc4fe6c",
+        "Size": 373
+    },
+    {
+        "Path": "Chef/df1/mace/crawleraxle_boss_00.spt",
+        "Hash": "288dce0b1c6ccdffad6e317faf90fa2aa88c6519b4501e26179755529f1d93b6",
+        "Size": 452
+    },
+    {
+        "Path": "Chef/df1/mace/light.spt",
+        "Hash": "16a8c95a01ebc511095b52f5824d3b7f16f9169c1d9f0e829c30f7e6ddd209b6",
+        "Size": 748
+    },
+    {
+        "Path": "Chef/df1/mace/mace45_001.spt",
+        "Hash": "21af3456924db4185a47e1e1800e2be047bb212ae1bb75c67817308f53e3ed55",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/mace/macegrav.spt",
+        "Hash": "65cc2b4136a2b9bfbe96567dd98f69d86bb8cea9fe867118f770d874236833ad",
+        "Size": 472
+    },
+    {
+        "Path": "Chef/df1/shield/121p.spt",
+        "Hash": "d5f4672290160b47bcdf1be7949f04268b5a0764a7ff4912c5c988bf3ee03f9a",
+        "Size": 735
+    },
+    {
+        "Path": "Chef/df1/shield/890.spt",
+        "Hash": "ea3fb1d8d94be34220a98ece4a98fbfbb8ec49e6df60fd100e8334db631e95d5",
+        "Size": 810
+    },
+    {
+        "Path": "Chef/df1/shield/892.spt",
+        "Hash": "873f6db6098c4b492cc23a132a31221d549acbe2afe94475d6d2ffe68cfbef49",
+        "Size": 809
+    },
+    {
+        "Path": "Chef/df1/sp/aura.spt",
+        "Hash": "e423d99daaadb3748941edeb54199965a581483c692a80761babb9492be79443",
+        "Size": 717
+    },
+    {
+        "Path": "Chef/df1/sp/backlight.spt",
+        "Hash": "36017234f4f928e637b1cbf7fd7c356c5b2bea200539d1502fef33a3830035af",
+        "Size": 497
+    },
+    {
+        "Path": "Chef/df1/sp/elec.spt",
+        "Hash": "f1ec8911b7cd1416f3de8c2a5b20100328632c13656877104063af6483d26d70",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/sp/linespear.spt",
+        "Hash": "e294854bda7c909650c2724fc5f283860ab25e0aeb8e936feda23b5c5b02f816",
+        "Size": 455
+    },
+    {
+        "Path": "Chef/df1/sp/sp.rar",
+        "Hash": "f06a46e1779896f6e742dc2d54e24d37e5fa1efec298be478e00831c95c680c6",
+        "Size": 2249
+    },
+    {
+        "Path": "Chef/df1/sp/spearstar.spt",
+        "Hash": "f64433bbeca60909cd2cf86d85d6d59ce1b9448065cbd788d62c5b1a111720cf",
+        "Size": 459
+    },
+    {
+        "Path": "Chef/df1/sp/white.spt",
+        "Hash": "a91d7cdbfd2d504e8e4ba92323a6f15a2d6f5a4725e5451ca62c586b9e95aec9",
+        "Size": 416
+    },
+    {
+        "Path": "Chef/df1/sp/whiteball.spt",
+        "Hash": "c56428eb9eead8aeb53ed526c9a5e12068b339024c6880a2b7006a4f3fce0224",
+        "Size": 364
+    },
+    {
+        "Path": "Chef/df1/sp/whiteball2.spt",
+        "Hash": "0c1abfe020e643ba8c64e91d61c1c87f7c331508eb0f667280bfcd1464ee0ec6",
+        "Size": 300
+    },
+    {
+        "Path": "Chef/df1/st/682p.spt",
+        "Hash": "2f556d0a31af135c3e484e9e357f3a95d99f1f811436bf0e0fc663b39f9174c4",
+        "Size": 454
+    },
+    {
+        "Path": "Chef/df1/st/781p.spt",
+        "Hash": "d4b4d37aa92175ed64394745288c7d1a96971633298c6c1e37c8c7653e218b25",
+        "Size": 750
+    },
+    {
+        "Path": "Chef/df1/st/aura.spt",
+        "Hash": "aadc753a03cac3d23403823a09ce2c714c6cdc234cf359e30e22b4e51a8de822",
+        "Size": 717
+    },
+    {
+        "Path": "Chef/df1/st/star.spt",
+        "Hash": "ea6c8b52ce12edac508edf8d593d251c6941da041c7af7cb122982c7daaf225b",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/sw/772p.spt",
+        "Hash": "f2d633bbcba520050b79ac3e9a533d54f4c3aca03c738b867025e554ec017c6c",
+        "Size": 461
+    },
+    {
+        "Path": "Chef/df1/sw/aura.spt",
+        "Hash": "de233cd238f87ba3104cd61432f7756ac5ff2b732afb475d1e4d6dc9fbac2b75",
+        "Size": 717
+    },
+    {
+        "Path": "Chef/df1/sw/light.spt",
+        "Hash": "aacf03c53547a9e9ba4e41b6f0eca0c665e5de16b53e79158fbe7c7727ceab0f",
+        "Size": 743
+    },
+    {
+        "Path": "Chef/df1/taxe/778p.spt",
+        "Hash": "9698180ee3212e2bfed76a4ba79f8b120dbd6d924a2cf189e5efdd3230cbd8fe",
+        "Size": 465
+    },
+    {
+        "Path": "Chef/df1/taxe/780p.spt",
+        "Hash": "beea7a6ce80880f35dc8d4a2a5d0d705f6b6d0147961e4a1b93d11a742b3ec3c",
+        "Size": 716
+    },
+    {
+        "Path": "Chef/df1/taxe/aura.spt",
+        "Hash": "a2e0290ce7ef8ed3f36920b260521c97241645881e3eb666eee32a6044adf818",
+        "Size": 718
+    },
+    {
+        "Path": "Chef/df1/taxe/ball.spt",
+        "Hash": "70884a6ed5492df6a0762a6f70a5cec5a63a56fdf1dedbbfe554b4e86c4a75a5",
+        "Size": 303
+    },
+    {
+        "Path": "Chef/df1/taxe/balls.spt",
+        "Hash": "c062cb725a35452c6dd76b566c4efe3b38c9cb4115be259beca0fb52abe2e9d4",
+        "Size": 748
+    },
+    {
+        "Path": "Chef/df1/tstaff/682p.spt",
+        "Hash": "b9df117131c2e8f73e10018128e676deb5776d9b229d056f58f868cfa1809475",
+        "Size": 470
+    },
+    {
+        "Path": "Chef/df1/tstaff/789p.spt",
+        "Hash": "4a6ecca80a827d9df2553d3124832a2f3e06697b3f647d1f8a35bf81a54b1070",
+        "Size": 714
+    },
+    {
+        "Path": "Chef/df1/tstaff/aura.spt",
+        "Hash": "d15a20f28eb2995dedccfbb73a4c7fff76a5c12254db4e317feb48dd5e9aa05a",
+        "Size": 716
+    },
+    {
+        "Path": "Chef/df1/tstaff/elec.spt",
+        "Hash": "21af3456924db4185a47e1e1800e2be047bb212ae1bb75c67817308f53e3ed55",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/df1/tstaff/smok.spt",
+        "Hash": "d217d24978589eb44956f4757a6528d92a88cad3ce779b41baee561663e47ed4",
+        "Size": 872
+    },
+    {
+        "Path": "Chef/df1/tstaff/stars.spt",
+        "Hash": "c3ae651615729c7c71ceaf64ae52e33bb462b74f7cd1075157ce007c31dcd106",
+        "Size": 461
+    },
+    {
         "Path": "Chef/DRAGON_ARMOR_2017/ACCRETIA_ARMOR_GLOVES_001.EFF",
         "Hash": "5bcffb799db46449ddedf809cae884e879ce382221e5c2e3226ccfd46d450c34",
         "Size": 176
@@ -57228,6 +57953,86 @@
         "Path": "Chef/Eff/BF/WPALL.EFF",
         "Hash": "2c013b8c474e7b6990f9f5fd4d9c287d8eb7992c2dc97b5bfa188fb291262dc5",
         "Size": 176
+    },
+    {
+        "Path": "Chef/Eff/BG/ACCRETIA_FLAUNCHER_1171.eff",
+        "Hash": "50b6c2c1b175e299a395499f3e24c474cee609ed10db597c933b354c7d3f6205",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/accretia_weapon_tlauncher_1171.eff",
+        "Hash": "fc9a7d170fddae57b8be623a5c0dc364fc17b59c538cefd69dbbfb6b9ca3959c",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/belcor_weapon_tstaff_1171.eff",
+        "Hash": "69d944261268de1047261d88bc17e8f0ed18f6249be45404cc3de9d5631f07d6",
+        "Size": 1056
+    },
+    {
+        "Path": "Chef/Eff/BG/belcor_weapon_tstaff_1172.eff",
+        "Hash": "439f562677942b225c0ea13ebd4e1248b02d3b075c0dafe26f9bee4246e294da",
+        "Size": 1056
+    },
+    {
+        "Path": "Chef/Eff/BG/COM_TMACE_1171.eff",
+        "Hash": "5fef4fc5390e791e4274ff2dea3b12482f6ee832ed2ddf844fa7bb47b5111991",
+        "Size": 1056
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_daxe_1171.eff",
+        "Hash": "07349cd642c5de37e01d84049123af3e993f4bbdc6a41c074acfa7b4386a1963",
+        "Size": 1056
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_dbeamgun_1171.eff",
+        "Hash": "2094b8f990e078ad344a78fa9f21418972010281dbf5dd0b45a18690654a7342",
+        "Size": 880
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_rknifethrow_1171.eff",
+        "Hash": "78e185a126d520fd8d681bb09f191e0d8147acf19412d9503bd05d0134a528e6",
+        "Size": 880
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_rknife_1171.eff",
+        "Hash": "c4438291377779a3716ecf09dc53c88db48da2b921895d1a5b7023f22e8d82eb",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_TAXE_1171.eff",
+        "Hash": "dd9738a338960263289ab31686e484eda5b00b053d0096d3d6bd10f356d761e1",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_tbow_1171.eff",
+        "Hash": "0c36f38e7c644485772e6fde01d30a7da993d9ae5b5a5ab3f9c92e73af8b2f3c",
+        "Size": 1584
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_tspear_1171.eff",
+        "Hash": "0a66bec2ed7e3c9d1be55d9e948693f805d32dd4d95587ca42731eff3749dcf9",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/com_weapon_tsword_1171.eff",
+        "Hash": "e8853c8a3aa983f38ec7e4f93f5210cdbd7a73ab848bd1e8b4b48dd71efd3cd1",
+        "Size": 1056
+    },
+    {
+        "Path": "Chef/Eff/BG/CROSSBOW.EFF",
+        "Hash": "fdcb97868262cf52113db67f4efb6d5b30d4b89d4fb104691ecdd46efbefa3b0",
+        "Size": 1584
+    },
+    {
+        "Path": "Chef/Eff/BG/DXShield.EFF",
+        "Hash": "faf3e1209ef6ca5cbd0e05ac5f556e67e1267a604c997ed81c5dce425f399510",
+        "Size": 1232
+    },
+    {
+        "Path": "Chef/Eff/BG/KNIFE.EFF",
+        "Hash": "b9538bda806f43edf7a3f2e30e0be13b66c5178d1ee73fe9702357c07526af57",
+        "Size": 880
     },
     {
         "Path": "Chef/Eff/Booster_Phil/ACCRETIA_ARMOR_CLOAK_007.EFF",
@@ -87720,6 +88525,2156 @@
         "Size": 1760
     },
     {
+        "Path": "Chef/QG/EFF/CUSTOM_ARMOR/QG_OFFMASTER/QG_OFFARMOR_A.EFF",
+        "Hash": "ba612e0a5e926b3ae9a743088190fe30ee7812fe1848a8fe5f59b1dd14f08fac",
+        "Size": 1936
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_ARMOR/QG_OFFMASTER/QG_OFFARMOR_B.EFF",
+        "Hash": "100e52b31746b96c0c2f3d9fb07738657991f94c84f0722ff0b62d0c359a3c34",
+        "Size": 1936
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_ARMOR/QG_OFFMASTER/QG_OFFARMOR_C.EFF",
+        "Hash": "aa5792684e9b3d9806db7d77364b83f85416dc702cea236cb623f2fb15937ab1",
+        "Size": 1584
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_JETPACK/QG_OFFSPECX/QG_ACCRETIAQ_NYX.EFF",
+        "Hash": "40d5259e11aa832b8fa04c15212858637f53c0ca8aa1e6fa47733bc920f885e8",
+        "Size": 1936
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_JETPACK/QG_OFFSPECX/QG_BELLATOQ_NYX.EFF",
+        "Hash": "50501b6e7cef22743bf0ad87d62afef9a336bdc93eddd6d59212e216537548d1",
+        "Size": 2112
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_JETPACK/QG_OFFSPECX/QG_CORAQ_NYX.EFF",
+        "Hash": "4693e21fb2f9d31053aa7514e24fbd04a84f8dfab3cbfe25538b35cbcd0774f9",
+        "Size": 2288
+    },
+    {
+        "Path": "Chef/QG/EFF/CUSTOM_SETUP/QG_FREYA_DRAGONHUNTER_SHIELD_KNIFE.EFF",
+        "Hash": "30dd7adc231dea8e172f620d40856cd8dbf1d3c68c4d329cfdb6cc4585a10e47",
+        "Size": 1936
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Cape_Aura.spt",
+        "Hash": "af0469fd8ed3e638ae6709671e6e4660ee156819d2ccde71af939e511e7e2b12",
+        "Size": 652
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Electricity_Big.spt",
+        "Hash": "cf6b8844987f6835bdc09c41bf60b16349fa6c0895cbd3b2462f65f84355c324",
+        "Size": 462
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Electricity_Small.spt",
+        "Hash": "496435a08378b03b86d880ea7b5ab8c3db0d91f29a9ec8e75190a1b4f57d6ea5",
+        "Size": 462
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Horned_Fire.spt",
+        "Hash": "146e6c3bf5d7caaea83e1780c7c31acb657e403b4d3f92a91b31f3f0707b975a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LightUp.spt",
+        "Hash": "0fbd27231887e5c2293b08a4a55e6b840ef65d0cfab7c153b53c5c2948891bd7",
+        "Size": 433
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp1.spt",
+        "Hash": "d35f08ce447756df82e364e8a9b62bde612c1afebd47669175302ce44b169e61",
+        "Size": 430
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp2.spt",
+        "Hash": "ffd775ca4ac92abc7f58de627ad801dd20fdc56bf4847ee4ab0de1fe3ed94ee2",
+        "Size": 445
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LogoBawah.spt",
+        "Hash": "db0021a5a69748cd3918c51ffbaf9e941ba7974dcccfe6fd695da67441faeeb6",
+        "Size": 373
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/StarEye1.spt",
+        "Hash": "95602171d0b7bee509ea59b8a4d106336f8776bc7630096950be143aa00a55bf",
+        "Size": 351
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/StarEye2.spt",
+        "Hash": "5cc63f41283bad19cd3a0060cb4fb88e277b524935129f874e8ac4ed004304e8",
+        "Size": 353
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/StarEye3.spt",
+        "Hash": "0ff57a9e62635f2a7e1f43a3d32d2f430f481c3e82219d5255aeca450b37f932",
+        "Size": 353
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Wave_Floor1.spt",
+        "Hash": "2a5d0431154d7a49ebd20aa9b50a574066d204d863c31a72de25d71e4e475cb7",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/Wave_Floor2.spt",
+        "Hash": "5500168143b3f59714129ab98289fda66a5d3d6a48f67ec42214a0706d9bd68e",
+        "Size": 349
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/WordUp.spt",
+        "Hash": "45311114c6adc6817f2abaadc4464d29e9ac5c0062a7018a9d8d3629d3790828",
+        "Size": 442
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/Aura_Body.spt",
+        "Hash": "6d1547e8c5db982342fbc4c6717e29449f39a420b9cfc8f79fa8570655df96fd",
+        "Size": 681
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/Eye_eye.spt",
+        "Hash": "1847f7bc68e2823c68fcd12151761e3c713d5375dbdef1489440b56fd17189f1",
+        "Size": 318
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/Eye_glow.spt",
+        "Hash": "a15475a679d665002b310edf90c4a329c52ea6900c7494da1f7f2c630cf0a3af",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/Fire_Sparkle.spt",
+        "Hash": "032eab08efc5a30504cbc41986195738920a6e508604fa538862e8e4032ff321",
+        "Size": 515
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/Horned_Fire.spt",
+        "Hash": "6426df798e968aab47c63084b451c68a79ec9ff5a7e5922d12368aae7ecf33ab",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/StarEye1.spt",
+        "Hash": "20789130e09a0b819489561548eec00d71e2f714c746c298d2f627af535ae74c",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/StarEye2.spt",
+        "Hash": "a1961721dd844ace5ee5284621ae7e8cdd5d74c4c2206eaee0ec755f0d73ec93",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/CDK/StarEye3.spt",
+        "Hash": "1531b0f3339ecb2bf8d7fac81c5b45ab5857995357321292978874480f626326",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/StarEye1.spt",
+        "Hash": "48649400cd24c54e5342c8ee781094b14abf329398792a148f6458b3db0cd099",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/StarEye2.spt",
+        "Hash": "166853ae1500fe5be5a0de8e0c74a2deb4e7dabd05f5c2511891b500658ebcf2",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/StarEye3.spt",
+        "Hash": "2e826bcb4ebb6af0fb758c773a0ee565b690821cc2e8371221683081117d03dc",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/StarEye4.spt",
+        "Hash": "e851070ae0b3b566638a4d39b85834dcb22b8dc0b08e30bb899f945625cf7560",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/Body_Aura.spt",
+        "Hash": "d2d916ba33345fbd8229f679f732835c109039ad44c1ba9a38642d1ed90d1fc2",
+        "Size": 502
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/Cape_Aura1.spt",
+        "Hash": "572d7e9a17277c89c14b946488bb76c3c8928cff9cd29a429d7e4bbf86615fa1",
+        "Size": 656
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/Cape_Aura2.spt",
+        "Hash": "601f71540a2217f9d575e1f14de6eb744bdaae8702f59e84ee159ab9fbda5b62",
+        "Size": 656
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/Fire_Blade.spt",
+        "Hash": "1d93bcb2a1ba839d89adaf8385a37db33a2f7bd5efa3902ad2d5760927125413",
+        "Size": 732
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/StarEye_RED1.spt",
+        "Hash": "411ac12d0ab721db4859b075cf54320969cb0ad2a7b09da495f09e3f44033f48",
+        "Size": 350
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/DK/BOOSTER/StarEye_RED2.spt",
+        "Hash": "651e1a5d8a01279336f81290b8b30d073064311b0c6cf795442977cc5f307dda",
+        "Size": 350
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp1/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp1/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp1/recall01.r3t",
+        "Hash": "7c18451276472359278c67d5dacbe04961d59b0c2f807af6f3af0181b7546a33",
+        "Size": 22172
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp2/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp2/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LineUp2/recall01.r3t",
+        "Hash": "512d7713136d231a2abd756d4083d44a5666c078230f8a363fc03f23ffa26f10",
+        "Size": 11220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LogoBawah/nu_wave01.r3e",
+        "Hash": "2502e2a12c133246d80fac07587cccb19b88caecfedd53bd060226b59a5ceaff",
+        "Size": 220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LogoBawah/nu_wave01.r3m",
+        "Hash": "ec7c88b259c63ed533b26651512e8bc8b0e850429d8839fdb6281c5c62cdd33e",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/LogoBawah/nu_wave01.r3t",
+        "Hash": "3ea4e02f4eb825d87d75e1ae11e03c3569cb14f268fe15464eacefc67c549f49",
+        "Size": 349820
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/Body_Aura.spt",
+        "Hash": "d2d916ba33345fbd8229f679f732835c109039ad44c1ba9a38642d1ed90d1fc2",
+        "Size": 502
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/Cape_Aura1.spt",
+        "Hash": "572d7e9a17277c89c14b946488bb76c3c8928cff9cd29a429d7e4bbf86615fa1",
+        "Size": 656
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/Cape_Aura2.spt",
+        "Hash": "601f71540a2217f9d575e1f14de6eb744bdaae8702f59e84ee159ab9fbda5b62",
+        "Size": 656
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/Fire_Aura_Q1.spt",
+        "Hash": "556fb403acd01e92816e6b5ad3a601948d8c537506e56f319a66477ca5279ca6",
+        "Size": 1012
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/Fire_Aura_Q2.spt",
+        "Hash": "ea427fd860cd3dfc0c26f823de827a58e6caa55f4f2d7d07c89c9c3bf93f4605",
+        "Size": 1017
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1.spt",
+        "Hash": "8061e87f7075328a2a34fea31494e0ef382bfd08965cf1b566ea5555a5d628d2",
+        "Size": 350
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2.spt",
+        "Hash": "c4a34c3202cb078a096341340b7e2e7347df67f763508b9df4cfa08d33be20a6",
+        "Size": 368
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/StarEye_RED1.spt",
+        "Hash": "411ac12d0ab721db4859b075cf54320969cb0ad2a7b09da495f09e3f44033f48",
+        "Size": 350
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/StarEye_RED2.spt",
+        "Hash": "651e1a5d8a01279336f81290b8b30d073064311b0c6cf795442977cc5f307dda",
+        "Size": 350
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1/EF.dds",
+        "Hash": "42ac10a8b0acada0c4ebad32650d5f960530ccac9be4685d00855152bd696904",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1/EF.psd",
+        "Hash": "fd65c12efcfeda2fa26e963c8158c2892c3b6afe5cd837a31bebcf49b53a92a8",
+        "Size": 15617989
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas1/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2/EF.dds",
+        "Hash": "0eb9efd27da67de65be7910985e7f93d3e70e63567b29001378cc87243accfae",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2/EF.psd",
+        "Hash": "825006ad43a8fc85761d3ca7a72ccef977bb4a4934787e4729ca3914a24a9a2c",
+        "Size": 13366021
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/TDK/LogoAtas2/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/WordUp/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/WordUp/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/BOOSTER_OFFX/WordUp/recall01.r3t",
+        "Hash": "382fc53fd14bd036d547ee5750ee31f74c90352000a14697414ba66a03e3e054",
+        "Size": 22172
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Aura_Shield.spt",
+        "Hash": "ea39a0a984386b8fb77ed5541484c223a3487ef08f87cd34d65bd3a4fe74ad75",
+        "Size": 638
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Aura_Weapon_1.spt",
+        "Hash": "4ebcb55071355ee7fc6a22025bf5d0a3dcba47e0e957dc952a0785d456fb66c6",
+        "Size": 593
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Aura_Weapon_2.spt",
+        "Hash": "bf0069080718e6aca040d7a742e3fb69b639baef3185148e9a4dd34a26120b87",
+        "Size": 646
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Fire_Blade_Q1.spt",
+        "Hash": "d3424d606cea694df0fec8fa8388ee887e267e1f5679509c9cce5bcf1593c7b7",
+        "Size": 649
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Fire_Blade_Q2.spt",
+        "Hash": "73ebc9f11bf01cc8a7f31b00a944a399a90620a0753fe34ada207d777e46fbcb",
+        "Size": 651
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/Fire_Sparkle.spt",
+        "Hash": "f43d03d2dd8d2cf879a91b18399517b9168b2eae38f31c26755277134edad71d",
+        "Size": 581
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/StarEye1.spt",
+        "Hash": "3d366e867a1841c50183a9de31f9f8f9a37be55f61a4f9c2c40107b449361cef",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/StarEye2.spt",
+        "Hash": "b19ff97a290ed602acd7c78d475eac0864f0362e96596fc1ad838cb617b3817e",
+        "Size": 352
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/StarEye3.spt",
+        "Hash": "e834cb0e5b95d74abe2833423ed7b9fe110b4fa1153ba9aea75016e9bf114019",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/SPECIAL_FREYA_DRAGON/StarEye4.spt",
+        "Hash": "773fd484a1774ba0f95f89ace4e5e14c6d6392e71be1c4d4ba3e58e8e2aa81a8",
+        "Size": 354
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/147p/rain.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/147p/rain.r3m",
+        "Hash": "6457b7bba1a5f9929b51790ddca28340aa3ae48d1859d02f5e8f4ad0a83bb8c1",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/147p/rain.r3t",
+        "Hash": "af89e93b6400eddc21928f70c56477f7a60bdf55b4cbc083b33800a870474472",
+        "Size": 43958
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/58033/58033.R3E",
+        "Hash": "7ffb53f3b0bb7aa4cdb19d18c8d7bdf26ca8f473dcfdbb9c50ec8e0d80148b96",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/58033/aru_0.mst",
+        "Hash": "bbe77cb15833db90c6ac02f86dd9954d8cbe14033353096769aeb070d8c224dc",
+        "Size": 206
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/58033/aru_02.dds",
+        "Hash": "dbc5ac6c32f4dff17379e55113995720984bc8bc730ab10de820bdfb57ea6ccc",
+        "Size": 174904
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/58033/MainMaterial.mst",
+        "Hash": "d202d00d826a6d20bde3fb70d8c9e568be8704523b752de0182d3b634a7a4f98",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/701p/aura.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/701p/aura.r3m",
+        "Hash": "6e9d064358bc82e0c1fd25ebc43780d973e04cdc12ae99460357d3d216a9ecf8",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/701p/aura.r3t",
+        "Hash": "e9bea52264bc1b6b8a7622249fb4aeb85b46829ea40efb7ef5a5a550a83db04b",
+        "Size": 87644
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/704p/aura.r3e",
+        "Hash": "fd3ecfb3df224ff3805a171e522fc6429be9b19880c291d9a4da83a59004c64f",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/704p/aura.r3m",
+        "Hash": "d2169bae953837a689ee3205cf2853a19b2071b96e5eb18f6aa61d86c9e33942",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/704p/aura.r3t",
+        "Hash": "801eda5561110844b19f82e54cd8204dd5d1b6198c4e5dbdbe1705d9bb040f5c",
+        "Size": 43972
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura2/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura2/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura2/recall01.r3t",
+        "Hash": "512d7713136d231a2abd756d4083d44a5666c078230f8a363fc03f23ffa26f10",
+        "Size": 11220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura3/nu_wave01.r3e",
+        "Hash": "2502e2a12c133246d80fac07587cccb19b88caecfedd53bd060226b59a5ceaff",
+        "Size": 220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura3/nu_wave01.r3m",
+        "Hash": "ec7c88b259c63ed533b26651512e8bc8b0e850429d8839fdb6281c5c62cdd33e",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Admiral/Aura3/nu_wave01.r3t",
+        "Hash": "a456d8c03e7b62a3df3e4d288f26886137c0d016e54bd61065e61437e64ec475",
+        "Size": 349820
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/AuraBody/smoke_3.r3e",
+        "Hash": "7ffb53f3b0bb7aa4cdb19d18c8d7bdf26ca8f473dcfdbb9c50ec8e0d80148b96",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/AuraBody/smoke_3.r3m",
+        "Hash": "5f756520f15245784e1795fe5210e1bb30252a37d6a38ce143d8feeea7798457",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/AuraBody/smoke_3.r3t",
+        "Hash": "0767ae113ea716fa2e5c600ef2bebb81d246dede379b6541254caa92f9b0ba9e",
+        "Size": 11204
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BackAura58033/58033.R3E",
+        "Hash": "7ffb53f3b0bb7aa4cdb19d18c8d7bdf26ca8f473dcfdbb9c50ec8e0d80148b96",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BackAura58033/aru_0.mst",
+        "Hash": "bbe77cb15833db90c6ac02f86dd9954d8cbe14033353096769aeb070d8c224dc",
+        "Size": 206
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BackAura58033/aru_02.dds",
+        "Hash": "dbc5ac6c32f4dff17379e55113995720984bc8bc730ab10de820bdfb57ea6ccc",
+        "Size": 174904
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BackAura58033/MainMaterial.mst",
+        "Hash": "d202d00d826a6d20bde3fb70d8c9e568be8704523b752de0182d3b634a7a4f98",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BannerAdvertisement/EF.dds",
+        "Hash": "0eed48316e8237578170a3d618ebdf0709da6c100abbce6e6d1dbfa8604a3dc8",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BannerAdvertisement/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BannerAdvertisement/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BannerAdvertisement/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Blue/2593.R3E",
+        "Hash": "83eab76c4a50e536bc985871e5e63a9c505e4b8a0d1b7ea67cf5454f0ac49dc1",
+        "Size": 292
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Blue/l.dds",
+        "Hash": "d4851f27965c6966290b1fecec5daf0ac4eedc2863bc5747cc4699a21a556ef0",
+        "Size": 22024
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Blue/MainMaterial.mst",
+        "Hash": "cbdefaef5f8073cb1ae3853020519ca28a4eec1d5ba61adee2d99550ebc01978",
+        "Size": 43
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Blue/Material_25_0.mst",
+        "Hash": "15e43a48bcbca92976c24aa80d3d93fc870a891c4c29415c382ed296203ae1a8",
+        "Size": 165
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Orange/2593.R3E",
+        "Hash": "83eab76c4a50e536bc985871e5e63a9c505e4b8a0d1b7ea67cf5454f0ac49dc1",
+        "Size": 292
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Orange/l.dds",
+        "Hash": "d4d13fcac36250255e0600e086773fc11175a4117bf4420132aadb9973b7778f",
+        "Size": 43920
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Orange/MainMaterial.mst",
+        "Hash": "cbdefaef5f8073cb1ae3853020519ca28a4eec1d5ba61adee2d99550ebc01978",
+        "Size": 43
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BigThunder_Orange/Material_25_0.mst",
+        "Hash": "15e43a48bcbca92976c24aa80d3d93fc870a891c4c29415c382ed296203ae1a8",
+        "Size": 165
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BodyAura/aura.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BodyAura/aura.r3m",
+        "Hash": "6e9d064358bc82e0c1fd25ebc43780d973e04cdc12ae99460357d3d216a9ecf8",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/BodyAura/aura.r3t",
+        "Hash": "7b5ee5c5c79e31344e464c6a2806f89926438efadf82d359509834c8f6af725b",
+        "Size": 22140
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Body_Glow/aura.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Body_Glow/aura.r3m",
+        "Hash": "6e9d064358bc82e0c1fd25ebc43780d973e04cdc12ae99460357d3d216a9ecf8",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Body_Glow/aura.r3t",
+        "Hash": "40308939d5abf093bcf354abaedb17e1d70e567e879d4c5599e79e414d2f6c69",
+        "Size": 22140
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Booster_Effect/firea.dds",
+        "Hash": "e22417c6e1519c756fd4e215b83c1029aee53c319af48530300c5e67659745a9",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Booster_Effect/MainMaterial.mst",
+        "Hash": "58548f6bfae37abacfec2db3c19d0f5d082fb70e7b77cb91639f4aab444406ee",
+        "Size": 42
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Booster_Effect/Material0_0.mst",
+        "Hash": "7745fa5c7ad1fd0b11d103b8f1d91ac1084dd233cf4224ada8f2a97a99c832b1",
+        "Size": 161
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Booster_Effect/Material_0_0.mst",
+        "Hash": "7745fa5c7ad1fd0b11d103b8f1d91ac1084dd233cf4224ada8f2a97a99c832b1",
+        "Size": 161
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Booster_Effect/new_buster_a.R3E",
+        "Hash": "a27b3a73a415ba88f7bc86e01fb7171295df94c55a5655b136f1596327033fde",
+        "Size": 2900
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_eye/a_0.mst",
+        "Hash": "da1abdbcbb3b561eace115f9e551c3de456cdab1565f8fd12df4b5039f60da1d",
+        "Size": 177
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_eye/frboomani01.dds",
+        "Hash": "af2d238886e91b28c4f046b78a3e85c32271e597df06ef22a6079e7b28eeec0e",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_eye/MainMaterial.mst",
+        "Hash": "5c1b4be649ad231d80443239af0243635463ae87efd323e03a8ae68fba68ac11",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_eye/re.R3E",
+        "Hash": "db081dc06bdbbfee253755c0d5c3708a81dda11975b5e208d89b63eb5d2644fc",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_glow/a_0.mst",
+        "Hash": "da1abdbcbb3b561eace115f9e551c3de456cdab1565f8fd12df4b5039f60da1d",
+        "Size": 177
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_glow/frboomani01.dds",
+        "Hash": "f377b2049f038ad1f7e1e84afc43502f77353f96027601e472ee5a5844822473",
+        "Size": 65664
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_glow/MainMaterial.mst",
+        "Hash": "5c1b4be649ad231d80443239af0243635463ae87efd323e03a8ae68fba68ac11",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/catapult_glow/re.R3E",
+        "Hash": "db081dc06bdbbfee253755c0d5c3708a81dda11975b5e208d89b63eb5d2644fc",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ChestLogoAccretia/Mark.r3e",
+        "Hash": "59ee6c16446c777756dcd5c61c045503790187322b911f1484eb644382479b01",
+        "Size": 636
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ChestLogoAccretia/Mark.r3m",
+        "Hash": "f97caf6d48939dadba4664d497e47cd381efa320b1a8d906603ac8af3baae431",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ChestLogoAccretia/Mark.r3t",
+        "Hash": "8d09f79a83fec8365005a126289b916422c97e0000566ef1c9874ba0d495c033",
+        "Size": 173852
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Circle/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Circle/aa.dds",
+        "Hash": "7a08e8f37d543f0c45eaa54471cc81af991edd9c4d50a51653ec7a0a13cd1b3a",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Circle/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Circle/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Cut_Knife/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Cut_Knife/bd4c34d8_01.dds",
+        "Hash": "a7e7a731270ae2eea82096bb9df12c385858461d78e46ea323c5e782b4cfd323",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Cut_Knife/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Cut_Knife/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/devil_sparkle/spkl.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/devil_sparkle/spkl.r3m",
+        "Hash": "f11d222afdba36bb79704ae4d317c1f43e5c44b6f4f11a330a0c9ff202364ea2",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/devil_sparkle/spkl.r3t",
+        "Hash": "b84d934b872902d0732b4afa9fa67cf7f96513124d34646c550186eb37f1c857",
+        "Size": 1660
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/DragonFloor/wav.r3e",
+        "Hash": "e7c72d16b7a2a9c8272951a920a90e6b344b5b2c1b8106a1d20c0d01725756b9",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/DragonFloor/wav.r3m",
+        "Hash": "c07d4532de0738b98fa79b8d682a790b47588135e37403a1fda2f2210876e09a",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/DragonFloor/wav.r3t",
+        "Hash": "d2ceeb77abcf173a5f1c59a1b12dc61d92f22389690f1ba3988e6d4d87d1b990",
+        "Size": 43996
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/a01.r3e",
+        "Hash": "5f4d9d341cc75ae8bfcb619a465df49cffc8e6f6d44516030754b6c3781a1934",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/a01.r3m",
+        "Hash": "26a4a81c7676351c959b7d1d5b3ae6ef8ae2aea8c5d1ac9c2722fd7972312fe4",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/a01.r3t",
+        "Hash": "738817bd410b851d04050ab014df6c9e6d587e7ef95bd78701cd109d3aeb2b6c",
+        "Size": 175060
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/yeah.r3e",
+        "Hash": "123dbb4dc33bc82ea8c8b5f11872b126d6d5a5c82db01232c064a5ba3dc9f62a",
+        "Size": 292
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/yeah.r3m",
+        "Hash": "b3499c144b63c3bc4ec43c64272567ccaaf6d6f32f9c418c4d0f8176cf5fe408",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric/yeah.r3t",
+        "Hash": "1f37a7d8cd5ee16baf756cd2fb29de26420a0e64cec2ead1c89944be9211e28d",
+        "Size": 87676
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_01/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_01/bd4c34d8_01.dds",
+        "Hash": "05858559e79b2990d960a585376986a1a595fd5b6e2fc7b3043e38b54907cf82",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_01/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_01/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_02/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_02/bd4c34d8_01.dds",
+        "Hash": "20aaa36715536590bbd7eb08e94052ee15052213ab6cdfb2485e09108e2378a0",
+        "Size": 65664
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_02/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_02/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_03/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_03/bd4c34d8_01.dds",
+        "Hash": "17928d32ace236163a5511f022b885e74507c1fa04666301e68aad52a66826ee",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_03/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_03/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_04/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_04/bd4c34d8_01.dds",
+        "Hash": "d7f60151c743ef71b03e99af279f25cee6a70824dc96c9d19a8f1354bd4364ee",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_04/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_04/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_05/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_05/bd4c34d8_01.dds",
+        "Hash": "fe9ce1b77eb4249adec43eb62d5241f35f682c4ae92faa659662deca7457dc2e",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_05/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_05/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_06/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_06/bd4c34d8_01.dds",
+        "Hash": "a04645fd3d770c9d6bb3f094255651342fee6af1730ef05a6b6f08e599f59c2b",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_06/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_06/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_07/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_07/bd4c34d8_01.dds",
+        "Hash": "1684a98b3ce6de701ba19e7bf1b7483ef04913edd3ea44059ddeebc0d7db2ac1",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_07/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/electricity_07/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/a01.r3e",
+        "Hash": "5f4d9d341cc75ae8bfcb619a465df49cffc8e6f6d44516030754b6c3781a1934",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/a01.r3m",
+        "Hash": "26a4a81c7676351c959b7d1d5b3ae6ef8ae2aea8c5d1ac9c2722fd7972312fe4",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/a01.r3t",
+        "Hash": "738817bd410b851d04050ab014df6c9e6d587e7ef95bd78701cd109d3aeb2b6c",
+        "Size": 175060
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/yeah.r3e",
+        "Hash": "123dbb4dc33bc82ea8c8b5f11872b126d6d5a5c82db01232c064a5ba3dc9f62a",
+        "Size": 292
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/yeah.r3m",
+        "Hash": "b3499c144b63c3bc4ec43c64272567ccaaf6d6f32f9c418c4d0f8176cf5fe408",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Gold/yeah.r3t",
+        "Hash": "1f37a7d8cd5ee16baf756cd2fb29de26420a0e64cec2ead1c89944be9211e28d",
+        "Size": 87676
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Knife/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Knife/bd4c34d8_01.dds",
+        "Hash": "d7f60151c743ef71b03e99af279f25cee6a70824dc96c9d19a8f1354bd4364ee",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Knife/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Electric_Knife/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ElectroHazard/ElectroHazard.r3e",
+        "Hash": "5f4d9d341cc75ae8bfcb619a465df49cffc8e6f6d44516030754b6c3781a1934",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ElectroHazard/ElectroHazard.r3m",
+        "Hash": "26a4a81c7676351c959b7d1d5b3ae6ef8ae2aea8c5d1ac9c2722fd7972312fe4",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/ElectroHazard/ElectroHazard.r3t",
+        "Hash": "fe1dcc1852312251de7920b9c9f2ae8d86d0114bb039ce52eb088dc929a71c93",
+        "Size": 349852
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Elf_Knife/8_Default_0.mst",
+        "Hash": "d1075e2cad33580eab0e20e398e79f183cf4b31e915db588d937787738c98589",
+        "Size": 173
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Elf_Knife/Elf_Knife.dds",
+        "Hash": "f1a890c9ea874c0479282d80ccb3093ac3f00062ad557f5efbb33b22b6e3c972",
+        "Size": 349680
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Elf_Knife/Elf_Knife.R3E",
+        "Hash": "3ec40e733a7582b0d338220bcb9f3347a04d9517b9b1b3d2a1578f483fe70889",
+        "Size": 3730
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Elf_Knife/MainMaterial.mst",
+        "Hash": "f44867d2feab257a624f42c9fb6e64679de2d963de3a0054ac49437c954b8ce3",
+        "Size": 42
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/fire_sparkle/spkl.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/fire_sparkle/spkl.r3m",
+        "Hash": "f11d222afdba36bb79704ae4d317c1f43e5c44b6f4f11a330a0c9ff202364ea2",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/fire_sparkle/spkl.r3t",
+        "Hash": "ee4d1f22b5b6b418700ad19a7b5eba5a3834b7ba67542ead8a97179ff5c42e81",
+        "Size": 2998
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura1/nu_wave01.r3e",
+        "Hash": "2502e2a12c133246d80fac07587cccb19b88caecfedd53bd060226b59a5ceaff",
+        "Size": 220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura1/nu_wave01.r3m",
+        "Hash": "ec7c88b259c63ed533b26651512e8bc8b0e850429d8839fdb6281c5c62cdd33e",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura1/nu_wave01.r3t",
+        "Hash": "ccd6dd8f7500386d2eac1847285ea221323d122415113bfdc5245efc88351051",
+        "Size": 349820
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura2/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura2/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/FutureBooster/Aura2/recall01.r3t",
+        "Hash": "512d7713136d231a2abd756d4083d44a5666c078230f8a363fc03f23ffa26f10",
+        "Size": 11220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow1/1Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow1/aa.dds",
+        "Hash": "05d5021a705eb6603964f587dbfdd3088be78a656f598114b73a5cfc026836b2",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow1/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow1/MainMaterial.mst",
+        "Hash": "589232677d37e83dee9638aafeb2791d51733069c9018ca87d424e04a3d185e3",
+        "Size": 37
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow2/MainMaterial.mst",
+        "Hash": "39926a4023950d72d3c16967f523a35b49150d2124d57509af11b492471c5bbb",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow2/rain.R3E",
+        "Hash": "ba3dfeb0ab18b16d62d2380517d0363f677f286e23a7b88fd09af436a2d3db60",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow2/rainbow.dds",
+        "Hash": "750934c4ae2cf37293635a0fbfc6b4ef540ee33d63444b43444151e87b000fed",
+        "Size": 2872
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Glow2/taex1_0.mst",
+        "Hash": "9fbaa60262132dd61f63b0cbfc7d695ff7aa349c2b7327e80c69d1e358931ac7",
+        "Size": 171
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_01/1_Default_0.mst",
+        "Hash": "dec82ad3008c5daa81814d5c29adc9353bc77978696add053672964699d5ccb9",
+        "Size": 143
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_01/aa.dds",
+        "Hash": "e371721c2cc57944bfc7bbdf707196bf1ee2f3782f438a81fd687fddb845773f",
+        "Size": 43818
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_01/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_01/MainMaterial.mst",
+        "Hash": "9b14d6e427c3b26f2bfa5222592e6ef25de1f6c76980a78a48aae2d62c756dd0",
+        "Size": 38
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_02/MainMaterial.mst",
+        "Hash": "39926a4023950d72d3c16967f523a35b49150d2124d57509af11b492471c5bbb",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_02/rain.R3E",
+        "Hash": "ba3dfeb0ab18b16d62d2380517d0363f677f286e23a7b88fd09af436a2d3db60",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_02/rainbow.dds",
+        "Hash": "750934c4ae2cf37293635a0fbfc6b4ef540ee33d63444b43444151e87b000fed",
+        "Size": 2872
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LightParticle_02/taex1_0.mst",
+        "Hash": "7fd98c682d7c68b15debe4016a7cdbf545a1a3f0bae807dff6a3b9d687f77919",
+        "Size": 169
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Lightup/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Lightup/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Lightup/recall01.r3t",
+        "Hash": "512d7713136d231a2abd756d4083d44a5666c078230f8a363fc03f23ffa26f10",
+        "Size": 11220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LineUp/recall01.r3e",
+        "Hash": "6d0358635505bb848de621cbee2bc889336cd7948db64bd8c697133e47a4203a",
+        "Size": 508
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LineUp/recall01.r3m",
+        "Hash": "874acb84a4a9c0003aa742ecb5a82036b96231452ba35f53e5e7444cc3bd3503",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LineUp/recall01.r3t",
+        "Hash": "512d7713136d231a2abd756d4083d44a5666c078230f8a363fc03f23ffa26f10",
+        "Size": 11220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoA/EF.dds",
+        "Hash": "0744f32dbe0861074cac46df2930501511fcb450cb81cd7a57bcd725ee22258f",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoA/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoA/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoA/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoB/EF.dds",
+        "Hash": "8ee0c765972aeb5b6c674d35f9cae1cfdf3b09f80fbbd655d8c5cdde5779d5d3",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoB/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoB/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoB/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoC/EF.dds",
+        "Hash": "ac806a56f3d673652982dfc3797b01e18940cbd3bb1215a7028ef78f621f6587",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoC/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoC/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoC/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoStreamer/EF.dds",
+        "Hash": "35afa0a1f90bde5bdeb3f4d574e39af98f99eee51ec4aaac143bafe470ce69fe",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoStreamer/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoStreamer/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/LogoStreamer/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle1/nu_wave01.r3e",
+        "Hash": "2502e2a12c133246d80fac07587cccb19b88caecfedd53bd060226b59a5ceaff",
+        "Size": 220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle1/nu_wave01.r3m",
+        "Hash": "ec7c88b259c63ed533b26651512e8bc8b0e850429d8839fdb6281c5c62cdd33e",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle1/nu_wave01.r3t",
+        "Hash": "73a7471440806af400cb171a41d8f9eb979675c0ba1544a1fc02f0110024bacd",
+        "Size": 349820
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle2/nu_wave01.r3e",
+        "Hash": "2502e2a12c133246d80fac07587cccb19b88caecfedd53bd060226b59a5ceaff",
+        "Size": 220
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle2/nu_wave01.r3m",
+        "Hash": "ec7c88b259c63ed533b26651512e8bc8b0e850429d8839fdb6281c5c62cdd33e",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MagicCircle2/nu_wave01.r3t",
+        "Hash": "e3e326495e8e78ba5e9c70d6a5752fde7fc57f1e123cbe817e6eb21a4df02b3c",
+        "Size": 349820
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MOB_GLOW/1Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MOB_GLOW/aa.dds",
+        "Hash": "05d5021a705eb6603964f587dbfdd3088be78a656f598114b73a5cfc026836b2",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MOB_GLOW/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/MOB_GLOW/MainMaterial.mst",
+        "Hash": "589232677d37e83dee9638aafeb2791d51733069c9018ca87d424e04a3d185e3",
+        "Size": 37
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/QRCODE/EF.dds",
+        "Hash": "1ba7c328f43288ccf3a1331c8edb8159e53d4e297731c730c20ceed7780657a5",
+        "Size": 1398256
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/QRCODE/FA_0.mst",
+        "Hash": "20f1f9b8c5eca02c24e62a5bd181bdd6e6eba534125c8bd5db9dd87eacba5808",
+        "Size": 166
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/QRCODE/MainMaterial.mst",
+        "Hash": "634d30888de9dacdc448a522bb264653be9215aa56d80c88f46fa053f719229d",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/QRCODE/Monarch.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/rise_smoke_01/1_16frame.dds",
+        "Hash": "c8521518e6da29d4d5a93195ba08aa5a2941d8b77722b1c77e16ecca58b1d239",
+        "Size": 699192
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/rise_smoke_01/1_64frame.dds",
+        "Hash": "ae81b9d47368230bedbfda6a24824f9050335f3488edec5602ec858ca59c8451",
+        "Size": 699192
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/rise_smoke_01/Default_01_0.mst",
+        "Hash": "cd0315a33f9e37036a0d428235d4d9a8f2bca74f99e7fe93db9edff285667389",
+        "Size": 209
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/rise_smoke_01/MainMaterial.mst",
+        "Hash": "730b73898f6bae8dbd91fcb9800567c84039efd20ff61377f4cf80fc59f82840",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/rise_smoke_01/rise_smoke_01.R3E",
+        "Hash": "9eeecc438454e8567c5be4baba139baafcda1b2b82c493fe8edab67dec3b2b0c",
+        "Size": 1972
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_01/1_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_01/aa.dds",
+        "Hash": "e371721c2cc57944bfc7bbdf707196bf1ee2f3782f438a81fd687fddb845773f",
+        "Size": 43818
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_01/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_01/MainMaterial.mst",
+        "Hash": "9b14d6e427c3b26f2bfa5222592e6ef25de1f6c76980a78a48aae2d62c756dd0",
+        "Size": 38
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_02/MainMaterial.mst",
+        "Hash": "39926a4023950d72d3c16967f523a35b49150d2124d57509af11b492471c5bbb",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_02/rain.R3E",
+        "Hash": "ba3dfeb0ab18b16d62d2380517d0363f677f286e23a7b88fd09af436a2d3db60",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_02/rainbow.dds",
+        "Hash": "750934c4ae2cf37293635a0fbfc6b4ef540ee33d63444b43444151e87b000fed",
+        "Size": 2872
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Small_Star_02/taex1_0.mst",
+        "Hash": "9fbaa60262132dd61f63b0cbfc7d695ff7aa349c2b7327e80c69d1e358931ac7",
+        "Size": 171
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Snow_sparkle/spkl.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Snow_sparkle/spkl.r3m",
+        "Hash": "f11d222afdba36bb79704ae4d317c1f43e5c44b6f4f11a330a0c9ff202364ea2",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Snow_sparkle/spkl.r3t",
+        "Hash": "6a6f29a85fc5f5622bf058c031789b6c115c624fed6b321291e18879fb3da7b5",
+        "Size": 5756
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Sparkle/spkl.r3e",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Sparkle/spkl.r3m",
+        "Hash": "f11d222afdba36bb79704ae4d317c1f43e5c44b6f4f11a330a0c9ff202364ea2",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Sparkle/spkl.r3t",
+        "Hash": "6c85a990925d78a8591492590ea0326055a6b81600464f2f7be8a9f41e103cc2",
+        "Size": 1660
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Star2/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Star2/aa.dds",
+        "Hash": "81119f6513f20b0f444caa2a954a43ff99d053680561ff7125db263ac62477e1",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Star2/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Star2/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarCircle/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarCircle/aa.dds",
+        "Hash": "81119f6513f20b0f444caa2a954a43ff99d053680561ff7125db263ac62477e1",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarCircle/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarCircle/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarClone/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarClone/aa.dds",
+        "Hash": "3bfe29210d1bf9382b2f41590b39351e4c43ed24fffeb93585fc1fb87526dbff",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarClone/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarClone/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye/aa.dds",
+        "Hash": "e371721c2cc57944bfc7bbdf707196bf1ee2f3782f438a81fd687fddb845773f",
+        "Size": 43818
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye2/1_-_Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye2/aa.dds",
+        "Hash": "81119f6513f20b0f444caa2a954a43ff99d053680561ff7125db263ac62477e1",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye2/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarEye2/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarGlow/1_-_Default_0.mst",
+        "Hash": "39d2a11383b289436605f92730a0208ce67806de3fc26946d7490fd8ed67f263",
+        "Size": 143
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarGlow/aa.dds",
+        "Hash": "81119f6513f20b0f444caa2a954a43ff99d053680561ff7125db263ac62477e1",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarGlow/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/StarGlow/MainMaterial.mst",
+        "Hash": "3a9524a4a00eccf755477315eac26276d38515d3bd71ac499ee2e311a0bbdaab",
+        "Size": 40
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Starsparkle/blind.r3e",
+        "Hash": "db081dc06bdbbfee253755c0d5c3708a81dda11975b5e208d89b63eb5d2644fc",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Starsparkle/blind.r3m",
+        "Hash": "4749aba7172a4a921331ab2681ac06b211a8ab14128850598478519cb8ce5fc4",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Starsparkle/blind.r3t",
+        "Hash": "921c422c675a407ebcd5205f74ccda5f273fc05e678608bf4997ae9ebfd93940",
+        "Size": 22140
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Symbol_01/AAA_0.mst",
+        "Hash": "928a2203f6117fb9f0306611dc6030b0df9940a0b7afc22176f877aa4d28d907",
+        "Size": 211
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Symbol_01/bd4c34d8_01.dds",
+        "Hash": "2a9a3507bc5ba41622ce5ee473fd5d4374a8bc5c2766467bb4f569fd30f9dd20",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Symbol_01/MainMaterial.mst",
+        "Hash": "3d8896824aa3f776a002d7248e38a3f2c0b291afcbc6d5c231f92eb7e6020b8f",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/Symbol_01/shield_01.R3E",
+        "Hash": "855af48f36a86319cc14ed00eff303c3d86331a8e2ca7044f52037f72d31435c",
+        "Size": 268
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_01/1Default_0.mst",
+        "Hash": "469ca8836063f5c0e458ed80105cb749403e8dbcf690cbe8f3f63981fa3fa041",
+        "Size": 145
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_01/aa.dds",
+        "Hash": "05d5021a705eb6603964f587dbfdd3088be78a656f598114b73a5cfc026836b2",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_01/aura.R3E",
+        "Hash": "fb4e19dcfa232190979b2dcafcd7430064d5f080db562b5360666e7e3ff8f88f",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_01/MainMaterial.mst",
+        "Hash": "589232677d37e83dee9638aafeb2791d51733069c9018ca87d424e04a3d185e3",
+        "Size": 37
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_02/MainMaterial.mst",
+        "Hash": "39926a4023950d72d3c16967f523a35b49150d2124d57509af11b492471c5bbb",
+        "Size": 44
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_02/rain.R3E",
+        "Hash": "ba3dfeb0ab18b16d62d2380517d0363f677f286e23a7b88fd09af436a2d3db60",
+        "Size": 208
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_02/rainbow.dds",
+        "Hash": "750934c4ae2cf37293635a0fbfc6b4ef540ee33d63444b43444151e87b000fed",
+        "Size": 2872
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/TSWORD_106_particle_02/taex1_0.mst",
+        "Hash": "9fbaa60262132dd61f63b0cbfc7d695ff7aa349c2b7327e80c69d1e358931ac7",
+        "Size": 171
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaterWave/wav.r3e",
+        "Hash": "e7c72d16b7a2a9c8272951a920a90e6b344b5b2c1b8106a1d20c0d01725756b9",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaterWave/wav.r3m",
+        "Hash": "c07d4532de0738b98fa79b8d682a790b47588135e37403a1fda2f2210876e09a",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaterWave/wav.r3t",
+        "Hash": "fc35158f5b1f560bdb2c27aaab22914b3d0645f0a9425ac0c3fea436eac69e18",
+        "Size": 43996
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaterWave/wav_BACKUP.r3t",
+        "Hash": "d90f3830a3c1b6f0cd25a3846d0cc69a301c44e9065229f885c0df528e59d780",
+        "Size": 22132
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFloor/wav.r3e",
+        "Hash": "e7c72d16b7a2a9c8272951a920a90e6b344b5b2c1b8106a1d20c0d01725756b9",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFloor/wav.r3m",
+        "Hash": "c07d4532de0738b98fa79b8d682a790b47588135e37403a1fda2f2210876e09a",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFloor/wav.r3t",
+        "Hash": "d90f3830a3c1b6f0cd25a3846d0cc69a301c44e9065229f885c0df528e59d780",
+        "Size": 22132
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFoot/wav.r3e",
+        "Hash": "e7c72d16b7a2a9c8272951a920a90e6b344b5b2c1b8106a1d20c0d01725756b9",
+        "Size": 728
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFoot/wav.r3m",
+        "Hash": "c07d4532de0738b98fa79b8d682a790b47588135e37403a1fda2f2210876e09a",
+        "Size": 198
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFoot/wav.r3t",
+        "Hash": "d90f3830a3c1b6f0cd25a3846d0cc69a301c44e9065229f885c0df528e59d780",
+        "Size": 22132
+    },
+    {
+        "Path": "Chef/QG/SPT/QGN/[INDEX]/WaveFoot/wav_BACKUP.r3t",
+        "Hash": "d90f3830a3c1b6f0cd25a3846d0cc69a301c44e9065229f885c0df528e59d780",
+        "Size": 22132
+    },
+    {
+        "Path": "Chef/QG/TEX/AD_QG1.dds",
+        "Hash": "316ec9cde24a4c5edc8ad2fa6be0fe1794a21691adcb287fd8644be458ed0709",
+        "Size": 638640
+    },
+    {
+        "Path": "Chef/QG/TEX/AD_QG2.dds",
+        "Hash": "ed94d5b6399d7e111a75bf6a14d9c3f71eb477d53ee8465324da353452d5a4d9",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/AD_QG3.dds",
+        "Hash": "2a6a7ba7e817ea908146a48fa81617c4e8865da90355e587b84be2759d7e668c",
+        "Size": 638640
+    },
+    {
+        "Path": "Chef/QG/TEX/AD_QG8.dds",
+        "Hash": "efa0ae32c243aed0d6ce1eb77ccd9727ba87dcf29a4e70ce05da6ecc54ca2f01",
+        "Size": 476448
+    },
+    {
+        "Path": "Chef/QG/TEX/balde_Orange.dds",
+        "Hash": "3ca29f60cf97fa60f86e139e6b4b7e7203b9c17dcd8384deda9a5a843b9cd8c0",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/fire2_a.dds",
+        "Hash": "016b1e002dccff14415ef07b7d8246e19571b805568902f2c70dbb93e5be1db2",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/Opac.dds",
+        "Hash": "0bca2f8bb1f8d68edf965234cdcf19bf778bd7d53b41fbcaa09a15caa8c1efe8",
+        "Size": 176
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_AGR.dds",
+        "Hash": "c2190a635f996c6fe85923b6b584787c0853f7af66f1da8b2d428ea3efdfc9f2",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_B0.dds",
+        "Hash": "c2290e63de52aa43f0625ec0a39c34db764c614f302fc91b74e237e5b853ecc9",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_B1.dds",
+        "Hash": "f49bbc864cd9ffd8bda08d217ac24ad80d3f585a3cc47af3495ea3a0abccb78a",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_C1.dds",
+        "Hash": "99d771b1f000addceee99fe4558a07bd6aed80586b186710fa5c9be312560755",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_CSA.dds",
+        "Hash": "cbfc531d0245640f14ff8a12a8d46e7c3a99c033bfb409702400c554bca56a0d",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_CSB.dds",
+        "Hash": "8f037009b48910befd424682b3c48c6b685c57ae46c689486380c4c45ce043e6",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_CSM.dds",
+        "Hash": "8ea5845f8e1e5d00ab9c304e2dcfb802bde715210afa48c7d5c889db02e1ef8c",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_CSQ.dds",
+        "Hash": "03161a198475882c11af69d6c2547c4501523afdb6e64bbe84a26647dda8cf22",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_E1V.dds",
+        "Hash": "0195d50121fcce02c64236eefe767902af6abfc8eeef4a212ea14041662ab444",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_EL1.dds",
+        "Hash": "d0972d78d7c7d672c44c5e3e317eece463c67d656f6bdda2cc5e2d1ffbed8def",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_EN2.dds",
+        "Hash": "af29c34c0f123a5625bda647408b5301114208d9d80d2c204efb8fd68322651f",
+        "Size": 11064
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_EP1.dds",
+        "Hash": "d90fbd1a2e2a705925ae0577e54275751f7bcdba5072f3e4fe45374d97be6e5a",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ER1.dds",
+        "Hash": "8fac760e699d0065bf4e4a896d00f0e7a2b38b3eebc139a436ee34f8a5a6f034",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ET1.dds",
+        "Hash": "629fe60541c6f4973ffbc41ecdc9e28f9fd942b8755f8fe506de0d3ca11aae28",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ET2.dds",
+        "Hash": "6c7a9e3b2fff3c2d99b9a1181e26844ef7fb906efe22c23ac6cb84d241352446",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ET3.dds",
+        "Hash": "864f233b701bb21a34fcaedb1e3958d1e822aa25b0678a7dd80c59c716675f81",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ET4.dds",
+        "Hash": "cebe39af623666023e42ffc903d36a3a4167e1c3ff95a4a7964691b27b27e402",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_ET5.dds",
+        "Hash": "5a5cf335148db30d70801d80d3bbd89ee640311a3ffe214b8a0e262e51ee7a80",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_FRD.dds",
+        "Hash": "94de2f350afc6f6fd29c26a386cc60f3575b9b269f3489ead5c65adfa2df53aa",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_FYL.dds",
+        "Hash": "30d69a4a6c01227c0ec30ae0ecfbc796fdbc047cdb63240c5de596c30528c012",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G0.dds",
+        "Hash": "1c5967de433e6467d9766193e8cc15848278e685152b2b9281c8c84d4bf3956f",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G1.dds",
+        "Hash": "1939aed4582c97f1f9001f7e713313e3df8a7c8fa81f470a6a0961e6853121c0",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G2.dds",
+        "Hash": "4ab4252d32aabad20f133c16e63a78ce40188d800f6f55768e3e1cec6b5986d8",
+        "Size": 11064
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G4.dds",
+        "Hash": "4528c3e6d26bb1b8451685cb30d533d54057f4afc63648c916642d08132097b9",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G5.dds",
+        "Hash": "9ed1870f5ce4510863fdc4dc46b10a7976f1b619b9b531e47bf90525731adbcc",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G6.dds",
+        "Hash": "d8b01e9297227229a8e786a845bee2b0a0cfcf86c84b1f340ecf0c2026573b67",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G7.dds",
+        "Hash": "6a2740b275e6c1e9565af407e3c9b66bbfd729e498806aa7d4468830760b4caa",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G8.dds",
+        "Hash": "5cd23badd7418ae47e1d19c33b531f942163f6b3603e042859d0f7648124f8cc",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_G9.dds",
+        "Hash": "145c112afc4972cb9fea50721d8e87540f896a0c033a2e43382823996a19643f",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_H0.dds",
+        "Hash": "1180bd7e99ebd1b359a7d4a2714302edcb39a78a25e1b51b31fe0c4b53ccc9bc",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_HC.dds",
+        "Hash": "29918cb1afdbaff750519180e2207bc1bce3a3b0d6d88d6062667d4209e9f00d",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_N1B.dds",
+        "Hash": "c2bbfff9a7f71ea459ff7621b4e13ab70ff034db1af87c8a2f2e6bd9d525d04f",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q0G.dds",
+        "Hash": "28ba6d85153276303dfbc6b1aa2ea6913a9220bd0470db1e079efe5f03a1ed97",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q11.dds",
+        "Hash": "99b511093ca116c8b1cb9fffa35afbb2885202f920ef66fc08616077a195218d",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q12.dds",
+        "Hash": "a02ce913fb737cfdc3adcaef460569d212f29451a7cb13a560124d86c03979b8",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1B.dds",
+        "Hash": "46296c0ca3dddaa02c91e45f73224f8d50ab4b6de064be7b98bf8386039fb929",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1G.dds",
+        "Hash": "67b3eb8673445de8b5af97ec08b86c026651fb1c0e2ff8f31713fff3cc126656",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1M.dds",
+        "Hash": "d00ca83af9f9530206e60fa40a30fdcda64bbac060e7ae9f7111f4a0e3d30238",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1P.dds",
+        "Hash": "d00ca83af9f9530206e60fa40a30fdcda64bbac060e7ae9f7111f4a0e3d30238",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1R.dds",
+        "Hash": "3d7bce0026f9a78038392984256dfbc89f4cad39c345a8d29ad712dcfad6380c",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1W.dds",
+        "Hash": "22a1bbc2573526e825ab0cc6b048919b0c7760cad955231a67e0fb341274baed",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q1Y.dds",
+        "Hash": "863f677019a4257dada93c4ce31374a4e02e734f229e5506614bf14fe20be852",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2B.dds",
+        "Hash": "67dd6d52ff9134cea9c7ae815f55c56c966fd2886014c8a883cfc9f67baeb0e8",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2C.dds",
+        "Hash": "442422bf717d53bdf9b4dcf2502320ba7086b5dbe9f907b7e6b99d6dd2e4b9f0",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2G.dds",
+        "Hash": "33dbbaf8066cec2d8207d1247b6ae71ade1f25ee727055e6c323bf0a15cf83a7",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2R.dds",
+        "Hash": "a9dee0104be7b10cf5f33fbcabf8c1e364641c885d06503c442cc4c590ce0dc2",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2W.dds",
+        "Hash": "45bf22384cebbfde3906ab9a3796d759382e6e222476f16f28b50f84f01bad39",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q2Y.dds",
+        "Hash": "477c863066ce0535e171c76c4a3f121487bd7ffdc4067ec296496695c60f5ecf",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q3B.dds",
+        "Hash": "f053e0fcce76cab684808e566dbbfc407a960dfbb6d52ae193ed0af4cfa373ac",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q3G.dds",
+        "Hash": "dc1ec1843764df0831ffc8684b8d3296a1013508cb0e20f1b3cda0ee0c923c10",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q3M.dds",
+        "Hash": "be339ca0dd5401cf6e2c44d06b17d6a448d5fa54e90aed4e8cd30569fd1eb919",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q3R.dds",
+        "Hash": "faa2d4da5d76ff64ab14d33af7953ee45ac334c9f8bef3360d79f18f86bd7266",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q3W.dds",
+        "Hash": "213a56e9cfb1374b49b957877a66d8cea982584bb912f9d2058f3dca64b9876f",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q4B.dds",
+        "Hash": "e9d9fa0d1958ab6a3e011c81fede121420ed0de66aeb85ae382ad9d1fa006a44",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q4G.dds",
+        "Hash": "004eddd4dc6778c040b13fb2b1e7b6ba943cfcf855dd38dff7ed78ee1e6ccd6a",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q4M.dds",
+        "Hash": "c13fd97260013ea0ce1d80d00899970812edc8e2230df3fed58d94ebd3e91fe8",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q4R.DDS",
+        "Hash": "2a1bc90f92ce0d5d8cb2b9559592e8b30119e9e84c1136279df3cfb7cb9794f0",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q4Y.dds",
+        "Hash": "b427f72ca8d8801751ca55e27037d7f96c746667c6136dd29ba30c99da69f73a",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q5B.dds",
+        "Hash": "7a5ba4e065721e75e19c5c3896c7a962eba8ca9d41c5f9a3d4251374be326ebf",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q5G.dds",
+        "Hash": "19228539b6dd2311643844516d1e6554d6a6789915348f735bc5c9f52a2f52af",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q5M.dds",
+        "Hash": "3a322a1d60394c3cd20b0fbfeea819f09e85796ae0f36dbb4cbc8b29a446ff43",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q5R.dds",
+        "Hash": "3252dad95916f036659b12311ab9f7c85b2b2b6db0e039318f15a3aff1284029",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q5X.dds",
+        "Hash": "3a3a4e5352b6f533d915b1e38c76a213a23998bf046506a8284da6115e2727b2",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q6B.dds",
+        "Hash": "df33696b280d78e6d0ddaa6758662b435d0e6cb3ce0f1f53c953f786c284e3f6",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q6G.dds",
+        "Hash": "1740cb4d06d8f68389a2eaf3962fadf8683614f0b0c87d213c96117f9b8ff919",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q6R.DDS",
+        "Hash": "96e3fc8a6d462d1dba64980195f2d500b70b3674a1aca0824ed1fe4ace6d4f57",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q7B.dds",
+        "Hash": "ada589bb26dabdef28ed6af7a6808b92ec9aaec03079d180dfbd6dc385a499dc",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q7G.dds",
+        "Hash": "453243c087f3ea02f0e2a6694fc5949b16a789101408e486572523dfbc073fda",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q7P.dds",
+        "Hash": "dd74a928a836dd8232cc42667406597034ac06c1d76d328fe6bbdbde0b7cd93b",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q7R.dds",
+        "Hash": "5564a50d40814531446eea92eeb7ac512f4717dc34d7efe0baf6048065239cd1",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q8B.dds",
+        "Hash": "5883b165c7e59cac186f85163059997574a6390ff7d614ea0e52c3cb7b49442a",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q8G.dds",
+        "Hash": "6bafa947ef312c23455f499079eb23ee2cf9e9acdf503f8e8f28e6513b2f5fb0",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q8R.dds",
+        "Hash": "671ed7ff6cb5bbf117bdaf59051b8aa992383d451b5d18459b8ab7827182adb5",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q9G.dds",
+        "Hash": "17fa98e7013acde05e365d30ab98f932bda101333c0343ffcd9102139032be25",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_Q9R.dds",
+        "Hash": "11f6fdaff0c220582489f91da267eafe38f169c52948d3776eea21f32883298e",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_QHT.dds",
+        "Hash": "298e571dad8dae4dd4523b9d63984766f435cf62a0389b7bba328d16776fdec2",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_QMA.dds",
+        "Hash": "44432c6985d670ad7cde3c36dad27ad81511a124a028482a5f94858720c3b8b6",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_QR0.dds",
+        "Hash": "d910944aab1faf08a331b6c748049b1c3fbeff8a56dd7f4a9a1526a6d47f2866",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_QR1.dds",
+        "Hash": "41e061fa0ff4c9b4d69b1bba08e2481fb08996ce95c9ea76c3cacbdc21776c81",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_QRB.dds",
+        "Hash": "203bf1b183fbd3a634ff837f9ec78c44634be556f3d786ee9bbf10430957bd66",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_R0.dds",
+        "Hash": "0b3d85ee2ad6a9fa44baaa296edd207c8fd1c3dd70a63ef1e5d0f5f8adc4e7f5",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_R1.dds",
+        "Hash": "41e061fa0ff4c9b4d69b1bba08e2481fb08996ce95c9ea76c3cacbdc21776c81",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_RA1.dds",
+        "Hash": "542e3a9cce3145be8daeec4b2794bcbac9c8184064d856917445e945f24a4ced",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_S0.dds",
+        "Hash": "7cca26eff8a7c70ef3c4ec3bc41316fe189f967bd1a74c536acfef17de630532",
+        "Size": 87504
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_S1.dds",
+        "Hash": "0fbd83f3a946c2ed59c690c033f5e4d1d1fb94434313033dcb88c85b4488fc74",
+        "Size": 43832
+    },
+    {
+        "Path": "Chef/QG/TEX/QG_W14.dds",
+        "Hash": "f49bbc864cd9ffd8bda08d217ac24ad80d3f585a3cc47af3495ea3a0abccb78a",
+        "Size": 22000
+    },
+    {
+        "Path": "Chef/QG/TEX/sphrotated_02.dds",
+        "Hash": "d138f87a3420ac6f9e20123799a9f91c53c302f88c05275a3ccf9c1571007e5d",
+        "Size": 87536
+    },
+    {
+        "Path": "Chef/QG/TEX/STAFF_Y_02.dds",
+        "Hash": "dc1ec1843764df0831ffc8684b8d3296a1013508cb0e20f1b3cda0ee0c923c10",
+        "Size": 87536
+    },
+    {
         "Path": "Chef/rainbow_monster_Pig/BLUEPIG.EFF",
         "Hash": "9862d78cf0adb3159ac59b983df8a1d6ba9e215be52682b036e56b7149d56763",
         "Size": 880
@@ -99935,6 +102890,11 @@
         "Size": 349680
     },
     {
+        "Path": "Chef/Tex/CHRMRH.dds",
+        "Hash": "bf9628a673ca6b6b196d863461ba768f250b3410418fd0216e9713e86a8f3dce",
+        "Size": 87536
+    },
+    {
         "Path": "Chef/Tex/Circle_1.dds",
         "Hash": "cd0670935168991fb61ba2c24e792a94ccba5a7955ecaa01e258fd3a6bf91c07",
         "Size": 43832
@@ -100928,6 +103888,11 @@
         "Path": "Chef/Tex/reflection_b.dds",
         "Hash": "386dde17265897b31bfeb36a58ad6f9ecd2816646dab7c00c2cd37afbef1fdb7",
         "Size": 22000
+    },
+    {
+        "Path": "Chef/Tex/RHEFFA.dds",
+        "Hash": "67b3eb8673445de8b5af97ec08b86c026651fb1c0e2ff8f31713fff3cc126656",
+        "Size": 87536
     },
     {
         "Path": "Chef/Tex/rix2.dds",
@@ -120846,8 +123811,8 @@
     },
     {
         "Path": "datatable/character.edf",
-        "Hash": "3076d9bfc95d7acec60bf20d1c03f49e86c79f2b27f8e20263455972e8ee4ba8",
-        "Size": 1786405
+        "Hash": "e970c301c60e85ea65d5526453a50e0850ce60d5f0c27b93d126bef65170b92d",
+        "Size": 1763029
     },
     {
         "Path": "datatable/ChatCommand.ini",
@@ -120858,11 +123823,6 @@
         "Path": "datatable/Class.edf",
         "Hash": "25863aedfa1d17a1dca872cb786c526dff7c5ae130cd9fe1f27eb4036fce5eba",
         "Size": 8729
-    },
-    {
-        "Path": "datatable/clientdb.dat",
-        "Hash": "871373d8c737c224214987c2c7084e6f10d4a6d844290970e1e1dd470c668e87",
-        "Size": 272083
     },
     {
         "Path": "datatable/cr.scp",
@@ -120951,8 +123911,8 @@
     },
     {
         "Path": "datatable/GameSetting.ini",
-        "Hash": "9691e86bcffb744a7cc41cf26c78ae34cecdc2fec5a399107490f798ac493297",
-        "Size": 506
+        "Hash": "2cf2850629fda664e603b4a3e5615c3359cdf0c2fb43e00e1313c51f0962c04f",
+        "Size": 538
     },
     {
         "Path": "datatable/Hint.edf",
@@ -120966,8 +123926,8 @@
     },
     {
         "Path": "datatable/item.edf",
-        "Hash": "02cf19228733a87356df13f3fb1c25a857ff80684a8655d7a20c163e4672526f",
-        "Size": 19318135
+        "Hash": "81344c329c81447c20d1d27a172690718dccfddb9a643de4b0be1fc376b8805b",
+        "Size": 19334743
     },
     {
         "Path": "datatable/ItemArmor.edf",
@@ -120976,7 +123936,7 @@
     },
     {
         "Path": "datatable/itemcash.edf",
-        "Hash": "8302a3f7f42ec2431fe6658fefe34c77487f9b66944805e39afc699ef32660f8",
+        "Hash": "7ae5d07afee942bc46452541266d5666690158cfd5ced08d156494ccbf013071",
         "Size": 64297
     },
     {
@@ -120991,7 +123951,7 @@
     },
     {
         "Path": "datatable/itempremium.edf",
-        "Hash": "c98e6b774271c944ff74acf7c3643efaf69376a19d18dd759ebb418d30ad3431",
+        "Hash": "0c74c8f1397a7ed1a68d0288b75c5ed137050f0ec07ab710153c2b8d9e87fe0b",
         "Size": 384385
     },
     {
@@ -121001,8 +123961,8 @@
     },
     {
         "Path": "datatable/itemseteffect.edf",
-        "Hash": "502ba66a30f2cb51cd55f3a4152ddc74ef9778a4761f85a26dd2add919465e24",
-        "Size": 204849
+        "Hash": "102be2f3d3599ce0a638bd59db16ecb211561bce3a74f46383a9dcf2558ca8f3",
+        "Size": 113913
     },
     {
         "Path": "datatable/itemtimer.edf",
@@ -121080,6 +124040,11 @@
         "Size": 8181
     },
     {
+        "Path": "datatable/nditem.edf",
+        "Hash": "3a8310fb285c35364bc9efc8cf54d271f8ab68411237581b23ec489e6f396fa5",
+        "Size": 9591427
+    },
+    {
         "Path": "datatable/NPC.edf",
         "Hash": "fd7712f078995cbff67b16ba983589425a659ebb12d6ac1396f9557c8b698fec",
         "Size": 14941
@@ -121106,13 +124071,13 @@
     },
     {
         "Path": "datatable/quest.edf",
-        "Hash": "833838d49a2b800ee997576dfff5dd1a676ea5b86c6120d6f5ef505f74876047",
+        "Hash": "2573d71442d3e3f08cc227d440418a1f20b16ec5458c65b8fad449dab99b6a02",
         "Size": 1276641
     },
     {
         "Path": "datatable/resource.edf",
-        "Hash": "ed7bdd8de57dd3230908885eb784c9e777e6c1c2566671b97dc2da628b5ae2a2",
-        "Size": 9753281
+        "Hash": "7b5a4ac3985515c88b7d1256bae6bb0f883a6ea5cf12282339f637f6bb2d2ae5",
+        "Size": 9772525
     },
     {
         "Path": "datatable/RF_AVI.dat",
@@ -121136,7 +124101,7 @@
     },
     {
         "Path": "datatable/skillforce.edf",
-        "Hash": "71d8f3be3cd725afc4e2362869ee4b0363cb2d094b4aa9702d19d11379b2224b",
+        "Hash": "1997edbb5ef46927618912d1809aced15fb0f9d76713045aba1eba1510c9907c",
         "Size": 2285257
     },
     {
@@ -121146,7 +124111,7 @@
     },
     {
         "Path": "datatable/store.edf",
-        "Hash": "c05814dfb20d823a4c31bf09c5281fd320f302b57126de75517f37347163df5f",
+        "Hash": "0dc2a64f1714cd34690eedc21177259f4937205b4306b8b1768703fdb331eae0",
         "Size": 567417
     },
     {
@@ -121401,13 +124366,13 @@
     },
     {
         "Path": "datatable/en-ph/KeyMap.dat",
-        "Hash": "ac97755a381e0bc39eb97c459eabd8fd49882a67b6a41c0d26fc6556a13075bf",
-        "Size": 1969
+        "Hash": "22c0886a90cfc8cbd831fe12376f72d6d0e73a45539730073bc4066c21db2d31",
+        "Size": 1968
     },
     {
         "Path": "datatable/en-ph/KeyMap_NKM.dat",
-        "Hash": "9075371a083816f72dedb3afa3065e156c7c9d056e1d7b4e73c3baa655ab1f45",
-        "Size": 1911
+        "Hash": "4439ceb2360a328097d19c55f047761d91ef69c90862b3788d5c203d8deecdf6",
+        "Size": 1910
     },
     {
         "Path": "datatable/en-ph/langeng.edf",
@@ -121456,8 +124421,8 @@
     },
     {
         "Path": "datatable/en-ph/nditem.edf",
-        "Hash": "2c55538df8fdd99fa42473d2a3728b81613363bb47b87e49249f52146269dd91",
-        "Size": 9575199
+        "Hash": "811cd691cbeeb4da598cd00ecf2b77d920e1bd3ac747c7be01fcdbbdea955155",
+        "Size": 9591427
     },
     {
         "Path": "datatable/en-ph/NDItemArmor.edf",
@@ -121466,7 +124431,7 @@
     },
     {
         "Path": "datatable/en-ph/nditemcash.edf",
-        "Hash": "dde62c31c466cfca2d510932c49717317d4bbf0c115b3b9066cec14373b1a639",
+        "Hash": "953294297ae7ec02dde288e3852d55b6ced6bdbc1d91e237f083d96858a23580",
         "Size": 4297
     },
     {
@@ -121516,12 +124481,12 @@
     },
     {
         "Path": "datatable/en-ph/ndskillforce.edf",
-        "Hash": "cdf5cff8c5f0e17a08ae16e9cb7231dfb2336c4a6c48c207dafd0d7ef8394f44",
+        "Hash": "18b41cdcbc31f92a2b088eb293c0ae52692f512a11d9bda8b6ad37879bc1cfc5",
         "Size": 1111177
     },
     {
         "Path": "datatable/en-ph/ndstore.edf",
-        "Hash": "b417ce8bd26b2e7131ce99da7fde9576db96070369fbde4ae1dc045d1592b090",
+        "Hash": "d1f71ad9c0e124593d481727120c3d369ffcad9bf6ffbe4252a4368606d916f8",
         "Size": 73871
     },
     {
@@ -121548,11 +124513,6 @@
         "Path": "datatable/en-ph/ResDummy.lua",
         "Hash": "840a9443cedbcee4c8650719b05d7acbfe2ecfeea161f340fdbba3c018d01384",
         "Size": 1341
-    },
-    {
-        "Path": "datatable/en-ph/Resource.edf",
-        "Hash": "7b929fbd4e96b8a8d1c032e9aa36b49b601f5049d6d1345d418ff14a6db98908",
-        "Size": 9238449
     },
     {
         "Path": "datatable/en-ph/RF_AVI.dat",
@@ -121596,8 +124556,8 @@
     },
     {
         "Path": "datatable/en-ph/ui.lang",
-        "Hash": "6cda35342494ff5f270b92f1f18462d54e48fccd6664833e816b1b5579f8d6c6",
-        "Size": 3949
+        "Hash": "aa0da3f2e9462ec2c5a9fd73feeabd962ec8b1aef3ac1e88c41f69dfc591bb12",
+        "Size": 4011
     },
     {
         "Path": "datatable/en-ph/UIHelp.edf",
@@ -121608,6 +124568,11 @@
         "Path": "datatable/en-ph/WORLDMAPDATA.DAT",
         "Hash": "49d7295395b9c6acaf02ba40626770561523ce06ad269058deae5515ca881637",
         "Size": 8266
+    },
+    {
+        "Path": "Effect/Effect.zip",
+        "Hash": "e9dba0fed29f85de0ed500acded7aa86ab223ca122265b80b7e8fcacc85e8598",
+        "Size": 4158534
     },
     {
         "Path": "Effect/EffectEntity.r3s",
@@ -129870,6 +132835,36 @@
         "Size": 30982
     },
     {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_ATTACK.ANI",
+        "Hash": "d0f1186d2fd2015ae15389283d1132be8d88d041e6949cd0d3760602e97c7e49",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_DEFAULT.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_EQUIP.ANI",
+        "Hash": "bb2c170aa84f75617f9cf10f9319636bc265566c951e8c4076c0e7d3a1dd9ffc",
+        "Size": 2486
+    },
+    {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_UNEQUIP.ANI",
+        "Hash": "580aed1dd4faa106986e41a9ff242473e9668e04543456e46df2fc1891ecc317",
+        "Size": 2546
+    },
+    {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_UNUSE.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORFEMALE_ARMOR_CLOAK_OFFSPEC_USE.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
+    },
+    {
         "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_000_ATTACK.ANI",
         "Hash": "fcfa3ca0c8f7b973784afcf42838a90d9db7b6955b0bee53ef508400c783024c",
         "Size": 5726
@@ -130158,6 +133153,36 @@
         "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_021_USE.ANI",
         "Hash": "835db58b3a953adbacb23b314e0daa28094e5501e340c6157a0b78f7a99223c8",
         "Size": 30982
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_ATTACK.ANI",
+        "Hash": "d0f1186d2fd2015ae15389283d1132be8d88d041e6949cd0d3760602e97c7e49",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_DEFAULT.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_EQUIP.ANI",
+        "Hash": "bb2c170aa84f75617f9cf10f9319636bc265566c951e8c4076c0e7d3a1dd9ffc",
+        "Size": 2486
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_UNEQUIP.ANI",
+        "Hash": "580aed1dd4faa106986e41a9ff242473e9668e04543456e46df2fc1891ecc317",
+        "Size": 2546
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_UNUSE.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
+    },
+    {
+        "Path": "Item/Armor/Ani/CORMALE_ARMOR_CLOAK_OFFSPEC_USE.ANI",
+        "Hash": "2d72d1070a1c81e65bbfe1e1a6223d9d5f2ff00675af6321e7ffa37e16fdc110",
+        "Size": 3318
     },
     {
         "Path": "Item/Armor/Ani/NewCloakA.RFS",
@@ -131315,6 +134340,11 @@
         "Size": 1353587
     },
     {
+        "Path": "Item/Armor/Mesh/ACCRETIA_ARMOR_CLOAK_OFFSPEC.MSH",
+        "Hash": "f3b3d1d9489eb9dd8a1079cdbff468e4ec66df7a0af732cb53a8f1c66732d95e",
+        "Size": 745269
+    },
+    {
         "Path": "Item/Armor/Mesh/AKM00.RFS",
         "Hash": "0c5fcfa514cc0e2ad2b0bebf0acb347d1dc482d14993ac9f8ae73add466ee604",
         "Size": 945479
@@ -131510,6 +134540,11 @@
         "Size": 1347110
     },
     {
+        "Path": "Item/Armor/Mesh/BELFEMALE_ARMOR_CLOAK_OFFSPEC.MSH",
+        "Hash": "698a3572e8d717c4ee2f81a44e33c5841adcd72a68c64112bf74bba3375ea5e7",
+        "Size": 1549041
+    },
+    {
         "Path": "Item/Armor/Mesh/BELMALE_ARMOR_CLOAK_002.msh",
         "Hash": "b7afd1bcc76d07c5618a8073913c9e145d2e7c23f24da4e8ac3888ae1fcb9513",
         "Size": 181038
@@ -131603,6 +134638,11 @@
         "Path": "Item/Armor/Mesh/BELMALE_ARMOR_CLOAK_193.msh",
         "Hash": "1a0e2cdbfabd788b83cff7341d585e377da517197511386e231e63114e2f48c0",
         "Size": 1347110
+    },
+    {
+        "Path": "Item/Armor/Mesh/BELMALE_ARMOR_CLOAK_OFFSPEC.MSH",
+        "Hash": "46fcfce6bd79088e273d0a59c55ef1677d080734a4086b8f117db0f49c11be8e",
+        "Size": 1549738
     },
     {
         "Path": "Item/Armor/Mesh/BLACKTIGER.RFS",
@@ -131705,6 +134745,11 @@
         "Size": 1946003
     },
     {
+        "Path": "Item/Armor/Mesh/CORFEMALE_ARMOR_CLOAK_OFFSPEC.MSH",
+        "Hash": "0872e560a76c411d758e78ad87f82acaa16d0902a1861c7d0aac72415a5b824b",
+        "Size": 689877
+    },
+    {
         "Path": "Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_002.msh",
         "Hash": "1358c801aa0fb42a0e7e3ff3f1650176527528e762b6b38fb11b9eeb810a662c",
         "Size": 209363
@@ -131798,6 +134843,11 @@
         "Path": "Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_193.msh",
         "Hash": "20500a46a210b49e687f92ede1ab815fd977f24052d8c82f6ed815f66ea4f0c1",
         "Size": 1946003
+    },
+    {
+        "Path": "Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_OFFSPEC.MSH",
+        "Hash": "5affee25cba60d93b119bb99b68ca184500d7516add47faf6d5b45e1bdffa8d8",
+        "Size": 613555
     },
     {
         "Path": "Item/Armor/Mesh/NewCloakM.RFS",
@@ -133023,6 +136073,36 @@
         "Path": "Item/Armor/Tex/NewCloakT.RFS",
         "Hash": "87fb29e11155c6584870aecda2e369f28d602f415325628b6fada685d4a7828b",
         "Size": 349716
+    },
+    {
+        "Path": "Item/Armor/Tex/Q1_DRAGON_LOW_CAPE.dds",
+        "Hash": "61112f4a68bdd73dd40154dd2477478451c92aff583a282d9ab66f91759498db",
+        "Size": 3145904
+    },
+    {
+        "Path": "Item/Armor/Tex/Q1_IMMORTAL_BLADE.dds",
+        "Hash": "60dbff70cd7b1a28c7e11af3f4de93816f085108e9b3b525a3e2291780973e4b",
+        "Size": 174928
+    },
+    {
+        "Path": "Item/Armor/Tex/Q1_SHADOW_LAUNCHER_ARMORREV1.dds",
+        "Hash": "91c427ee69366341d0181e80ad2af4d23229bff097b8b3c4a58688f1bd9d2b5e",
+        "Size": 1398256
+    },
+    {
+        "Path": "Item/Armor/Tex/QG_GREATSWORD_SHADOW.dds",
+        "Hash": "c28f52c64354515fe70c7431a4adec05ca100831ac9cb2441664a0e319d3e288",
+        "Size": 692112
+    },
+    {
+        "Path": "Item/Armor/Tex/QG_SHADOW_CAPE_Q2.dds",
+        "Hash": "cac4e5e22cc6b21fea018cd8c54c2ea19725a0a6d503531a43a71e2d303c3002",
+        "Size": 699216
+    },
+    {
+        "Path": "Item/Armor/Tex/QG_SHADOW_CAPE_Q3.dds",
+        "Hash": "8f7680a470a6a0eeb91b1b5484480a38d49a4418e1f6312218ce740e522d5f6a",
+        "Size": 699216
     },
     {
         "Path": "Item/Armor/Tex/RFSInfo.dat",
@@ -138095,6 +141175,11 @@
         "Size": 196193
     },
     {
+        "Path": "Item/Shield/Mesh/ACCRETIA_ARMOR_LSHIELD_570.msh",
+        "Hash": "f803b9464e209ab437dc1f2e93c99460441cc0c665d83aa38ca9ccc38cb88d7f",
+        "Size": 585434
+    },
+    {
         "Path": "Item/Shield/Mesh/BELCOR_ARMOR_LSHIELD_021.MSH",
         "Hash": "01d9e8db2093628ee718e96288859979005bb010f390b41df8dc6e4037ffccf6",
         "Size": 81976
@@ -138120,6 +141205,11 @@
         "Size": 171782
     },
     {
+        "Path": "Item/Shield/Mesh/BELCOR_ARMOR_LSHIELD_570.msh",
+        "Hash": "f803b9464e209ab437dc1f2e93c99460441cc0c665d83aa38ca9ccc38cb88d7f",
+        "Size": 585434
+    },
+    {
         "Path": "Item/Shield/Mesh/ELFSHM01.RFS",
         "Hash": "ddaabf8f43fbcdd3621e22f88f40803baac3cbba40d38b2582a7137f0823f310",
         "Size": 109675
@@ -138133,6 +141223,11 @@
         "Path": "Item/Shield/Mesh/ORI70.RFS",
         "Hash": "4b0773aab761f98414101697c354cda6fdf75d5e2e665e974c7bc7225a8c11ec",
         "Size": 177349
+    },
+    {
+        "Path": "Item/Shield/Mesh/QG_BELCOR_FREYA_DRAGON_HUNTER.MSH",
+        "Hash": "d6abaeedce1e27423ee692458fd30d9d48d9008503b11bde33355bacff0d4b37",
+        "Size": 90065
     },
     {
         "Path": "Item/Shield/Mesh/RFSInfo.dat",
@@ -138195,6 +141290,11 @@
         "Size": 699492
     },
     {
+        "Path": "Item/Shield/Tex/HUNTER_SHIELD.dds",
+        "Hash": "7e28281da540b5f2f713a4aff1164cb0e28a608d9817f2b82b9c5e21e65b16f9",
+        "Size": 1398256
+    },
+    {
         "Path": "Item/Shield/Tex/ori6770.RFS",
         "Hash": "123be0bd13c54cf00d8b1b3ae1c48ec42be4febe309d2dba6618600d85316dde",
         "Size": 524676
@@ -138203,6 +141303,11 @@
         "Path": "Item/Shield/Tex/ORI70.RFS",
         "Hash": "123be0bd13c54cf00d8b1b3ae1c48ec42be4febe309d2dba6618600d85316dde",
         "Size": 524676
+    },
+    {
+        "Path": "Item/Shield/Tex/QG_FREYA_DRAGON_HUNT.dds",
+        "Hash": "bd7093aae612466c44d8b4436c8f4ff2d6c0af13ff98502d90c4691fb20dec4f",
+        "Size": 2184768
     },
     {
         "Path": "Item/Shield/Tex/RFSInfo.dat",
@@ -139675,6 +142780,11 @@
         "Size": 121968
     },
     {
+        "Path": "Item/Weapon/Mesh/ACCRETIA_FLAUNCHER_1171.msh",
+        "Hash": "2b1de4e3dd3c6e85be0fce163c189e97d6e5015dc32c97a0dc293aa76add9adc",
+        "Size": 350200
+    },
+    {
         "Path": "Item/Weapon/Mesh/ACCRETIA_WEAPON_GRELAUNCHER_021.msh",
         "Hash": "7b58ec997c79fcb948f3399640716fa82db7cf0540a89009618e4f41faabade2",
         "Size": 265190
@@ -139763,6 +142873,11 @@
         "Path": "Item/Weapon/Mesh/ACCRETIA_WEAPON_GRELAUNCHER_224.msh",
         "Hash": "0f5553eb80074e10bdda208a73f225298cc238af3554cc38c9296343b7407fd2",
         "Size": 374813
+    },
+    {
+        "Path": "Item/Weapon/Mesh/ACCRETIA_WEAPON_GRELAUNCHER_570.MSH",
+        "Hash": "ee76af7031056cc39170383cfa05559d4f6b7ece162ec19e76b9ddd4a61e8cff",
+        "Size": 253295
     },
     {
         "Path": "Item/Weapon/Mesh/ACCRETIA_WEAPON_SIEGEKITFT_006.msh",
@@ -139920,6 +143035,11 @@
         "Size": 108926
     },
     {
+        "Path": "Item/Weapon/Mesh/BELCOR_TSTAFF_1171.msh",
+        "Hash": "9575dfc6835121fc620a6cd46dda248bbceb9662e811501d6c14f63eed92aac8",
+        "Size": 260411
+    },
+    {
         "Path": "Item/Weapon/Mesh/BELCOR_WEAPON_TSTAFF_001.msh",
         "Hash": "94d6fbcf80f587f20421f3092f8e828272a1eb8dce2347a2b33c0fa64411d4db",
         "Size": 105448
@@ -140015,9 +143135,59 @@
         "Size": 488024
     },
     {
+        "Path": "Item/Weapon/Mesh/BG_BELP_KNIFE.MSH",
+        "Hash": "3b0b15b9e250272be9c86356d93ebf1dda4a261e52bf43ca7e2e3c1418d97568",
+        "Size": 67873
+    },
+    {
+        "Path": "Item/Weapon/Mesh/BG_BELP_WAND.MSH",
+        "Hash": "862a66b9b4abeb6ca91bd9de95f81a4fb18535bbe9b79347e4778114913eb78b",
+        "Size": 113352
+    },
+    {
         "Path": "Item/Weapon/Mesh/blktg_wp.RFS",
         "Hash": "5e5dffe07b286be58dfd14ebbc04f2fc3aae6bd3d9a70aff4dd0ba0275f120ad",
         "Size": 372766
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_DAXE_1171.msh",
+        "Hash": "cf2e9f63f1d8aa8338d8e9176afd06fd67a1811935a086246ed504408862c6e8",
+        "Size": 551385
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_DBEAMGUN_1171.msh",
+        "Hash": "104868a296325c280e516861f78b26458d376d80de99a6ccf8af874499e88924",
+        "Size": 495436
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_RKNIFETHROW_1171.msh",
+        "Hash": "e48fcc2584a8fa56e0b245f72e410144b38d8dba3b5e12c7237f370d69797df1",
+        "Size": 286963
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_RMACE_1171.msh",
+        "Hash": "3d4b82d494f5d83879beb18e2b766447df9c9ad78da802f7f9a67632308d3ed1",
+        "Size": 284760
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_TBOW_1171.msh",
+        "Hash": "76e516205539bf3f28c3e414d04c48d308b7c24cd5666fc41f52a092178045f7",
+        "Size": 342166
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_TMACE_1171.msh",
+        "Hash": "c9193f410e4d566f6b86de135076b08cffce71fcb7321341940815481762abcc",
+        "Size": 237090
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_TSPEAR_1171.msh",
+        "Hash": "123d643e614a0b182769e75981159bc4c5a90f75b96a2907ea8c95df7c3e3220",
+        "Size": 260528
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_TSWORD_1171.msh",
+        "Hash": "4df5a85d4b979ffa317623f5520e069b68aaaacf5fe2a7328b0605bacbea7502",
+        "Size": 182719
     },
     {
         "Path": "Item/Weapon/Mesh/COM_WEAPON_DGUN_001.msh",
@@ -140480,6 +143650,11 @@
         "Size": 264004
     },
     {
+        "Path": "Item/Weapon/Mesh/COM_WEAPON_TCROSSBOW_570.MSH",
+        "Hash": "e43a363af1c85c605b0c1ce40cb000c9a7eb563662bc75e9f40d0384e7378ccc",
+        "Size": 532576
+    },
+    {
         "Path": "Item/Weapon/Mesh/COM_WEAPON_TGUN_007.msh",
         "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "Size": 0
@@ -140663,6 +143838,11 @@
         "Path": "Item/Weapon/Mesh/COM_WEAPON_TMACHINEGUN_224.msh",
         "Hash": "ef933890ef7b424c1590d73ba61e142227b089c4aafaef6e877cc7042e662ca2",
         "Size": 145598
+    },
+    {
+        "Path": "Item/Weapon/Mesh/COM_WEAPON_TMACHINEGUN_570.MSH",
+        "Hash": "3c01eead9ef4bc0ee07354c94077168b779f0c98ce122a27c7159e0188b4d650",
+        "Size": 349503
     },
     {
         "Path": "Item/Weapon/Mesh/COM_WEAPON_TSPEAR_021.msh",
@@ -140880,9 +144060,19 @@
         "Size": 1197518
     },
     {
+        "Path": "Item/Weapon/Mesh/QG_WEAPON_RKNIFE_FREYA_DRAGON_SWORD.MSH",
+        "Hash": "bca8cf24002566f78b804dcb92ab596b3e4a22a55a3d1f845e73f7fdc71dee58",
+        "Size": 60248
+    },
+    {
         "Path": "Item/Weapon/Mesh/RFSInfo.dat",
         "Hash": "008f2c8469b4afe95433bbfa53f938d15959ff1eb67dbe787836ce236a10f6c8",
         "Size": 273
+    },
+    {
+        "Path": "Item/Weapon/Mesh/RH_BELP_KNIFE.msh",
+        "Hash": "72a42465d6bffdf496bd8a9b46856175d6f58c420f0df09fcf8ec583094aa2fd",
+        "Size": 175690
     },
     {
         "Path": "Item/Weapon/Mesh/SIEGEORISS.RFS",
@@ -141000,6 +144190,11 @@
         "Size": 349680
     },
     {
+        "Path": "Item/Weapon/Tex/Axe18_A_diff.DDS",
+        "Hash": "703eef9e41f1b2dc95d981d58313a7ac604eeb151a7b70fd9e5764ed60d0f48e",
+        "Size": 1398256
+    },
+    {
         "Path": "Item/Weapon/Tex/BarbecueFree.dds",
         "Hash": "f586999bf360eb710a8eb13fafd5a2cfe99478e6fd4143ab8d06ed01fecbdaa5",
         "Size": 1048704
@@ -141018,6 +144213,21 @@
         "Path": "Item/Weapon/Tex/BELCOR_WEAPON_TSTAFF_135.RFT",
         "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "Size": 0
+    },
+    {
+        "Path": "Item/Weapon/Tex/BELPHEGORGUARD_weapon.DDS",
+        "Hash": "5d21c23728848d12fa39a8caae1087084276bcbbda8e5e821fdb15fe8ff8b039",
+        "Size": 349680
+    },
+    {
+        "Path": "Item/Weapon/Tex/BELPHEGOR_weapon.DDS",
+        "Hash": "8df20344a9f1fdf12a2afe180eb71cdd264bcb217b7996ac97c36be9deefa234",
+        "Size": 349680
+    },
+    {
+        "Path": "Item/Weapon/Tex/blaster18_A_diff.DDS",
+        "Hash": "e2e0415e974e2887fbf28b403dec0f139032ff0d162d2e9c4d2a215a558e2beb",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/COM_WEAPON_RAXETHROW_134.RFT",
@@ -141063,6 +144273,16 @@
         "Path": "Item/Weapon/Tex/COM_WEAPON_TSWORD_106.RFT",
         "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "Size": 0
+    },
+    {
+        "Path": "Item/Weapon/Tex/CrossBow18_A_diff.DDS",
+        "Hash": "86b7636a45186934c7413b2922fc53b7ba20ac79d12b7c5bb8584572fad95973",
+        "Size": 1398256
+    },
+    {
+        "Path": "Item/Weapon/Tex/CrossBow18_A_diff1.DDS",
+        "Hash": "b1ccbef89fe0753543c9e73fc78bff3107411a0f20af3bcfccf1d0e2d931ea39",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/DGUN_001.dds",
@@ -141150,6 +144370,11 @@
         "Size": 1048704
     },
     {
+        "Path": "Item/Weapon/Tex/Lance18_A_diff.DDS",
+        "Hash": "73a0c1e427f1188521cb97b6cf32df45889f1bf7a183979625004879053dded7",
+        "Size": 1398256
+    },
+    {
         "Path": "Item/Weapon/Tex/NET55.RFS",
         "Hash": "83ef2b164e45b7274accb5b1421b32d7bef1882830bd1a0ea72a73275f486d53",
         "Size": 4196932
@@ -141175,6 +144400,11 @@
         "Size": 3497444
     },
     {
+        "Path": "Item/Weapon/Tex/QG_FREYA_DRAGON_HUNT.dds",
+        "Hash": "bd7093aae612466c44d8b4436c8f4ff2d6c0af13ff98502d90c4691fb20dec4f",
+        "Size": 2184768
+    },
+    {
         "Path": "Item/Weapon/Tex/RAXETHROW_001.dds",
         "Hash": "273d72d777395de67eda4702c3ed0af5a31ffb8bd61a6848cd071b2cf79d5d74",
         "Size": 349680
@@ -141188,6 +144418,11 @@
         "Path": "Item/Weapon/Tex/RFSInfo.dat.bak",
         "Hash": "0fe151558f6a6941e6d45b582b6dae7433e1eaf3939f3ba5df176e21a384da4d",
         "Size": 266
+    },
+    {
+        "Path": "Item/Weapon/Tex/RH_KNIFE_BELP.dds",
+        "Hash": "f68e30ccee1e290159750caa641f732d3392bfbf0bedbf256c351d51b519ebb6",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/RKNIFETHROW_021.dds",
@@ -141310,6 +144545,11 @@
         "Size": 262272
     },
     {
+        "Path": "Item/Weapon/Tex/Rod18_A_diff.DDS",
+        "Hash": "4579c06c20fd2e3d4698106b28ac2cf8fc967d5061a6d2152771d4cc695481f1",
+        "Size": 1398256
+    },
+    {
         "Path": "Item/Weapon/Tex/SIEGEKIT_75LV.dds",
         "Hash": "3bf0996a5dfbb5257de6ae58eb9b631ec9946124b7e5a9c7ebabd5ec581e06c5",
         "Size": 262272
@@ -141323,6 +144563,16 @@
         "Path": "Item/Weapon/Tex/snow-gun.rft",
         "Hash": "20ec1ed091bd8d1d267affb5082ba2e01a350f463cb5774cb54068530836d083",
         "Size": 349648
+    },
+    {
+        "Path": "Item/Weapon/Tex/spear18_A_diff.DDS",
+        "Hash": "fff40d5eb39f176209fb2250c71e829f09698e3c4c0ef5f6fe167bc30cb3ef2e",
+        "Size": 1398256
+    },
+    {
+        "Path": "Item/Weapon/Tex/Staff18_A_diff.DDS",
+        "Hash": "49fd796acd9f572dcbab6024733ecfda7b9281800494ba75151a0eb5aa595349",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/TAXE_021.dds",
@@ -141398,6 +144648,11 @@
         "Path": "Item/Weapon/Tex/TAXE_FREE4.dds",
         "Hash": "4602df4a567261f2ff722f8771d955ca8922140d2aeba6cbc8c3146783b9a606",
         "Size": 1048704
+    },
+    {
+        "Path": "Item/Weapon/Tex/TBow18_A_diff.DDS",
+        "Hash": "51b1baff06f484a14352830da33a4a12b2f5fbe2d2d45f65c7a77cb7bdfc8e94",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/TBOW_001.dds",
@@ -141933,6 +145188,11 @@
         "Path": "Item/Weapon/Tex/TSWORD_FREE4.dds",
         "Hash": "98971731d3b71a3c181412b5f395dddca5eee1e57661acc756af315a9b0ab5d4",
         "Size": 1048704
+    },
+    {
+        "Path": "Item/Weapon/Tex/TwoHand18_A_diff.DDS",
+        "Hash": "f68e30ccee1e290159750caa641f732d3392bfbf0bedbf256c351d51b519ebb6",
+        "Size": 1398256
     },
     {
         "Path": "Item/Weapon/Tex/WET00.RFS",
@@ -153611,13 +156871,13 @@
     },
     {
         "Path": "NetLog/CEngineLog.log",
-        "Hash": "b2c3784ac6a00f5639c77207d08084f19a6405d62d085d05587dda0acd47c8b3",
-        "Size": 5262340
+        "Hash": "32750771e67ce644f03ddfeff6aef33289263ede349b7102eec473da23e8bfe6",
+        "Size": 29842597
     },
     {
         "Path": "NetLog/Client-Net.log",
-        "Hash": "aa61564b2fb23dc893abf82ea173c7915f9de227c4397261aa3da02facc123d0",
-        "Size": 114
+        "Hash": "478dc532ddaff6e5b10b3d79562164586740ff08b38c9d1b20f916e710477d2f",
+        "Size": 684
     },
     {
         "Path": "NetLog/Client_Client_ServerLine_System407080335.log",
@@ -153801,18 +157061,18 @@
     },
     {
         "Path": "NetLog/EffectLog.log",
-        "Hash": "4865b6bb231677c48a101ef8f7fed6819c322e59644fca1962c044252a63c840",
-        "Size": 194650
+        "Hash": "4f75b0fb781e9d3afbd42e444b976dfbb814e9dd0366e98c2373f81e445481d8",
+        "Size": 706038
     },
     {
         "Path": "NetLog/rfclient.dmp",
-        "Hash": "75b0f027f9add4759e702bc8c0e42e6a96bdc83030a4aabd80206a2fd2b7e41d",
-        "Size": 71510
+        "Hash": "2dd607b8df615addfc35e4a1a579ba4fd33414583f5a32ca98e17b7f96ef1b6b",
+        "Size": 75247
     },
     {
         "Path": "NetLog/rfclient.log",
-        "Hash": "66e6ca65f32a040fb7f29f0e13891fa07da0c04a9190263ae6790388f75919bd",
-        "Size": 4067738
+        "Hash": "474329e571c53769f819a21ec92846ec744d5e85482d4954169d433fb45e3282",
+        "Size": 26622918
     },
     {
         "Path": "NetLog/UpdateError.log",
@@ -153838,6 +157098,31 @@
         "Path": "runtimes/win/lib/net8.0/System.Management.dll",
         "Hash": "c7d977c7daa173940461995bb233a1fb3cc1f5d40602655355e011f85cf83a3d",
         "Size": 312600
+    },
+    {
+        "Path": "ScreenShots/NeutralB0000.jpg",
+        "Hash": "1c622d21320c8d5880a8d02bb3c020dd1f90a050ecac7504d64c59e613c6406f",
+        "Size": 465054
+    },
+    {
+        "Path": "ScreenShots/NeutralB0001.jpg",
+        "Hash": "346ab1d8416b70eb122de7207e861ec4c98ec6523e60c68b47d2842fbd82456a",
+        "Size": 464598
+    },
+    {
+        "Path": "ScreenShots/NeutralBS20000.jpg",
+        "Hash": "d73518462552e934db63201cb1b9ab438dc449bf07746baa9b9a2165493a4902",
+        "Size": 341523
+    },
+    {
+        "Path": "ScreenShots/NeutralBS20001.jpg",
+        "Hash": "d6bd3eda1501a0a03aafd60d85920a0bff7b09bca2973bdb16a77099fab24153",
+        "Size": 422555
+    },
+    {
+        "Path": "sirin-log/e.txt",
+        "Hash": "dbedc4d58823ab174fd131ae9b93ccb7bfad77435ab0ace773b6ae1348cbcd9e",
+        "Size": 538
     },
     {
         "Path": "Snd/BGMList.spt",
@@ -175721,13 +179006,13 @@
     },
     {
         "Path": "SpriteImage/inventory.spr",
-        "Hash": "a976317e729097720f6c2af3b701b456d645955bf89f0146cc40ed39ead28469",
-        "Size": 429896
+        "Hash": "396bde7b880a2991f0067f2ff00b39df3c97a4b727c504e967fa94347a5cd526",
+        "Size": 302920
     },
     {
         "Path": "SpriteImage/item.spr",
-        "Hash": "e8050a28e1ec930def7209ec0229b155e75d547f7aa30953bb7bb385145ea7c8",
-        "Size": 35943372
+        "Hash": "bd2af380c79b6779531754ce0dd852f714b3dfb6d406fd0125ea0322adf86269",
+        "Size": 56574924
     },
     {
         "Path": "SpriteImage/journal.spr",
@@ -175736,8 +179021,8 @@
     },
     {
         "Path": "SpriteImage/loading.spr",
-        "Hash": "fbb121dc99647d4c1ca4daa9e5ffa086b111a2a79a7f2a58507634d339c016d7",
-        "Size": 16777252
+        "Hash": "93a20e688a7c6602f2992069ecbe0b1170bb4479a0b99cb8317db0da7e4cb26e",
+        "Size": 4194340
     },
     {
         "Path": "SpriteImage/system.spr",
@@ -175811,8 +179096,8 @@
     },
     {
         "Path": "SpriteImage/common/item.spr",
-        "Hash": "e8050a28e1ec930def7209ec0229b155e75d547f7aa30953bb7bb385145ea7c8",
-        "Size": 35943372
+        "Hash": "bd2af380c79b6779531754ce0dd852f714b3dfb6d406fd0125ea0322adf86269",
+        "Size": 56574924
     },
     {
         "Path": "SpriteImage/common/itemcombine.spr",
@@ -175836,8 +179121,8 @@
     },
     {
         "Path": "SpriteImage/common/loading.spr",
-        "Hash": "fbb121dc99647d4c1ca4daa9e5ffa086b111a2a79a7f2a58507634d339c016d7",
-        "Size": 16777252
+        "Hash": "93a20e688a7c6602f2992069ecbe0b1170bb4479a0b99cb8317db0da7e4cb26e",
+        "Size": 4194340
     },
     {
         "Path": "SpriteImage/common/login.spr",
@@ -180126,13 +183411,13 @@
     },
     {
         "Path": "SpriteImage/en-ph/inventory.spr",
-        "Hash": "a976317e729097720f6c2af3b701b456d645955bf89f0146cc40ed39ead28469",
-        "Size": 429896
+        "Hash": "396bde7b880a2991f0067f2ff00b39df3c97a4b727c504e967fa94347a5cd526",
+        "Size": 302920
     },
     {
         "Path": "SpriteImage/en-ph/item.spr",
-        "Hash": "e8050a28e1ec930def7209ec0229b155e75d547f7aa30953bb7bb385145ea7c8",
-        "Size": 35943372
+        "Hash": "bd2af380c79b6779531754ce0dd852f714b3dfb6d406fd0125ea0322adf86269",
+        "Size": 56574924
     },
     {
         "Path": "SpriteImage/en-ph/itemupgrade.spr",
@@ -180146,8 +183431,8 @@
     },
     {
         "Path": "SpriteImage/en-ph/loading.spr",
-        "Hash": "fbb121dc99647d4c1ca4daa9e5ffa086b111a2a79a7f2a58507634d339c016d7",
-        "Size": 16777252
+        "Hash": "93a20e688a7c6602f2992069ecbe0b1170bb4479a0b99cb8317db0da7e4cb26e",
+        "Size": 4194340
     },
     {
         "Path": "SpriteImage/en-ph/login.spr",
@@ -180165,6 +183450,11 @@
         "Size": 1048704
     },
     {
+        "Path": "System/ChatCommand.ini",
+        "Hash": "13f295d99770499c00ebd872317bc8120ca7328e068c2835922e5350feb415fb",
+        "Size": 2941
+    },
+    {
         "Path": "System/console.jpg",
         "Hash": "318d33ecd7189d8c144ddf50eb30b3a1ef3be609aa95a5652e4d6a210f66f772",
         "Size": 19858
@@ -180176,13 +183466,28 @@
     },
     {
         "Path": "System/DefaultSet.tmp",
-        "Hash": "f79b3aa30d8be2fa51cdf15c595a0e0acdc6a39e120b28f53d42b1251453cbcf",
+        "Hash": "352f068a354e79f8e8e4b7b50109994e8c48fdbf4f3e9f20b991a030f3efc6dd",
+        "Size": 93
+    },
+    {
+        "Path": "System/DefaultSet.tmt",
+        "Hash": "08be663f2878303b964738cffbe7c217ca82a4ad483bb2404609433175d82cf6",
         "Size": 55
     },
     {
+        "Path": "System/DeleteFileList.txt",
+        "Hash": "14335be3a06c700b6efa80d3c93e68330b7609379de910e657ef8f1f288f5934",
+        "Size": 240
+    },
+    {
         "Path": "System/FileData.z",
-        "Hash": "e4eac68e83262905062292d7eb1a39afb1213f4cbc265e65fe91c54c9b782bbc",
-        "Size": 198
+        "Hash": "79e3f230b63f4af302f057345a75d23418d53444040635a785e5f2c0007244a0",
+        "Size": 223836
+    },
+    {
+        "Path": "System/font.ini",
+        "Hash": "033c1ea103e6b566fe540b8e2f507e88f7df7206790f8c1ae03227414804d167",
+        "Size": 26
     },
     {
         "Path": "System/idll.rdt",
@@ -180196,8 +183501,8 @@
     },
     {
         "Path": "System/staff.txt",
-        "Hash": "dfb9538147924590257ce75393e9b28f4c925521a3d180b0ed6cfbec3405253d",
-        "Size": 4045
+        "Hash": "7d05f257c5b8b9bdfe3dc102c89c21ec208fcc70b6ffbf4d2bbcc7064463234e",
+        "Size": 15879
     },
     {
         "Path": "System/sun.dds",
@@ -180223,6 +183528,11 @@
         "Path": "System/unifont.ttf",
         "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "Size": 0
+    },
+    {
+        "Path": "System/~~~ FileData.z",
+        "Hash": "22b06b3d63c8db227b06a04857eccfc97560b273ffd70470dcf575c537ca647b",
+        "Size": 88159
     },
     {
         "Path": "System/mouse/attack.ani",

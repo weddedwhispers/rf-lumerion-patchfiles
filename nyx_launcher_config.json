@@ -14,9 +14,5 @@
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
     "PatchDirectories": ["."]
   },
-  "AutoUpdate": false
+  "AutoUpdate": true
 }
-
-
-
-
