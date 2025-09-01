@@ -12,7 +12,21 @@
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.com/invite/q9sp6v86ee",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
-    "PatchDirectories": ["."]
+    "PatchDirectories": ["."],
+    "ExcludeItems": [
+      "Nyx.Launcher.deps.json",
+      "Nyx.Launcher.dll",
+      "Nyx.Launcher.exe",
+      "Nyx.Launcher.pdb",
+      "Nyx.Launcher.runtimeconfig.json",
+      "MaterialDesignColors.dll",
+      "MaterialDesignThemes.Wpf.dll",
+      "Microsoft.Xaml.Behaviors.dll",
+      "Newtonsoft.Json.dll",
+      "QRCoder.dll",
+      "System.CodeDom.dll",
+      "runtimes"
+    ]
   },
   "AutoUpdate": true
 }
