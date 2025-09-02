@@ -27,8 +27,9 @@
       "System.CodeDom.dll",
       "sirin-launcher.dll",
       "runtimes",
+      "nyx.launcher_local_manifest.json",
       "datatable/clientdb.dat"
     ]
   },
-  "AutoUpdate": false
+  "AutoUpdate": true
 }
