@@ -1,0 +1,72 @@
+﻿[
+    {
+        "Path":  "MaterialDesignColors.dll",
+        "Hash":  "fcf90b3dafd52078055f4b5a923e5c270dcca0f3e4c4c5452c27c2e2463ace74",
+        "Size":  316416
+    },
+    {
+        "Path":  "MaterialDesignThemes.Wpf.dll",
+        "Hash":  "5ab258c4f6eb701fda9e6f19576ab8ffd6a39b94aa4afff9f70d496368fe9398",
+        "Size":  9942016
+    },
+    {
+        "Path":  "Microsoft.Xaml.Behaviors.dll",
+        "Hash":  "8f782ad7adfdeeaa933183065aa7a0be9387abce6038e912455e78527b04adca",
+        "Size":  145272
+    },
+    {
+        "Path":  "Newtonsoft.Json.dll",
+        "Hash":  "22c649f75fce5be7c7ccda8880473b634ef69ecf33f5d1ab8ad892caf47d5a07",
+        "Size":  712464
+    },
+    {
+        "Path":  "Nyx.Launcher.deps.json",
+        "Hash":  "bf6a704f12999ad4ede09eefa49bfbf48103c7b216dd83b8ff19b9b38cc067bd",
+        "Size":  5840
+    },
+    {
+        "Path":  "Nyx.Launcher.dll",
+        "Hash":  "db725dd83edccac8cd5cafec254e40fc0fb38f3ab98cc041adae0547c14988ec",
+        "Size":  16589312
+    },
+    {
+        "Path":  "Nyx.Launcher.exe",
+        "Hash":  "69c63cb00b99b80e161c119725117d2d89ac0c862b10640faec58260dfa0a1f9",
+        "Size":  143360
+    },
+    {
+        "Path":  "Nyx.Launcher.pdb",
+        "Hash":  "3e685f3717da675b6a998c7d138ac53a80a0bffa51dc00e72024e500d0ab2830",
+        "Size":  33772
+    },
+    {
+        "Path":  "Nyx.Launcher.runtimeconfig.json",
+        "Hash":  "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
+        "Size":  515
+    },
+    {
+        "Path":  "QRCoder.dll",
+        "Hash":  "dab588acc9f280f289f6348fcc6388fd0c2eed932069cac9ae2d7fdb15076c43",
+        "Size":  155648
+    },
+    {
+        "Path":  "sirin-launcher.dll",
+        "Hash":  "e7c1d52a992af0f468c5f5be26ac27ea87a379787599112905bec75c147f3e74",
+        "Size":  4530176
+    },
+    {
+        "Path":  "System.CodeDom.dll",
+        "Hash":  "be0fb6612acb0dec95ab01a47a4480114636f85c9ad3c6d13b566cc392b46ad5",
+        "Size":  183568
+    },
+    {
+        "Path":  "System.Management.dll",
+        "Hash":  "277da863d94c84bffe08de96aea91844e81f1ffec0487be1b46b246f35980c09",
+        "Size":  73512
+    },
+    {
+        "Path":  "runtimes/win/lib/net8.0/System.Management.dll",
+        "Hash":  "c7d977c7daa173940461995bb233a1fb3cc1f5d40602655355e011f85cf83a3d",
+        "Size":  312600
+    }
+]

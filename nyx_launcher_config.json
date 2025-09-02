@@ -31,5 +31,10 @@
       "datatable/clientdb.dat"
     ]
   },
+  "UpdaterSettings": {
+    "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/launcher_manifest.json",
+    "FilesBaseUrl": "http://download.official-rflumerion.com",
+    "MainLauncherExe": "Nyx.Launcher.exe"
+  },
   "AutoUpdate": true
 }
