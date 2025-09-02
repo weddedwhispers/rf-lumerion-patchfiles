@@ -26,7 +26,8 @@
       "QRCoder.dll",
       "System.CodeDom.dll",
       "sirin-launcher.dll",
-      "runtimes"
+      "runtimes",
+      "datatable/clientdb.dat"
     ]
   },
   "AutoUpdate": false
