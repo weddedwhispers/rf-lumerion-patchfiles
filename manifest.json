@@ -131,16 +131,41 @@
     },
     {
         "Path": "Nyx.Launcher.dll",
-        "Hash": "e821b21e1939b5bf12c4581bed7582aec53989d54627916786da62ee442fb23c",
-        "Size": 16585216
+        "Hash": "db725dd83edccac8cd5cafec254e40fc0fb38f3ab98cc041adae0547c14988ec",
+        "Size": 16589312
+    },
+    {
+        "Path": "Nyx.Launcher.exe",
+        "Hash": "69c63cb00b99b80e161c119725117d2d89ac0c862b10640faec58260dfa0a1f9",
+        "Size": 143360
     },
     {
         "Path": "Nyx.Launcher.pdb",
-        "Hash": "c18193e34350b69070f46d8bd286494d9a295affd9f21ffdc3e8a4b75dd9bc37",
-        "Size": 33128
+        "Hash": "3e685f3717da675b6a998c7d138ac53a80a0bffa51dc00e72024e500d0ab2830",
+        "Size": 33772
     },
     {
         "Path": "Nyx.Launcher.runtimeconfig.json",
+        "Hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
+        "Size": 515
+    },
+    {
+        "Path": "Nyx.LauncherUpdater.deps.json",
+        "Hash": "9454cce4c384e16a57959256f0003197d67bf84f260c805f25e4bcd00f14999c",
+        "Size": 449
+    },
+    {
+        "Path": "Nyx.LauncherUpdater.dll",
+        "Hash": "0c186d6657175f9a9879b2d7090db80cc850ed9e2874a5836b9080751c28902e",
+        "Size": 26112
+    },
+    {
+        "Path": "Nyx.LauncherUpdater.pdb",
+        "Hash": "3c681e00e95154e79b3c40fa482ce17e85c3f27dc507cf99c5c160f10ae2b57a",
+        "Size": 16172
+    },
+    {
+        "Path": "Nyx.LauncherUpdater.runtimeconfig.json",
         "Hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
         "Size": 515
     },
@@ -176,7 +201,7 @@
     },
     {
         "Path": "RF LUMERION.exe",
-        "Hash": "69c63cb00b99b80e161c119725117d2d89ac0c862b10640faec58260dfa0a1f9",
+        "Hash": "3bb3fc6d1a0fccdb23d80e6d35eb8f803c987e626de45bc64c50af020085f46f",
         "Size": 143360
     },
     {
@@ -129915,426 +129940,6 @@
         "Size": 10240
     },
     {
-        "Path": "HackShield/3N.mhe",
-        "Hash": "aea5a7e8f4f22a8764d0016c242f2dff3d5ecae8db0007d638c17bb656836f95",
-        "Size": 25187
-    },
-    {
-        "Path": "HackShield/AhnUpCtl.dll",
-        "Hash": "994cf5e8e2b810ef6456c68c5129137cc907cd8effe261818de0f31696a82a5e",
-        "Size": 153280
-    },
-    {
-        "Path": "HackShield/AhnUpGS.dll",
-        "Hash": "bc106f3e3f0166eba446994896f492da24501b41fa800ee738a7647ab3d1a8b3",
-        "Size": 147554
-    },
-    {
-        "Path": "HackShield/AspINet.dll",
-        "Hash": "73fdf4afbb8f868996d04109829e2bd4643c343c052be43f761f1aa2d3729211",
-        "Size": 37012
-    },
-    {
-        "Path": "HackShield/aspinet.log",
-        "Hash": "0f22401940d3116c3c8bae684577fbe64707b4e47fd8b30b72090907cbfe6dc5",
-        "Size": 8638
-    },
-    {
-        "Path": "HackShield/bldinfo.ini",
-        "Hash": "8386d925c787f042d214eacea46661e7acc1a9f5499687ab810942bb30cd935b",
-        "Size": 81
-    },
-    {
-        "Path": "HackShield/Bz32Ex.dll",
-        "Hash": "1fdc007d96f90d675e67550569ad3c99f88ea13d7d603e36d99d43cb4de61e4f",
-        "Size": 82060
-    },
-    {
-        "Path": "HackShield/EGRNAP.dll",
-        "Hash": "d315f94d41d32c84a56b5eeee5d87d65f22533220878624397bb8033f1ad9b92",
-        "Size": 178273
-    },
-    {
-        "Path": "HackShield/EGRNAPX2.dll",
-        "Hash": "bff993cee8b9c1a716c5c1d11aa61c64f1dcd236e5f4b52905ceaa5815d0365d",
-        "Size": 95232
-    },
-    {
-        "Path": "HackShield/EHSvc.dll",
-        "Hash": "707962563c877d63cb4f1f2b8c5d17913d5918f214198cabb5568e93283e2d23",
-        "Size": 1282143
-    },
-    {
-        "Path": "HackShield/HShield.dat",
-        "Hash": "b75fd7f3d497365bb4c10602d33efebdd863c9e4b42a585899401abc3217a26d",
-        "Size": 160
-    },
-    {
-        "Path": "HackShield/hshield.log",
-        "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "Size": 0
-    },
-    {
-        "Path": "HackShield/HSInst.dll",
-        "Hash": "e070b90559e2d3ac09e85324b263ea94c655d3602c2cafc106cdf32d34a0e0a1",
-        "Size": 188512
-    },
-    {
-        "Path": "HackShield/HSUpdate.env",
-        "Hash": "85ca818210ecfabf64517511a29f3712d0bacd306f16f9d32babf2bb09f9b732",
-        "Size": 471
-    },
-    {
-        "Path": "HackShield/HSUpdate.exe",
-        "Hash": "7860353aeefba949f7039a9037ad32626ee697a08c5dadb169e0810b48c27d45",
-        "Size": 127076
-    },
-    {
-        "Path": "HackShield/mspatcha.dll",
-        "Hash": "b173df5082cea4d34543c22c531555103719cece2cae211dcab4f17d7e59b7dd",
-        "Size": 27136
-    },
-    {
-        "Path": "HackShield/psapi.dll",
-        "Hash": "4cf7a69c4a63a7c1ec64f647309a643f83cf48b3b7caee023616680b59136dd1",
-        "Size": 20480
-    },
-    {
-        "Path": "HackShield/supdate.log",
-        "Hash": "179a3f94ad9d55f19aab7db641575d8aa73278b218ec7f3aad7b97cd4a84a606",
-        "Size": 14707
-    },
-    {
-        "Path": "HackShield/V3Hunt.dll",
-        "Hash": "20bb45fcd52f6e3a66c2276431deebe324c1f2ff98d239d439114dfbca11318d",
-        "Size": 141008
-    },
-    {
-        "Path": "HackShield/V3InetGS.dll",
-        "Hash": "21b36bd2ce1cd1317e4e3622dde514813655edc89df4f02e598ea52ca41ee7cb",
-        "Size": 36964
-    },
-    {
-        "Path": "HackShield/v3pro32s.dll",
-        "Hash": "81691a75234342cee621b23193be6ed798168306e362e37b495addf944ca3700",
-        "Size": 131153
-    },
-    {
-        "Path": "HackShield/v3warpds.v3d",
-        "Hash": "546a5bc2f9c774fdd92c0553a3e4b2ce6af902004ed7354fd838ff595d8d76ed",
-        "Size": 38270
-    },
-    {
-        "Path": "HackShield/v3warpns.v3d",
-        "Hash": "17fd9f73eefe2603cfde954720471eea5ad3c4f864b7f5fe0f4a3432e60ac199",
-        "Size": 51891
-    },
-    {
-        "Path": "HackShield/en-id/3N.mhe",
-        "Hash": "7c7b67946038946718b954201c52543277b16d03d2c9f3a4e46b5b4a8af6d834",
-        "Size": 45431
-    },
-    {
-        "Path": "HackShield/en-id/afs.dat",
-        "Hash": "c1cdaf475f28b1685c6c136e610aaa9fbd574d64d9d3957a3345df0ad9a17372",
-        "Size": 20
-    },
-    {
-        "Path": "HackShield/en-id/AhnUpCtl.dll",
-        "Hash": "994cf5e8e2b810ef6456c68c5129137cc907cd8effe261818de0f31696a82a5e",
-        "Size": 153280
-    },
-    {
-        "Path": "HackShield/en-id/AhnUpGS.dll",
-        "Hash": "f6c43b4df090af6cd79dd2e841729129217468f1a1723d06abd4311e1b0dc1df",
-        "Size": 147554
-    },
-    {
-        "Path": "HackShield/en-id/AspINet.dll",
-        "Hash": "197a4cd860e30facb05bb82190bbf2f7e4e2d21a3d4efd76a8502b281262f528",
-        "Size": 37012
-    },
-    {
-        "Path": "HackShield/en-id/aspinet.log",
-        "Hash": "c2a3de33611b433631da9119c7e6f7aad1bc5e7e2653997e84c163dc6542475a",
-        "Size": 3780
-    },
-    {
-        "Path": "HackShield/en-id/Bz32Ex.dll",
-        "Hash": "1fdc007d96f90d675e67550569ad3c99f88ea13d7d603e36d99d43cb4de61e4f",
-        "Size": 82060
-    },
-    {
-        "Path": "HackShield/en-id/EHSvc.dll",
-        "Hash": "4da69a5719bb7e4bdb28b7658adaf44d56c324bddfd5db5640ea9594f9398c5c",
-        "Size": 1355871
-    },
-    {
-        "Path": "HackShield/en-id/HShield.dat",
-        "Hash": "6ce5fe4635ec7d382b1715e993e3a26e2bc065aa56efd7d029461417ac4883a8",
-        "Size": 160
-    },
-    {
-        "Path": "HackShield/en-id/HSInst.dll",
-        "Hash": "0f6e801f7376901028914041e13e85fc1ea80ca216f996ff82298ced1eab8422",
-        "Size": 188512
-    },
-    {
-        "Path": "HackShield/en-id/HSUpdate.env",
-        "Hash": "d3f7cc0ebb67572476cbe8110c0cf4a5f64b693d6d4f9b71100cd7e58656c0f4",
-        "Size": 527
-    },
-    {
-        "Path": "HackShield/en-id/HSUpdate.exe",
-        "Hash": "e32db318f8f59aec147e418b8edbf892397812aa9b531d4e04111550c669cf3e",
-        "Size": 127076
-    },
-    {
-        "Path": "HackShield/en-id/mspatcha.dll",
-        "Hash": "b173df5082cea4d34543c22c531555103719cece2cae211dcab4f17d7e59b7dd",
-        "Size": 27136
-    },
-    {
-        "Path": "HackShield/en-id/psapi.dll",
-        "Hash": "4cf7a69c4a63a7c1ec64f647309a643f83cf48b3b7caee023616680b59136dd1",
-        "Size": 20480
-    },
-    {
-        "Path": "HackShield/en-id/supdate.log",
-        "Hash": "4e47f90fe11097e4a0703f65d72ab2d323d4b9c6af3db4fcd8c3ca1116628438",
-        "Size": 2139
-    },
-    {
-        "Path": "HackShield/en-id/V3Hunt.dll",
-        "Hash": "20bb45fcd52f6e3a66c2276431deebe324c1f2ff98d239d439114dfbca11318d",
-        "Size": 141008
-    },
-    {
-        "Path": "HackShield/en-id/V3InetGS.dll",
-        "Hash": "21b36bd2ce1cd1317e4e3622dde514813655edc89df4f02e598ea52ca41ee7cb",
-        "Size": 36964
-    },
-    {
-        "Path": "HackShield/en-id/v3pro32s.dll",
-        "Hash": "81691a75234342cee621b23193be6ed798168306e362e37b495addf944ca3700",
-        "Size": 131153
-    },
-    {
-        "Path": "HackShield/en-id/v3warpds.v3d",
-        "Hash": "4dc163ec419d1e21d73b4e88923b2690d5e4bb1eeb462210a220af1342d46791",
-        "Size": 40206
-    },
-    {
-        "Path": "HackShield/en-id/v3warpns.v3d",
-        "Hash": "88ca0b1de21aabea1d8f6050cdf949f1e3e2795522e8707e01aba3c879a20e04",
-        "Size": 55611
-    },
-    {
-        "Path": "HackShield/en-ph/3N.mhe",
-        "Hash": "7c7b67946038946718b954201c52543277b16d03d2c9f3a4e46b5b4a8af6d834",
-        "Size": 45431
-    },
-    {
-        "Path": "HackShield/en-ph/afs.dat",
-        "Hash": "c1cdaf475f28b1685c6c136e610aaa9fbd574d64d9d3957a3345df0ad9a17372",
-        "Size": 20
-    },
-    {
-        "Path": "HackShield/en-ph/EhSvc.dll",
-        "Hash": "4da69a5719bb7e4bdb28b7658adaf44d56c324bddfd5db5640ea9594f9398c5c",
-        "Size": 1355871
-    },
-    {
-        "Path": "HackShield/en-ph/HShield.dat",
-        "Hash": "6ce5fe4635ec7d382b1715e993e3a26e2bc065aa56efd7d029461417ac4883a8",
-        "Size": 160
-    },
-    {
-        "Path": "HackShield/en-ph/HSUpChk.log",
-        "Hash": "5ac35f0483bead351852029d39564bd32d6edcc84d6386c804e797cdf2162f29",
-        "Size": 88
-    },
-    {
-        "Path": "HackShield/en-ph/psapi.dll",
-        "Hash": "4cf7a69c4a63a7c1ec64f647309a643f83cf48b3b7caee023616680b59136dd1",
-        "Size": 20480
-    },
-    {
-        "Path": "HackShield/en-ph/v3pro32s.dll",
-        "Hash": "81691a75234342cee621b23193be6ed798168306e362e37b495addf944ca3700",
-        "Size": 131153
-    },
-    {
-        "Path": "HackShield/en-ph/v3warpds.v3d",
-        "Hash": "4dc163ec419d1e21d73b4e88923b2690d5e4bb1eeb462210a220af1342d46791",
-        "Size": 40206
-    },
-    {
-        "Path": "HackShield/en-ph/v3warpns.v3d",
-        "Hash": "88ca0b1de21aabea1d8f6050cdf949f1e3e2795522e8707e01aba3c879a20e04",
-        "Size": 55611
-    },
-    {
-        "Path": "HackShield/pt-br/3N.mhe",
-        "Hash": "7c7b67946038946718b954201c52543277b16d03d2c9f3a4e46b5b4a8af6d834",
-        "Size": 45431
-    },
-    {
-        "Path": "HackShield/pt-br/afs.dat",
-        "Hash": "c1cdaf475f28b1685c6c136e610aaa9fbd574d64d9d3957a3345df0ad9a17372",
-        "Size": 20
-    },
-    {
-        "Path": "HackShield/pt-br/EHSvc.dll",
-        "Hash": "4da69a5719bb7e4bdb28b7658adaf44d56c324bddfd5db5640ea9594f9398c5c",
-        "Size": 1355871
-    },
-    {
-        "Path": "HackShield/pt-br/HShield.dat",
-        "Hash": "6ce5fe4635ec7d382b1715e993e3a26e2bc065aa56efd7d029461417ac4883a8",
-        "Size": 160
-    },
-    {
-        "Path": "HackShield/pt-br/psapi.dll",
-        "Hash": "4cf7a69c4a63a7c1ec64f647309a643f83cf48b3b7caee023616680b59136dd1",
-        "Size": 20480
-    },
-    {
-        "Path": "HackShield/pt-br/v3pro32s.dll",
-        "Hash": "81691a75234342cee621b23193be6ed798168306e362e37b495addf944ca3700",
-        "Size": 131153
-    },
-    {
-        "Path": "HackShield/pt-br/v3warpds.v3d",
-        "Hash": "4dc163ec419d1e21d73b4e88923b2690d5e4bb1eeb462210a220af1342d46791",
-        "Size": 40206
-    },
-    {
-        "Path": "HackShield/pt-br/v3warpns.v3d",
-        "Hash": "88ca0b1de21aabea1d8f6050cdf949f1e3e2795522e8707e01aba3c879a20e04",
-        "Size": 55611
-    },
-    {
-        "Path": "HackShield/Update/ahn.ui",
-        "Hash": "f63c0be350f8f0ed376d72927f29b16f3683be811adca7420ce257ca9a722148",
-        "Size": 865
-    },
-    {
-        "Path": "HackShield/Update/ahni2.dll",
-        "Hash": "1752c61082f1eafbec5f3246747d848bef4136aef0ffdab319fe277451c18c28",
-        "Size": 104112
-    },
-    {
-        "Path": "HackShield/Update/ahnupctl.dll",
-        "Hash": "309f724ab4cbfbafb9210a0c7ca317fdf751582e9c2acff48cf1b26ac8f23f18",
-        "Size": 153280
-    },
-    {
-        "Path": "HackShield/Update/autoup.exe",
-        "Hash": "987d2f33909c6d53d3d355f0aaf48ba31ce90b3894ab6d31bcbd0f68a0b4c300",
-        "Size": 188488
-    },
-    {
-        "Path": "HackShield/Update/supdate.log",
-        "Hash": "1f543a95808a0acd124b1d4a3324af55ba5ceeb406c8fa8059c11dd1f5098616",
-        "Size": 13569
-    },
-    {
-        "Path": "HackShield/Update/v3bz32.dll",
-        "Hash": "bd84a8d7193cd98e99e4b5b310ad65e5cd860b717c40183edbaf7bd8cb852c70",
-        "Size": 63336
-    },
-    {
-        "Path": "HackShield/Update/patch/39/3n.mh-",
-        "Hash": "170a6c2a6e7b363b4b1e28128b3dc84cc86f2cd7e654606fb530266db9cc7a73",
-        "Size": 21462
-    },
-    {
-        "Path": "HackShield/Update/patch/39/ahn.ui",
-        "Hash": "02476230ffad78d87c14a4f925b86d74d0e6de5177a7a657a9d27339e512a390",
-        "Size": 1337
-    },
-    {
-        "Path": "HackShield/Update/patch/39/ahnupctl.dl-",
-        "Hash": "815ad3e47b2298f931579a4e0ad0045ce47532291d82d7260885a68c41993295",
-        "Size": 70019
-    },
-    {
-        "Path": "HackShield/Update/patch/39/ahnupgs.dl-",
-        "Hash": "e5225ea13c4706c99cc2383756fbd045f278906caace9cc45d694ffaec7a88e9",
-        "Size": 72018
-    },
-    {
-        "Path": "HackShield/Update/patch/39/aspinet.dl-",
-        "Hash": "9cb4a5640094b1fa1f653a4041ded4eee681e671ab427d96d2d0ff1a5d07ce47",
-        "Size": 12728
-    },
-    {
-        "Path": "HackShield/Update/patch/39/bldinfo.in-",
-        "Hash": "b7abbfb20fd04fd4bff43e686c354b20564e33655c159d3e8626d1259239df81",
-        "Size": 110
-    },
-    {
-        "Path": "HackShield/Update/patch/39/bz32ex.dl-",
-        "Hash": "7d38906cd2eeb6628bf5954c90c02cc05c46292fd6dd46366142480ac813d31e",
-        "Size": 34345
-    },
-    {
-        "Path": "HackShield/Update/patch/39/ehsvc.dl-",
-        "Hash": "8f0f665475cc1ea8d275d3e561db959584b1ac9c65a33e0f61c44c3279501ebc",
-        "Size": 1272454
-    },
-    {
-        "Path": "HackShield/Update/patch/39/hshield.da-",
-        "Hash": "6215b26cbb095ca83a4615660aaf0268444f35bde85cb2315684abf2cd0120f6",
-        "Size": 234
-    },
-    {
-        "Path": "HackShield/Update/patch/39/hsinst.dl-",
-        "Hash": "faffd0400406809a0d68f40a6cb3cea5ec005e66eb04bc0a1656475c15dda130",
-        "Size": 76645
-    },
-    {
-        "Path": "HackShield/Update/patch/39/hsupdate.ex-",
-        "Hash": "3175f85a48fbfa6eb30bede537f4d0eccf2946437649ff850b958b84387d9390",
-        "Size": 58950
-    },
-    {
-        "Path": "HackShield/Update/patch/39/mspatcha.dl-",
-        "Hash": "f35dbfc877c22f4fa8816b6de2df7d2c88526aba333f5ec759dd7865e3c42b97",
-        "Size": 17421
-    },
-    {
-        "Path": "HackShield/Update/patch/39/psapi.dl-",
-        "Hash": "2f0d50af6644bc58472fdc8c87ea022f67e618050dfd5bab9a6e81e2eb7bd90f",
-        "Size": 11280
-    },
-    {
-        "Path": "HackShield/Update/patch/39/v3hunt.dl-",
-        "Hash": "f5b5adeff9affee92ef9864e39508eda803f9526f2147c37864f1a734b2f73d6",
-        "Size": 69499
-    },
-    {
-        "Path": "HackShield/Update/patch/39/v3inetgs.dl-",
-        "Hash": "f101f68b302baf6c36221226d3b13de468749337321ae39c8e40845aeb1cf13f",
-        "Size": 9661
-    },
-    {
-        "Path": "HackShield/Update/win/e/v3/echo_sl/v3pro32s.dl-",
-        "Hash": "dc3d557dd1cfcf96bd8851a15936a2f8948a44acb276bda83897636cb3c8f807",
-        "Size": 52555
-    },
-    {
-        "Path": "HackShield/Update/win/e/v3/sign_hs/v3warpds.v3-",
-        "Hash": "3e88bdace63b599e3060bf344e254dd42c1404ceba506b41102050237ddf9916",
-        "Size": 28141
-    },
-    {
-        "Path": "HackShield/Update/win/e/v3/sign_hs/v3warpns.v3-",
-        "Hash": "6ae780b598906a84cc737b9b9195ef9b4811acf9751bfc0a84f97f26e0adce69",
-        "Size": 21683
-    },
-    {
         "Path": "Item/Armor/ACCRETIA_ARMOR_100.EFF",
         "Hash": "159aef39d890b792967ef9f74c3fa9364a73c69a17b3c8af1c61dfc2d96b763c",
         "Size": 176
@@ -156795,214 +156400,9 @@
         "Size": 22928248
     },
     {
-        "Path": "NetLog/CEngineLog.log",
-        "Hash": "46cd8caca798f70f92fc8d46d86138db26852d1d88067088b383b3b836d9d881",
-        "Size": 31268648
-    },
-    {
-        "Path": "NetLog/Client-Net.log",
-        "Hash": "416d43eacf2fd039bcd8e7d201c59794abcb3bac89d86c425966b4266759c789",
-        "Size": 114
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407080335.log",
-        "Hash": "42b83a06c266206756eef2e5dc63e12b2900e249c36a17503447372b79d83771",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407110006.log",
-        "Hash": "53ce03f898d1fcae26dd04ff06f9c2156db5a42de45b2b54c4ac6d360405d123",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407110133.log",
-        "Hash": "cac220ab79e8d2fa6ae5a3d8c29efe024b56aa77f02409dc2ceca36c26745e5d",
-        "Size": 65
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407120533.log",
-        "Hash": "d35f3644012a71feb36f415e3cbd2d3c2142be83c6cb0ad9b90ed9dbbbb0a8e8",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407120534.log",
-        "Hash": "7dc0c9c0574524be82586e57eab317a80e2d35b29cee59fd04efd21184549faa",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407120733.log",
-        "Hash": "475b2b309056bc6c748a6a6449f6b4052acdf0e6a47c18e92adc4f6138e7ec4e",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407120748.log",
-        "Hash": "c81a1dafb7cc8f5c5a601650e4c0cd97c2fcc8d166343d7225e034c8eb26ed79",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407120821.log",
-        "Hash": "6d9037aeefe575d66e11b29974b28ed015d64ceb903d69866369d8d05e9a032d",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407121158.log",
-        "Hash": "6abe892c6b10d4e75144ca2c5eb72cef7cd4f2c4431acc5e5b814561056b782c",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407121205.log",
-        "Hash": "eb06d0b269f1861965dcc6694663cb4170ba645055594765cf19a3401a0d92be",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407121828.log",
-        "Hash": "c3cc25721f9dd18436dc9a8fb4027159f24c351364d3ba663b28cc25bfa4d0ff",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System407130729.log",
-        "Hash": "6d038f3a05ea8271c6ec5d479af8f1d6f4569ffe4b3a2a4cab905d0a859b02a1",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410261932.log",
-        "Hash": "27f48c59403305e2f37a1eb69c634cee7422ecbd6770bc68535c6f7729660f67",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410262009.log",
-        "Hash": "3a7d6aef4f24097eeb2228316cb588beb262df8bbb875c96bd2505b516363255",
-        "Size": 64
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410262055.log",
-        "Hash": "8ec98d561853a144d9e8202c245ab28be50ef2a092f10f4c7260d5f6b768b827",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410262058.log",
-        "Hash": "5a96a886c7177aa2847acdd8f0feb809fb5c684fea8fbcf1f8ba40b095ebc674",
-        "Size": 61
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270016.log",
-        "Hash": "830dd074a3c24a8d40d5d4815ef9d7d2e45af645a15928a9d69267cd9f0c3095",
-        "Size": 67
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270017.log",
-        "Hash": "46765351d0686ca25261cc2d6de0badacea8c7ba8c9f37697aefd9cddf212b14",
-        "Size": 61
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270018.log",
-        "Hash": "ea313a8a82b0ef0f1f1ff4c61f8aa8a14f7b07efb541e5372aa05ef5d07f52f5",
-        "Size": 61
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270019.log",
-        "Hash": "2615ce2ed839bdcc545de6472e6f71fafc18e9c5b78f335e33725fa9159a4d89",
-        "Size": 61
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270022.log",
-        "Hash": "6abb6194d502b844724adbf6e9c0c23a2511d647d31396c26711b842a580fdd5",
-        "Size": 61
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270100.log",
-        "Hash": "f2ee32177813ac2e4cf558822215e7ac6f96d86f0551d8df7706f1cc631fa6ea",
-        "Size": 64
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270101.log",
-        "Hash": "629d1e2652f3195dd162d4db028e82c57bbb99c26dfaf15e5f8983516681d124",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270126.log",
-        "Hash": "7ecc07d91ffb3f8df8793e22ab8f0a1394d44bfecd8033a59f4340dc967c08d5",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270138.log",
-        "Hash": "96c1c06e7408a6cdd380478031feb948012e25878a792944c64b8b0f22305e55",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270150.log",
-        "Hash": "a19c8458534650516c604006045764d87370b95e56648cf1705fad69c5a48d97",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270208.log",
-        "Hash": "3a8a86f4037427f46c142f54c059de6a41713bb774cee8f1f481b0e74586fdda",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270220.log",
-        "Hash": "22891edbf20fb3c3a994ca0f4c4d88370e571964947704b3d359e9f89a534e76",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270226.log",
-        "Hash": "28ff2dc732e29078cc4429d7467535c917685248373908c056d17237983b7a94",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270234.log",
-        "Hash": "632e698db5e3496048fbe80b45c6e3b434286fbca0f2c98a568e7da43ddd5f25",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270237.log",
-        "Hash": "f6b51729b97d68ade17353a2ca59757c7ac14975da8b2c51b5a7431e3ecb9097",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270238.log",
-        "Hash": "6de49e9869dfbeaa985eb39aa9c1155558898916cdcdd0c3855655c58036b4cd",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270242.log",
-        "Hash": "0f506a2ded60119f98475e226bc8b00d19dc88523f7cd13481ef71f0aa73608a",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410270249.log",
-        "Hash": "187ff8f07cd5e48e9a65c26d9eeb01758f754ddabcd7c808b38ebba2379e108e",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410271543.log",
-        "Hash": "d5e27847514695a535e8de469c527be63a437b3aca21c463318243c75b0f2e7e",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/Client_Client_ServerLine_System410271600.log",
-        "Hash": "5392e432658179bb733c3fd7ff42ff47e13245c07b4accae76cc510746ce052b",
-        "Size": 60
-    },
-    {
-        "Path": "NetLog/EffectLog.log",
-        "Hash": "e05c7ac5996bb0a430bd18e61662511352439d75c133209d33f0c8c1e9b715d0",
-        "Size": 757553
-    },
-    {
         "Path": "NetLog/rfclient.dmp",
         "Hash": "7daa808f6609fb21da833248bf6760f4853b10e5b39f84b03cc60751e50e2354",
         "Size": 71903
-    },
-    {
-        "Path": "NetLog/rfclient.log",
-        "Hash": "44f62a01f3347eaefb29eff2e3f82ad509642389ad9b54ad7b2c4067c27bc3b0",
-        "Size": 27948298
-    },
-    {
-        "Path": "NetLog/UpdateError.log",
-        "Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "Size": 0
     },
     {
         "Path": "Redist/dxwebsetup.exe",
@@ -183366,7 +182766,7 @@
     },
     {
         "Path": "System/DefaultSet.tmp",
-        "Hash": "f80cdfb81602fc8fee9c8705117f9dccbbc31cc2e99c31163c997a4b4acdd29d",
+        "Hash": "02626e64fa64a4265300084b5cf14f7c529ca44ddf1722f008206a2de88047cb",
         "Size": 93
     },
     {
