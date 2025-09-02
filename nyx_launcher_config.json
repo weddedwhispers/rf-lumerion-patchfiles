@@ -25,6 +25,7 @@
       "Newtonsoft.Json.dll",
       "QRCoder.dll",
       "System.CodeDom.dll",
+      "sirin-launcher.dll",
       "runtimes"
     ]
   },
