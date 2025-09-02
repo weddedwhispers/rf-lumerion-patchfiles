@@ -26,8 +26,8 @@
     },
     {
         "Path":  "Nyx.Launcher.dll",
-        "Hash":  "db725dd83edccac8cd5cafec254e40fc0fb38f3ab98cc041adae0547c14988ec",
-        "Size":  16589312
+        "Hash":  "a39732999ff14dc83289ac498061318a2cd799eb837fc068635cfd0159ccff4a",
+        "Size":  16589824
     },
     {
         "Path":  "Nyx.Launcher.exe",
@@ -36,8 +36,8 @@
     },
     {
         "Path":  "Nyx.Launcher.pdb",
-        "Hash":  "3e685f3717da675b6a998c7d138ac53a80a0bffa51dc00e72024e500d0ab2830",
-        "Size":  33772
+        "Hash":  "02cd07c8563fb821c5ee627ef869b47d6a886616809458bb7c239be540860e1d",
+        "Size":  33788
     },
     {
         "Path":  "Nyx.Launcher.runtimeconfig.json",
