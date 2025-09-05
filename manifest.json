@@ -25,16 +25,6 @@
         "Size": 121
     },
     {
-        "Path": "cheatkiller.ldr",
-        "Hash": "fa818cadef9cf014d8e066d098189187f384e1c5c5d124f9b5417ca3a97f71f1",
-        "Size": 50688
-    },
-    {
-        "Path": "CheatKiller.log",
-        "Hash": "8751c4fbf97a4af78739bf6d83b467a95ec04b39c8c717fbcd56c03418a50d3c",
-        "Size": 213
-    },
-    {
         "Path": "cltax.xmf",
         "Hash": "c415518e506f6234794af4630dfeaa933898397fc436da57428cf6ed8dc13749",
         "Size": 13390
@@ -131,13 +121,13 @@
     },
     {
         "Path": "Nyx.Launcher.deps.json",
-        "Hash": "bf6a704f12999ad4ede09eefa49bfbf48103c7b216dd83b8ff19b9b38cc067bd",
+        "Hash": "670df1956b84cb83cae3d6b434b3007f69e5b4778594c69baa525190031dfea2",
         "Size": 5840
     },
     {
         "Path": "Nyx.Launcher.dll",
-        "Hash": "a39732999ff14dc83289ac498061318a2cd799eb837fc068635cfd0159ccff4a",
-        "Size": 16589824
+        "Hash": "4f6c9f20d549105168f73c316411c047c388164489469714d98bfd27bd3d4f6c",
+        "Size": 16596992
     },
     {
         "Path": "Nyx.Launcher.exe",
@@ -146,8 +136,8 @@
     },
     {
         "Path": "Nyx.Launcher.pdb",
-        "Hash": "02cd07c8563fb821c5ee627ef869b47d6a886616809458bb7c239be540860e1d",
-        "Size": 33788
+        "Hash": "7b330ae00672bc671f0fa22228192b71140bdec99a87a3b7508b988ae3239cd7",
+        "Size": 35364
     },
     {
         "Path": "Nyx.Launcher.runtimeconfig.json",
@@ -196,7 +186,7 @@
     },
     {
         "Path": "R3Engine.ini",
-        "Hash": "ea8fe170dde94800fad506369655e90ac90d44c53029bdcbfc309a9b1b65e834",
+        "Hash": "0d2b461f45c657d04bc7ae7e8417532760a4128d3966cc4bd7eefb4e22792290",
         "Size": 448
     },
     {
@@ -236,13 +226,13 @@
     },
     {
         "Path": "System.CodeDom.dll",
-        "Hash": "be0fb6612acb0dec95ab01a47a4480114636f85c9ad3c6d13b566cc392b46ad5",
-        "Size": 183568
+        "Hash": "ef24abb359f44a7ce23ccd17a8f36ec61b89cb63ddb7af1f17a91846678da290",
+        "Size": 183592
     },
     {
         "Path": "System.Management.dll",
-        "Hash": "277da863d94c84bffe08de96aea91844e81f1ffec0487be1b46b246f35980c09",
-        "Size": 73512
+        "Hash": "9221d36daa1b6d0164bd82bdfed5c8dc9764c5a95db458542871851acf31a11d",
+        "Size": 73488
     },
     {
         "Path": "TcX2G.dll",
@@ -38548,36 +38538,6 @@
         "Path": "Character/Unit/Tex/RFSInfo.dat",
         "Hash": "a4c142572b3138ed853a4a14d5e10a167cbcc6e415cb6b46095b8d5329681c9d",
         "Size": 71
-    },
-    {
-        "Path": "cheatkiller/cheatkiller.dll",
-        "Hash": "b7bb7b91f059fade9620a809e8b60fcc0837be7fb2a9abefbddc47cc9d2bec4d",
-        "Size": 2296376
-    },
-    {
-        "Path": "cheatkiller/cheatkiller.upd",
-        "Hash": "f2a3f54888a3cc5516d0bdccd5a16a7140f271ac2ae7d98e1cd8ed467e935af7",
-        "Size": 885800
-    },
-    {
-        "Path": "cheatkiller/ck.cfg",
-        "Hash": "66bb872090c7dd5c6101e8ecde249fe09ae436b60f143108d7f5331384999803",
-        "Size": 37210
-    },
-    {
-        "Path": "cheatkiller/cversion.dll",
-        "Hash": "230e3f9ee4fc7acb487fd2ea8d93f7bf5c072d69abce5f3015baf859af1fe833",
-        "Size": 71776
-    },
-    {
-        "Path": "cheatkiller/freplace.exe",
-        "Hash": "db71a0fc494c47320ce973988014213703c4a54b5068417ff95eb0bc80422743",
-        "Size": 40960
-    },
-    {
-        "Path": "cheatkiller/pr.dll",
-        "Hash": "5d510c0444e34020479314eb035b362c1f10d0b12d9d4e657547c2657b311e3a",
-        "Size": 510432
     },
     {
         "Path": "Chef/ChefEntity0.rpk",
@@ -123760,64 +123720,14 @@
         "Size": 292
     },
     {
-        "Path": "datatable/advr.dat",
-        "Hash": "f2581fdbabecb5e0f9c481b6d97d5af5544d34b085671dcb990e3ef8aa839eb5",
-        "Size": 20104
-    },
-    {
-        "Path": "datatable/Apa.dic",
-        "Hash": "1c005afde64e42044c8783091dfcb206cb7611f917c777c75d231f0d8d740c22",
-        "Size": 1566
-    },
-    {
-        "Path": "datatable/ar.scp",
-        "Hash": "7c56fdb1da20c1370f90cb6b6d384ab6aaeb39ceed55e5c69c75d5d12d7411e9",
-        "Size": 32399
-    },
-    {
-        "Path": "datatable/as.scp",
-        "Hash": "2ae575bcf59b206abeffd49bfb0e75978a4174ae88e51ce366918ce2665d1f21",
-        "Size": 32418
-    },
-    {
-        "Path": "datatable/Aua.dic",
-        "Hash": "2eeae5496142e015de6b8e2acd965df600391793c047faa8276fac92d48436f3",
-        "Size": 1876
-    },
-    {
-        "Path": "datatable/aw.scp",
-        "Hash": "dfec8f00d89c52c06674f734114dbf899ccd8da81716f10df2b1dfd6a50df059",
-        "Size": 27530
-    },
-    {
         "Path": "datatable/BattleDungeon.edf",
         "Hash": "1d78664b4db523d2f77b52c3521bc61c2681a2058b17c6f78ca67ab041c1cbc8",
         "Size": 160353
     },
     {
-        "Path": "datatable/bf.scp",
-        "Hash": "0cb64161190bbff1ffcca20934f656f02b0a62d0b571ab661d6a59681874d1ea",
-        "Size": 27396
-    },
-    {
         "Path": "datatable/BlockData.dat",
         "Hash": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
         "Size": 4
-    },
-    {
-        "Path": "datatable/br.scp",
-        "Hash": "eb2c0bf6a9dd12a25e1762f763cb16e9a7875549647410649ddf1d860879155a",
-        "Size": 27816
-    },
-    {
-        "Path": "datatable/bs.scp",
-        "Hash": "1eb908ad5d79a3760f119f697e320b795950317d5d7034a9087a54114ff19ad4",
-        "Size": 27830
-    },
-    {
-        "Path": "datatable/bw.scp",
-        "Hash": "1a6066976d9ab58ff849f96b741c3693e6b4da2377bf4f587cceae5f2015184c",
-        "Size": 30708
     },
     {
         "Path": "datatable/CashShop.edf",
@@ -123830,39 +123740,14 @@
         "Size": 41113
     },
     {
-        "Path": "datatable/CcrLogo.dat",
-        "Hash": "b11a55c7fa09d46295571326034c909bee9c483b7dc93c435d764c0e9737a455",
-        "Size": 183
-    },
-    {
-        "Path": "datatable/cf.scp",
-        "Hash": "71ecb98d3943d2dabe477c3f3c59fde352d1c4c12ed5700feb458b1a1bd482be",
-        "Size": 27200
-    },
-    {
         "Path": "datatable/character.edf",
         "Hash": "e970c301c60e85ea65d5526453a50e0850ce60d5f0c27b93d126bef65170b92d",
         "Size": 1763029
     },
     {
-        "Path": "datatable/ChatCommand.ini",
-        "Hash": "d80154ff9d1b709690309512c8d8f9f4641c0c9dd8cf0817bce3e8c560a9c1fe",
-        "Size": 2941
-    },
-    {
-        "Path": "datatable/Class.edf",
-        "Hash": "25863aedfa1d17a1dca872cb786c526dff7c5ae130cd9fe1f27eb4036fce5eba",
-        "Size": 8729
-    },
-    {
         "Path": "datatable/clientdb.dat",
-        "Hash": "10921641f272ceae3be6b457660d678a60dce6723df0bae320dee7d1c59fdacc",
-        "Size": 272357
-    },
-    {
-        "Path": "datatable/cr.scp",
-        "Hash": "d56f50c41e6a1b08c17f77b70b738b894340aeaa5c0b3da91b68934f112abf3b",
-        "Size": 27568
+        "Hash": "daa2aaa58109dc9b7527931bcb6ae03f1e06287b2d38122cda198942f2978d70",
+        "Size": 461
     },
     {
         "Path": "datatable/cryp.dat",
@@ -123870,39 +123755,9 @@
         "Size": 38384
     },
     {
-        "Path": "datatable/cs.scp",
-        "Hash": "67247c2f3fa4c04e8f6dd1f9dfeceffec49ee4f88fe10526a37a1279522fb40f",
-        "Size": 25839
-    },
-    {
-        "Path": "datatable/Csia.txt",
-        "Hash": "66bfb77459fae9738a87d56ca2cf8c14f81a8b939bc3a696b0f2b00e99e96290",
-        "Size": 2265
-    },
-    {
-        "Path": "datatable/Cska.txt",
-        "Hash": "91e98810f3d7acc67f773ed77eac082fa961b1a1e9e79a83f65b9b5c9c5162ad",
-        "Size": 2652
-    },
-    {
-        "Path": "datatable/Cspa.txt",
-        "Hash": "3bd7e0a5c5d32f2fc2b64e514ae940f83c534dd66b8e46266bb0954cb4b319bf",
-        "Size": 2265
-    },
-    {
-        "Path": "datatable/Csua.txt",
-        "Hash": "e057d47ac90e6b195364b6e156f1fbce7b4a4da3dd12552a6a86e9b42545b556",
-        "Size": 2313
-    },
-    {
         "Path": "datatable/Csxx.txt",
         "Hash": "3bd7e0a5c5d32f2fc2b64e514ae940f83c534dd66b8e46266bb0954cb4b319bf",
         "Size": 2265
-    },
-    {
-        "Path": "datatable/cw.scp",
-        "Hash": "7d76b3d3e305d549e3b0e32f858d33e7d54a28ed577cdb4e5c8a132e01ef1a8b",
-        "Size": 26165
     },
     {
         "Path": "datatable/EventDrop.edf",
@@ -123925,21 +123780,6 @@
         "Size": 8181
     },
     {
-        "Path": "datatable/Exp.edf",
-        "Hash": "ecfb03d519cb1cb99bd89f1584b0328bcc65b39e145e213d8b74d32defb067ea",
-        "Size": 13561
-    },
-    {
-        "Path": "datatable/FG_CB.ini",
-        "Hash": "4e54ff80ed79b847448e78d311a9123bc954edbcff4614d6759cc62207891125",
-        "Size": 42
-    },
-    {
-        "Path": "datatable/font.ini",
-        "Hash": "bbb0d64f19be9a2c0d4245e9929b9996e82771aca92f0169a77c7708da6435fc",
-        "Size": 25
-    },
-    {
         "Path": "datatable/GameData.edf",
         "Hash": "77d57aabf7af8b41ef4d50d22cece0cb7e9b3d4c0b39d4c7c09a42f4480fbcf5",
         "Size": 52554
@@ -123953,11 +123793,6 @@
         "Path": "datatable/Hint.edf",
         "Hash": "338cd0a790d6dd13660bf547ead08e9bec7c79899f836991de901f19b7e64bf3",
         "Size": 293
-    },
-    {
-        "Path": "datatable/Ipa.dic",
-        "Hash": "586d82bda568b2d43da9fced99dd76c1c2941ccad985143b98c7feb198d1bd79",
-        "Size": 3314
     },
     {
         "Path": "datatable/item.edf",
@@ -124015,11 +123850,6 @@
         "Size": 2085
     },
     {
-        "Path": "datatable/KillCount_TimeAttack.xml",
-        "Hash": "70702753a973716a71f186bb844e4989ec98999f5d8a98307c1888881a38679a",
-        "Size": 1302
-    },
-    {
         "Path": "datatable/langeng.edf",
         "Hash": "141ecaa29352d29d2a8c33361cca8a0029c5b2b9bcb0a67813560b6c3a924f97",
         "Size": 109836
@@ -124043,11 +123873,6 @@
         "Path": "datatable/language.pak",
         "Hash": "63680ccc8ba188a81ef8b7846a8de31052d0f4d3bd07d1200cde30d6d5f3dacd",
         "Size": 2127673
-    },
-    {
-        "Path": "datatable/LauncherMessage.ini",
-        "Hash": "1f56835a40b1834a4b2d97f2868479baba739f3b58999e4e11089c2cc3aacb0e",
-        "Size": 9230
     },
     {
         "Path": "datatable/Map.edf",
@@ -124093,11 +123918,6 @@
         "Path": "datatable/playercharacter.edf",
         "Hash": "9162f24de4ae51ec4b2f4464976a40b7b2f196997f035e45f8bbd5452bc4143e",
         "Size": 657
-    },
-    {
-        "Path": "datatable/Policy.txt",
-        "Hash": "15f52773b14f9fe9de424e2fb0818e9e9e14b08ae4507912b79bda8d13657933",
-        "Size": 208
     },
     {
         "Path": "datatable/quest.edf",
@@ -124155,19 +123975,9 @@
         "Size": 737
     },
     {
-        "Path": "datatable/Tutorial.scp",
-        "Hash": "2474c40668da9cebbdf3c0328914ba0500d84115500a232347bdef7c2a5336fe",
-        "Size": 4742
-    },
-    {
         "Path": "datatable/UIHelp.edf",
         "Hash": "0c7d1812b912fd495bec15225020a91e395e65897f090fc9da5730fc03cca5c1",
         "Size": 509
-    },
-    {
-        "Path": "datatable/WorldMapData.dat",
-        "Hash": "b62bbbf6e69e4df5689a07a8ca857e2975e83c605075b0404b561b20e412c5a3",
-        "Size": 8193
     },
     {
         "Path": "datatable/en-ph/ACDC.dat",
@@ -124263,6 +124073,11 @@
         "Path": "datatable/en-ph/ChatCommand.ini",
         "Hash": "d80154ff9d1b709690309512c8d8f9f4641c0c9dd8cf0817bce3e8c560a9c1fe",
         "Size": 2941
+    },
+    {
+        "Path": "datatable/en-ph/Class.edf",
+        "Hash": "25863aedfa1d17a1dca872cb786c526dff7c5ae130cd9fe1f27eb4036fce5eba",
+        "Size": 8729
     },
     {
         "Path": "datatable/en-ph/cr.scp",
@@ -156406,8 +156221,8 @@
     },
     {
         "Path": "NetLog/rfclient.dmp",
-        "Hash": "7daa808f6609fb21da833248bf6760f4853b10e5b39f84b03cc60751e50e2354",
-        "Size": 71903
+        "Hash": "b1d279d2eac7b61655624da742c7ba3c42925d0c1bb5004f6eede0e86ea66ee4",
+        "Size": 71906
     },
     {
         "Path": "Redist/dxwebsetup.exe",
@@ -156426,7 +156241,7 @@
     },
     {
         "Path": "runtimes/win/lib/net8.0/System.Management.dll",
-        "Hash": "c7d977c7daa173940461995bb233a1fb3cc1f5d40602655355e011f85cf83a3d",
+        "Hash": "57b25e81bb905976257c47e5ccf640c0decb52fc13d92587e4cd156c520dd46b",
         "Size": 312600
     },
     {
@@ -158205,11 +158020,6 @@
         "Size": 3516419
     },
     {
-        "Path": "Snd/Bgm/Stargazer_Mix_5_Master.mp3",
-        "Hash": "3b7559945461a6c32b710ebd6a9fb044ac677503a4eb1bcd0b09428c8724530a",
-        "Size": 10611266
-    },
-    {
         "Path": "Snd/Bgm/Thumbs.db",
         "Hash": "0d00b078be98284c8216571a3d59f7a3eb21c540ebfba8bae938b0cfbc62a60a",
         "Size": 3072
@@ -158253,16 +158063,6 @@
         "Path": "Snd/Bgm/Untitle_00.mp3",
         "Hash": "a663b66bf106d689de6f33ecaa85655a78b7ecd824aff9f9b72da2a198b30c7e",
         "Size": 3072964
-    },
-    {
-        "Path": "Snd/Bgm/Backup/Track01.mp3",
-        "Hash": "bea2728490d1f2aba89b793297a277372b6a9d559418be0e6d1a370aa0b2d07c",
-        "Size": 9572452
-    },
-    {
-        "Path": "Snd/Bgm/Backup/Track02.mp3",
-        "Hash": "80be45e87d955add872617195d766fb9e88f2e69c1763580274ff99e7695eb93",
-        "Size": 5742229
     },
     {
         "Path": "Snd/bullet/Cross_00.wav",
@@ -182721,7 +182521,7 @@
     },
     {
         "Path": "SpriteImage/en-ph/item.spr",
-        "Hash": "bd2af380c79b6779531754ce0dd852f714b3dfb6d406fd0125ea0322adf86269",
+        "Hash": "67d8f1d46db56d52196667d782069e419dad1607259b46196a1a3996754c2d9f",
         "Size": 56574924
     },
     {
@@ -182771,7 +182571,7 @@
     },
     {
         "Path": "System/DefaultSet.tmp",
-        "Hash": "02626e64fa64a4265300084b5cf14f7c529ca44ddf1722f008206a2de88047cb",
+        "Hash": "c24015f0fc6874e39aaa63ed010981f8cf591f5778eb12c1dea702bff6e64ea5",
         "Size": 93
     },
     {
