@@ -11,6 +11,7 @@
     "FilesBaseUrl": "https://download.official-rflumerion.com",
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.com/invite/q9sp6v86ee",
+    "NyxReferenceUrl": "https://nyx-dev.my.id",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
     "PatchDirectories": ["."],
     "ExcludeItems": [
