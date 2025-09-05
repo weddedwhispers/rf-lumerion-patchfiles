@@ -8,7 +8,7 @@
   },
   "LauncherSettings": {
     "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/manifest.json",
-    "FilesBaseUrl": "http://download.official-rflumerion.com",
+    "FilesBaseUrl": "https://download.official-rflumerion.com",
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.com/invite/q9sp6v86ee",
     "ApiUrl": "https://rf-lumerion-backend.onrender.com/api/articles?limit=10",
@@ -33,7 +33,7 @@
   },
   "UpdaterSettings": {
     "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/launcher_manifest.json",
-    "FilesBaseUrl": "http://download.official-rflumerion.com",
+    "FilesBaseUrl": "https://download.official-rflumerion.com",
     "MainLauncherExe": "Nyx.Launcher.exe"
   },
   "AutoUpdate": true
