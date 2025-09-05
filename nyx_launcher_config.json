@@ -36,5 +36,5 @@
     "FilesBaseUrl": "http://download.official-rflumerion.com",
     "MainLauncherExe": "Nyx.Launcher.exe"
   },
-  "AutoUpdate": true
+  "AutoUpdate": false
 }
