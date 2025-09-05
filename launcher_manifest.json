@@ -21,13 +21,13 @@
     },
     {
         "Path":  "Nyx.Launcher.deps.json",
-        "Hash":  "bf6a704f12999ad4ede09eefa49bfbf48103c7b216dd83b8ff19b9b38cc067bd",
+        "Hash":  "670df1956b84cb83cae3d6b434b3007f69e5b4778594c69baa525190031dfea2",
         "Size":  5840
     },
     {
         "Path":  "Nyx.Launcher.dll",
-        "Hash":  "a39732999ff14dc83289ac498061318a2cd799eb837fc068635cfd0159ccff4a",
-        "Size":  16589824
+        "Hash":  "4f6c9f20d549105168f73c316411c047c388164489469714d98bfd27bd3d4f6c",
+        "Size":  16596992
     },
     {
         "Path":  "Nyx.Launcher.exe",
@@ -36,8 +36,8 @@
     },
     {
         "Path":  "Nyx.Launcher.pdb",
-        "Hash":  "02cd07c8563fb821c5ee627ef869b47d6a886616809458bb7c239be540860e1d",
-        "Size":  33788
+        "Hash":  "7b330ae00672bc671f0fa22228192b71140bdec99a87a3b7508b988ae3239cd7",
+        "Size":  35364
     },
     {
         "Path":  "Nyx.Launcher.runtimeconfig.json",
@@ -56,17 +56,17 @@
     },
     {
         "Path":  "System.CodeDom.dll",
-        "Hash":  "be0fb6612acb0dec95ab01a47a4480114636f85c9ad3c6d13b566cc392b46ad5",
-        "Size":  183568
+        "Hash":  "ef24abb359f44a7ce23ccd17a8f36ec61b89cb63ddb7af1f17a91846678da290",
+        "Size":  183592
     },
     {
         "Path":  "System.Management.dll",
-        "Hash":  "277da863d94c84bffe08de96aea91844e81f1ffec0487be1b46b246f35980c09",
-        "Size":  73512
+        "Hash":  "9221d36daa1b6d0164bd82bdfed5c8dc9764c5a95db458542871851acf31a11d",
+        "Size":  73488
     },
     {
         "Path":  "runtimes/win/lib/net8.0/System.Management.dll",
-        "Hash":  "c7d977c7daa173940461995bb233a1fb3cc1f5d40602655355e011f85cf83a3d",
+        "Hash":  "57b25e81bb905976257c47e5ccf640c0decb52fc13d92587e4cd156c520dd46b",
         "Size":  312600
     }
 ]
