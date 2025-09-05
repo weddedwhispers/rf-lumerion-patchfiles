@@ -1,8 +1,8 @@
 {
   "GameSettings": {
-    "LoginAddr": "103.180.124.5",
+    "LoginAddr": "game.official-rflumerion.com",
     "LoginPort": 10001,
-    "ZoneAddr": "103.180.124.5",
+    "ZoneAddr": "game.official-rflumerion.com",
     "ZonePort": 27780,
     "Nation": 6
   },
