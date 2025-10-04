@@ -7,7 +7,7 @@
     "Nation": 6
   },
   "LauncherSettings": {
-    "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-lumerion-patchfiles/main/manifest.json",
+    "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-online-launcher/main/rf-fun-server/manifest.json",
     "FilesBaseUrl": "https://download.official-rflumerion.com",
     "WebsiteUrl": "https://www.official-rflumerion.com",
     "DiscordUrl": "https://discord.com/invite/q9sp6v86ee",
